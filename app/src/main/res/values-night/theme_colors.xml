@@ -1,5 +1,0 @@
-<resources>
-    <style name="ThemeColor_white" parent="">
-        <item name="android:colorAccent">#F4F7FC</item>
-    </style>
-</resources>

@@ -1,0 +1,42 @@
+Ricorda — Politique de confidentialité
+Dernière mise à jour : 10 octobre 2026
+Application Android : Ricorda · Identifiant : com.fabio.ricorda
+
+Vos rappels restent sur votre appareil. Ricorda fonctionne sans compte et n’envoie au développeur ni rappels, ni notes, ni données d’utilisation. L’application ne contient aucune publicité ni aucun outil d’analyse ou de suivi.
+
+1. Développeur et contact
+Ricorda est développée par Fabio Avitabile. Pour toute question relative à la confidentialité, demande d’assistance ou autre demande, écrivez à fabiocorby@gmail.com. Fabio Avitabile est responsable des traitements décrits ici qui relèvent du développeur, notamment la gestion des demandes d’assistance.
+
+2. Données utilisées par l’application
+Ricorda enregistre dans l’espace de stockage privé de l’application les informations que vous saisissez : titres et notes des rappels, dates, heures, répétitions et autres options. Elle conserve également vos préférences de langue, d’apparence, de police, de sons, de volume, de vibration, de notifications et, lorsque cette fonction est disponible, de saint du jour. Des identifiants locaux permettent de distinguer les rappels et de gérer les alertes.
+Ces données servent à afficher et rechercher vos engagements, programmer les notifications et alarmes, afficher les widgets et mémoriser vos choix. Le calendrier et les fonctions liées aux saints utilisent des données incluses dans l’application. Ricorda ne lit ni vos contacts ni le calendrier du système, ne recueille pas votre position, vos photos ou des enregistrements audio et n’accède pas aux identifiants publicitaires.
+
+3. Liens et partage
+L’application ne dispose pas de l’autorisation d’accéder à Internet et ne transmet pas automatiquement ses données aux serveurs du développeur ni à des services publicitaires ou d’analyse. Elle ne propose ni compte ni synchronisation en ligne.
+Les liens web vers cette politique s’ouvrent dans le navigateur de votre appareil. Si vous envoyez un e-mail, celui-ci est traité par l’application de messagerie que vous choisissez. Ces applications et leurs fournisseurs appliquent leurs propres politiques de confidentialité.
+
+4. Notifications, alarmes et autorisations Android
+Ricorda utilise les autorisations Android pour afficher les notifications, programmer des alarmes exactes, afficher l’écran de l’alarme lorsque cela est autorisé, émettre des sons et vibrer. Elle peut maintenir temporairement l’appareil actif pendant une alerte et reprogrammer les alertes après un redémarrage.
+Vous pouvez gérer ces autorisations dans les paramètres Android ; leur désactivation peut limiter les alertes. Les titres et notes peuvent apparaître dans les notifications, sur l’écran de l’alarme et dans les widgets. Leur visibilité sur l’écran verrouillé dépend aussi des paramètres du téléphone : choisissez ceux qui conviennent au caractère privé de vos rappels.
+
+5. Exportation et importation des sauvegardes
+Uniquement à votre demande, Ricorda exporte un fichier JSON vers l’emplacement choisi avec le sélecteur de fichiers Android. La sauvegarde contient les rappels, y compris ceux de la corbeille, et leurs options. Elle comprend aussi des informations sur la sauvegarde, telles que sa date et son heure de création, la marque et le modèle de l’appareil et un identifiant aléatoire de l’installation permettant d’en reconnaître l’origine. Des références aux sons peuvent être incluses ; les fichiers audio ne sont pas copiés dans la sauvegarde.
+L’application ne chiffre pas les fichiers de sauvegarde. Toute personne pouvant les lire peut accéder à leur contenu. Si vous choisissez un service de stockage en ligne, ce fournisseur traite le fichier selon ses conditions et sa politique de confidentialité ; Ricorda ne l’envoie pas au développeur. L’importation lit le fichier que vous sélectionnez pour restaurer ou fusionner les rappels.
+
+6. Conservation, suppression et sécurité
+Les données restent dans l’espace de stockage privé de l’application tant que vous l’utilisez ou jusqu’à leur effacement via Android. Déplacer un rappel dans la corbeille le conserve pour permettre sa récupération ; cela ne le supprime pas définitivement.
+Pour supprimer toutes les données locales de Ricorda, utilisez la fonction d’effacement des données de l’application dans les paramètres Android ou désinstallez l’application. Les sauvegardes exportées restent aux emplacements choisis et doivent être supprimées séparément, y compris dans les services de stockage en ligne.
+Ricorda utilise l’isolation du stockage privé fournie par Android et désactive la sauvegarde automatique de l’application. Elle n’ajoute pas de chiffrement propre aux données enregistrées ou aux fichiers exportés. La protection dépend aussi du verrouillage de l’écran, de la sécurité de l’appareil et de la manière dont vous conservez les sauvegardes. Le développeur ne peut pas accéder à vos rappels locaux ni les récupérer ou les supprimer à distance.
+
+7. Assistance et droits
+Si vous écrivez au contact indiqué, vous partagez volontairement votre adresse e-mail et le contenu du message. Ces données servent à vous répondre et à traiter votre demande, afin de fournir l’assistance sollicitée et, le cas échéant, de respecter les obligations légales. Elles sont conservées pendant la durée nécessaire au traitement de la demande et aux obligations applicables. Évitez d’envoyer des rappels ou des sauvegardes contenant des informations inutiles à l’assistance.
+Pour les données éventuellement reçues par le développeur, vous pouvez demander l’accès, la rectification, l’effacement, la limitation du traitement et la portabilité, ainsi que vous opposer au traitement, dans les cas prévus par la réglementation applicable, en écrivant à fabiocorby@gmail.com. Vous pouvez également saisir l’autorité de contrôle compétente ; en Italie, le Garante per la protezione dei dati personali. Pour les données qui restent uniquement sur le téléphone, utilisez les fonctions de l’application et d’Android décrites ci-dessus.
+
+8. Page web de cette politique
+La page ne contient aucune publicité, aucun formulaire de collecte de données ni aucun outil d’analyse ajouté par le développeur. Elle est hébergée via Sites : l’hébergeur peut traiter des données techniques de visite, telles que l’adresse IP, les informations du navigateur et les journaux d’accès, pour fournir et protéger le service, conformément à sa politique de confidentialité : https://openai.com/policies/privacy-policy/
+La visite de cette page ne transmet pas les rappels enregistrés dans l’application.
+
+9. Mise à jour de la politique
+Cette politique concerne les fonctions décrites de Ricorda. Toute modification du traitement des données sera indiquée dans la politique en actualisant la date figurant en haut.
+
+Ricorda · Fabio Avitabile · fabiocorby@gmail.com

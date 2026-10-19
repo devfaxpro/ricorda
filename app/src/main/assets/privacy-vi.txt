@@ -1,0 +1,46 @@
+Ricorda
+
+Chính sách quyền riêng tư
+Cập nhật lần cuối: 10 tháng 10 năm 2026 · Ứng dụng Android Ricorda
+Gói ứng dụng: com.fabio.ricorda
+
+Lời nhắc của bạn luôn ở trên thiết bị của bạn.
+Ricorda hoạt động không cần tài khoản và không gửi lời nhắc, ghi chú hay dữ liệu sử dụng cho nhà phát triển. Ứng dụng không có quảng cáo, công cụ phân tích hoặc theo dõi.
+
+1. Nhà phát triển và liên hệ
+Ricorda do Fabio Avitabile phát triển. Với câu hỏi về quyền riêng tư, hỗ trợ hoặc yêu cầu khác, hãy gửi thư đến fabiocorby@gmail.com. Fabio Avitabile là người chịu trách nhiệm đối với hoạt động xử lý được mô tả trong chính sách này thuộc phạm vi của nhà phát triển, chẳng hạn xử lý yêu cầu hỗ trợ.
+
+2. Dữ liệu ứng dụng sử dụng
+Ricorda lưu dữ liệu bạn nhập trong bộ nhớ riêng của ứng dụng: tiêu đề và ghi chú lời nhắc, ngày, giờ, lịch lặp và các tùy chọn khác. Ứng dụng cũng lưu lựa chọn ngôn ngữ, giao diện, phông chữ, âm thanh, âm lượng, rung, thông báo và vị thánh trong ngày khi có. Mã định danh cục bộ dùng để phân biệt lời nhắc và quản lý cảnh báo.
+Dữ liệu này dùng để hiển thị, tìm kiếm công việc, lên lịch thông báo và báo thức, hiển thị tiện ích và ghi nhớ lựa chọn của bạn. Tính năng lịch và các vị thánh dùng dữ liệu có sẵn trong ứng dụng. Ricorda không đọc danh bạ hoặc lịch hệ thống, không thu thập vị trí, ảnh, bản ghi âm hay mã định danh quảng cáo.
+
+3. Liên kết và chia sẻ
+Ứng dụng không có quyền truy cập Internet và không tự động truyền dữ liệu đến máy chủ của nhà phát triển hoặc dịch vụ quảng cáo, phân tích. Không có tài khoản hay đồng bộ trực tuyến.
+Khi mở liên kết chính sách này, trình duyệt trên thiết bị sẽ xử lý. Nếu gửi email, ứng dụng thư bạn chọn sẽ thực hiện việc gửi. Các ứng dụng và nhà cung cấp đó hoạt động theo chính sách quyền riêng tư riêng.
+
+4. Thông báo, báo thức và quyền Android
+Ricorda dùng quyền Android để hiển thị thông báo, lên lịch báo thức chính xác, hiển thị màn hình báo thức khi được phép, phát âm thanh và rung. Ứng dụng có thể tạm giữ thiết bị hoạt động khi cảnh báo và lên lịch lại cảnh báo sau khi khởi động lại.
+Bạn quản lý các quyền trong cài đặt Android; tắt quyền có thể hạn chế cảnh báo. Tiêu đề và ghi chú có thể xuất hiện trong thông báo, màn hình báo thức và tiện ích. Việc hiển thị trên màn hình khóa còn tùy thuộc cài đặt điện thoại: hãy chọn mức phù hợp với tính riêng tư của lời nhắc.
+
+5. Xuất và nhập bản sao lưu
+Chỉ khi bạn yêu cầu, Ricorda mới xuất tệp JSON đến vị trí bạn chọn bằng trình chọn tệp Android. Bản sao lưu chứa lời nhắc, gồm cả trong thùng rác, cùng các tùy chọn; cũng chứa thông tin bản sao lưu như ngày giờ tạo, hãng và mẫu thiết bị, mã định danh cài đặt ngẫu nhiên dùng để nhận biết nguồn gốc. Có thể kèm tham chiếu âm thanh nhưng không sao chép tệp âm thanh vào bản sao lưu.
+Ứng dụng không mã hóa tệp sao lưu. Ai đọc được tệp có thể truy cập nội dung. Nếu chọn dịch vụ đám mây, nhà cung cấp đó quản lý tệp theo điều khoản và chính sách quyền riêng tư của họ; Ricorda không gửi tệp cho nhà phát triển. Việc nhập đọc tệp bạn chọn để khôi phục hoặc hợp nhất lời nhắc.
+
+6. Lưu giữ, xóa và bảo mật
+Dữ liệu ở trong bộ nhớ riêng của ứng dụng khi bạn sử dụng hoặc cho đến khi bạn xóa qua Android. Chuyển lời nhắc vào thùng rác vẫn giữ dữ liệu để khôi phục, không phải xóa vĩnh viễn.
+Để xóa tất cả dữ liệu cục bộ của Ricorda, dùng chức năng xóa dữ liệu ứng dụng trong cài đặt Android hoặc gỡ ứng dụng. Bản sao lưu đã xuất vẫn ở vị trí bạn chọn và cần xóa riêng, kể cả trên dịch vụ đám mây.
+Ricorda dùng cơ chế cách ly bộ nhớ riêng của Android và tắt sao lưu tự động cho ứng dụng. Ứng dụng không bổ sung cơ chế mã hóa riêng cho dữ liệu hoặc tệp xuất. Mức bảo vệ cũng tùy thuộc khóa màn hình, bảo mật thiết bị và cách lưu bản sao lưu. Nhà phát triển không thể truy cập lời nhắc cục bộ, khôi phục hay xóa từ xa.
+
+7. Yêu cầu hỗ trợ và quyền của bạn
+Khi viết thư đến địa chỉ liên hệ, bạn tự nguyện chia sẻ địa chỉ email và nội dung tin nhắn. Dữ liệu dùng để trả lời và xử lý yêu cầu, dựa trên nhu cầu cung cấp hỗ trợ bạn yêu cầu và tuân thủ nghĩa vụ pháp luật khi áp dụng. Dữ liệu được giữ trong thời gian cần thiết để xử lý yêu cầu và các nghĩa vụ liên quan. Tránh gửi lời nhắc hoặc bản sao lưu có thông tin không cần thiết cho hỗ trợ.
+Với dữ liệu nhà phát triển có thể đã nhận, bạn có thể yêu cầu truy cập, sửa, xóa, hạn chế, phản đối và chuyển dữ liệu trong các trường hợp pháp luật áp dụng cho phép bằng cách gửi thư đến fabiocorby@gmail.com. Bạn cũng có thể liên hệ cơ quan giám sát có thẩm quyền, tại Ý là Garante per la protezione dei dati personali. Với dữ liệu chỉ nằm trên điện thoại, hãy dùng các chức năng ứng dụng và Android đã nêu.
+
+8. Trang web này
+Trang không tích hợp quảng cáo, biểu mẫu thu thập dữ liệu hay công cụ phân tích do nhà phát triển thêm. Trang được lưu trữ qua Sites. Nhà cung cấp lưu trữ có thể xử lý dữ liệu kỹ thuật của lượt truy cập, như địa chỉ IP, thông tin trình duyệt và nhật ký truy cập, để cung cấp và bảo vệ dịch vụ theo chính sách quyền riêng tư của họ. Truy cập trang không gửi lời nhắc được lưu trong ứng dụng.
+
+Chính sách quyền riêng tư của nhà cung cấp lưu trữ: https://openai.com/policies/privacy-policy/
+
+9. Cập nhật chính sách
+Chính sách áp dụng cho các chức năng Ricorda được mô tả. Thay đổi về xử lý dữ liệu sẽ được đăng trên trang này và cập nhật ngày ở đầu trang.
+
+Ricorda · Fabio Avitabile · fabiocorby@gmail.com

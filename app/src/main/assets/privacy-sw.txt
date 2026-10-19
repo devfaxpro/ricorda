@@ -1,0 +1,46 @@
+Ricorda
+
+Sera ya faragha
+Ilisasishwa: 10 Oktoba 2026 · Programu ya Android Ricorda
+Kifurushi: com.fabio.ricorda
+
+Vikumbusho vyako hubaki kwenye kifaa chako.
+Ricorda hufanya kazi bila akaunti na haitumi vikumbusho, madokezo au data ya matumizi kwa msanidi programu. Haina matangazo wala zana za uchanganuzi au ufuatiliaji.
+
+1. Msanidi programu na mawasiliano
+Ricorda imetengenezwa na Fabio Avitabile. Kwa maswali ya faragha, usaidizi au maombi mengine, andika kwa fabiocorby@gmail.com. Fabio Avitabile anawajibika kwa uchakataji ulioelezwa hapa unaofanywa na msanidi programu, kama kushughulikia maombi ya usaidizi.
+
+2. Data inayotumiwa na programu
+Ricorda huhifadhi data unayoingiza katika hifadhi binafsi ya programu: vichwa na madokezo ya vikumbusho, tarehe, saa, marudio na machaguo mengine. Pia huhifadhi mapendeleo ya lugha, mwonekano, fonti, sauti, kiwango cha sauti, mtetemo, arifa na mtakatifu wa siku anapopatikana. Vitambulishi vya ndani hutofautisha vikumbusho na kudhibiti arifa.
+Data hutumika kuonyesha na kutafuta shughuli zako, kuratibu arifa na kengele, kuonyesha wijeti na kukumbuka machaguo yako. Kalenda na watakatifu hutumia data iliyo ndani ya programu. Ricorda haisomi anwani za mawasiliano au kalenda ya mfumo, wala haikusanyi mahali ulipo, picha, rekodi za sauti au vitambulishi vya matangazo.
+
+3. Viungo na kushiriki
+Programu haina ruhusa ya kufikia Intaneti na haitumi data yake kiotomatiki kwa seva za msanidi au huduma za matangazo na uchanganuzi. Haitoi akaunti au usawazishaji mtandaoni.
+Unapofungua kiungo cha sera hii, kivinjari cha kifaa hukishughulikia. Ukituma barua pepe, programu ya barua pepe unayochagua ndiyo inayotuma. Programu hizo na watoa huduma wao hufuata sera zao za faragha.
+
+4. Arifa, kengele na ruhusa za Android
+Ricorda hutumia ruhusa za Android kuonyesha arifa, kuratibu kengele kwa wakati kamili, kuonyesha skrini ya kengele inaporuhusiwa, kucheza sauti na kutetemesha kifaa. Inaweza kukiweka kifaa kikiwa hai kwa muda wakati wa arifa na kuratibu arifa upya baada ya kuwasha kifaa upya.
+Unaweza kudhibiti ruhusa katika mipangilio ya Android; kuzizima kunaweza kuzuia arifa. Vichwa na madokezo yanaweza kuonekana kwenye arifa, skrini ya kengele na wijeti. Kuonekana kwenye skrini iliyofungwa pia hutegemea mipangilio ya simu: chagua inayoendana na usiri wa vikumbusho vyako.
+
+5. Kuhamisha na kuingiza nakala rudufu
+Kwa ombi lako tu, Ricorda huhamisha faili la JSON mahali unapochagua kwa kichaguzi cha faili cha Android. Nakala ina vikumbusho, pamoja na vilivyo kwenye taka, na machaguo yake. Pia ina taarifa za nakala kama tarehe na saa ya kuundwa, chapa na modeli ya kifaa, na kitambulishi cha usakinishaji cha nasibu kinachotambua chanzo. Marejeleo ya sauti yanaweza kujumuishwa, lakini faili za sauti hazinakiliwi katika nakala rudufu.
+Programu haisimbi faili la nakala rudufu. Anayeweza kulisoma anaweza kufikia data yake. Ukichagua huduma ya wingu, mtoa huduma huyo hushughulikia faili kwa masharti na sera yake ya faragha; Ricorda hailitumi kwa msanidi. Uingizaji husoma faili unalochagua kurejesha au kuunganisha vikumbusho.
+
+6. Uhifadhi, ufutaji na usalama
+Data hubaki katika hifadhi binafsi ya programu wakati unaitumia au mpaka uifute kupitia Android. Kuhamisha kikumbusho kwenye taka hukihifadhi ili kirejeshwe; hakukifuti kabisa.
+Kufuta data yote ya ndani ya Ricorda, tumia kufuta data ya programu katika mipangilio ya Android au ondoa programu. Nakala zilizohamishwa hubaki mahali ulipochagua na lazima zifutwe tofauti, pia kutoka huduma za wingu.
+Ricorda hutumia utenganishaji wa hifadhi binafsi wa Android na huzima nakala rudufu ya kiotomatiki ya programu. Haiongezi usimbaji wake kwa data au faili zilizohamishwa. Ulinzi pia hutegemea kufunga skrini, usalama wa kifaa na namna unavyohifadhi nakala. Msanidi hawezi kufikia vikumbusho vyako vya ndani, kuvirejesha au kuvifuta kwa mbali.
+
+7. Maombi ya usaidizi na haki
+Ukiandika kwa anwani iliyotajwa, unashiriki kwa hiari anwani yako ya barua pepe na maudhui ya ujumbe. Data hutumika kukujibu na kushughulikia ombi, kwa msingi wa hitaji la kutoa usaidizi ulioomba na, inapohusika, kutimiza wajibu wa kisheria. Huhifadhiwa kwa muda unaohitajika kushughulikia ombi na wajibu husika. Epuka kutuma vikumbusho au nakala zenye taarifa zisizohitajika kwa usaidizi.
+Kwa data yoyote ambayo msanidi amepokea, unaweza kuomba ufikiaji, marekebisho, kufutwa, kuwekewa mipaka, kupinga na kuhamishwa kwa data katika hali zinazoruhusiwa na sheria husika, kwa kuandika kwa fabiocorby@gmail.com. Unaweza pia kuwasiliana na mamlaka husika ya usimamizi, ambayo nchini Italia ni Garante per la protezione dei dati personali. Kwa data iliyobaki kwenye simu pekee, tumia kazi za programu na Android zilizoelezwa hapo juu.
+
+8. Ukurasa huu wa wavuti
+Ukurasa huu hauna matangazo, fomu za kukusanya data au zana za uchanganuzi zilizoongezwa na msanidi. Umehifadhiwa kupitia Sites. Mtoa huduma ya uhifadhi anaweza kuchakata data za kiufundi za ziara, kama anwani ya IP, taarifa za kivinjari na kumbukumbu za ufikiaji, ili kutoa na kulinda huduma kulingana na sera yake ya faragha. Kutembelea ukurasa hakutumi vikumbusho vilivyohifadhiwa kwenye programu.
+
+Sera ya faragha ya mtoa huduma ya uhifadhi: https://openai.com/policies/privacy-policy/
+
+9. Mabadiliko ya sera
+Sera hii inahusu kazi za Ricorda zilizoelezwa. Mabadiliko yoyote ya uchakataji wa data yataelezwa kwenye ukurasa huu kwa kusasisha tarehe iliyo juu.
+
+Ricorda · Fabio Avitabile · fabiocorby@gmail.com

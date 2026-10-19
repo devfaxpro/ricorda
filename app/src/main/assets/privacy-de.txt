@@ -1,0 +1,42 @@
+Ricorda — Datenschutzerklärung
+Stand: 10. Oktober 2026
+Android-App: Ricorda · Paketname: com.fabio.ricorda
+
+Deine Erinnerungen bleiben auf deinem Gerät. Ricorda funktioniert ohne Benutzerkonto und sendet keine Erinnerungen, Notizen oder Nutzungsdaten an den Entwickler. Die App enthält weder Werbung noch Analyse- oder Trackingwerkzeuge.
+
+1. Entwickler und Kontakt
+Ricorda wird von Fabio Avitabile entwickelt. Bei Fragen zum Datenschutz, für Unterstützung und sonstige Anliegen schreibe an fabiocorby@gmail.com. Fabio Avitabile ist für die hier beschriebenen Datenverarbeitungen verantwortlich, die durch den Entwickler erfolgen, beispielsweise die Bearbeitung von Supportanfragen.
+
+2. Von der App verwendete Daten
+Ricorda speichert deine Eingaben im privaten Speicher der App: Titel und Notizen von Erinnerungen, Datum, Uhrzeit, Wiederholungen und weitere Optionen. Außerdem werden deine Einstellungen für Sprache, Aussehen, Schrift, Töne, Lautstärke, Vibration, Benachrichtigungen und gegebenenfalls den Heiligen des Tages gespeichert. Lokale Kennungen unterscheiden die Erinnerungen und dienen zur Verwaltung der Hinweise.
+Die Daten werden benötigt, um deine Termine anzuzeigen und zu durchsuchen, Benachrichtigungen und Wecker zu planen, Widgets anzuzeigen und deine Einstellungen beizubehalten. Kalender und Heiligenfunktionen verwenden Daten, die in der App enthalten sind. Ricorda liest weder Kontakte noch den Systemkalender, erfasst weder Standort noch Fotos oder Audioaufnahmen und greift nicht auf Werbekennungen zu.
+
+3. Links und Weitergabe
+Die App hat keine Berechtigung für den Internetzugriff und übermittelt ihre Daten nicht automatisch an Server des Entwicklers oder an Werbe- und Analysedienste. Sie bietet weder Benutzerkonten noch Online-Synchronisierung.
+Weblinks zu dieser Erklärung werden im Browser deines Geräts geöffnet. Wenn du eine E-Mail sendest, erfolgt dies über die von dir gewählte E-Mail-App. Für diese Anwendungen und ihre Anbieter gelten deren eigene Datenschutzerklärungen.
+
+4. Benachrichtigungen, Wecker und Android-Berechtigungen
+Ricorda verwendet Android-Berechtigungen, um Benachrichtigungen anzuzeigen, genaue Wecker zu planen, den Weckerbildschirm bei entsprechender Erlaubnis anzuzeigen sowie Töne abzuspielen und Vibration auszulösen. Während eines Hinweises kann die App das Gerät vorübergehend aktiv halten und nach einem Neustart die Hinweise erneut planen.
+Du kannst die Berechtigungen in den Android-Einstellungen verwalten. Ihr Entzug kann Hinweise einschränken. Titel und Notizen können in Benachrichtigungen, auf dem Weckerbildschirm und in Widgets erscheinen. Die Sichtbarkeit auf dem Sperrbildschirm hängt auch von den Telefoneinstellungen ab. Wähle Einstellungen, die zum vertraulichen Inhalt deiner Erinnerungen passen.
+
+5. Sicherungen exportieren und importieren
+Nur auf deine Anforderung exportiert Ricorda eine JSON-Datei an den Speicherort, den du über die Android-Dateiauswahl bestimmst. Die Sicherung enthält Erinnerungen einschließlich der Einträge im Papierkorb und ihrer Optionen. Sie enthält auch Angaben zur Sicherung, etwa Erstellungsdatum und -uhrzeit, Hersteller und Modell des Geräts sowie eine zufällige Installationskennung zur Erkennung der Herkunft. Verweise auf Töne können enthalten sein; Audiodateien werden nicht in die Sicherung kopiert.
+Die App verschlüsselt Sicherungsdateien nicht. Wer eine Sicherung lesen kann, kann auf deren Inhalte zugreifen. Wenn du einen Clouddienst wählst, verarbeitet dessen Anbieter die Datei nach seinen Bedingungen und seiner Datenschutzerklärung. Ricorda sendet sie nicht an den Entwickler. Beim Import wird die gewählte Datei gelesen, um Erinnerungen wiederherzustellen oder zusammenzuführen.
+
+6. Speicherung, Löschung und Sicherheit
+Die Daten bleiben im privaten App-Speicher, solange du die App verwendest oder bis du die Daten über Android löschst. Beim Verschieben in den Papierkorb bleibt eine Erinnerung zur Wiederherstellung erhalten; sie wird dadurch nicht endgültig gelöscht.
+Um alle lokalen Ricorda-Daten zu entfernen, lösche die App-Daten in den Android-Einstellungen oder deinstalliere die App. Exportierte Sicherungen bleiben an den gewählten Speicherorten und müssen separat gelöscht werden, auch bei Clouddiensten.
+Ricorda nutzt die von Android bereitgestellte Abschottung des privaten App-Speichers und deaktiviert die automatische App-Sicherung. Die App fügt keine eigene Verschlüsselung für gespeicherte Daten oder exportierte Dateien hinzu. Der Schutz hängt auch von der Bildschirmsperre, der Gerätesicherheit und der Aufbewahrung deiner Sicherungen ab. Der Entwickler kann nicht auf lokale Erinnerungen zugreifen und sie weder aus der Ferne wiederherstellen noch löschen.
+
+7. Supportanfragen und Rechte
+Wenn du an die angegebene Kontaktadresse schreibst, teilst du freiwillig deine E-Mail-Adresse und den Nachrichteninhalt. Diese Daten werden verwendet, um zu antworten und dein Anliegen zu bearbeiten. Grundlage ist die Bereitstellung der angeforderten Unterstützung sowie gegebenenfalls die Erfüllung gesetzlicher Pflichten. Die Daten werden so lange aufbewahrt, wie es für die Bearbeitung und anwendbare Pflichten erforderlich ist. Sende möglichst keine Erinnerungen oder Sicherungen mit Informationen, die für den Support unnötig sind.
+Für Daten, die der Entwickler erhalten hat, kannst du im Rahmen des anwendbaren Rechts Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch und Datenübertragbarkeit über fabiocorby@gmail.com geltend machen. Du kannst dich auch an die zuständige Aufsichtsbehörde wenden; in Italien ist dies der Garante per la protezione dei dati personali. Für Daten, die ausschließlich auf deinem Telefon bleiben, verwende die oben beschriebenen App- und Android-Funktionen.
+
+8. Webseite dieser Erklärung
+Die Webseite enthält keine vom Entwickler hinzugefügte Werbung, Datenerfassungsformulare oder Analysewerkzeuge. Sie wird über Sites gehostet. Der Hostinganbieter kann technische Besuchsdaten wie IP-Adresse, Browserinformationen und Zugriffsprotokolle verarbeiten, um den Dienst bereitzustellen und zu schützen. Dafür gilt seine Datenschutzerklärung: https://openai.com/policies/privacy-policy/
+Beim Besuch der Seite werden keine in der App gespeicherten Erinnerungen übertragen.
+
+9. Änderungen dieser Erklärung
+Diese Erklärung gilt für die beschriebenen Funktionen von Ricorda. Änderungen der Datenverarbeitung werden in der Erklärung bekannt gegeben; das oben angegebene Datum wird entsprechend aktualisiert.
+
+Ricorda · Fabio Avitabile · fabiocorby@gmail.com

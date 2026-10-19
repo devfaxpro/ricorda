@@ -1,0 +1,4019 @@
+data|tipo|voce_originale|contiene_ricorrenza_mobile|nota_verifica
+2026-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2026-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2026-01-03|SANTI|Santa Genoveffa|NO|-
+2026-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2026-01-05|SANTI|Sant'Amelia|NO|-
+2026-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2026-01-07|SANTI|S. Luciano, S. Raimondo|NO|-
+2026-01-08|SANTI|S. Severino, S. Massimo|NO|-
+2026-01-09|SANTI|S. Giuliano martire|NO|-
+2026-01-10|SANTI|S. Agatone, S. Aldo|NO|-
+2026-01-11|SANTI_E_RICORRENZA_RELIGIOSA|Battesimo del Signore · Sant'Igino Papa|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-01-12|SANTI|S. Modesto|NO|-
+2026-01-13|SANTI|Sant'Ilario|NO|-
+2026-01-14|SANTI|S. Felice|NO|-
+2026-01-15|SANTI|S. Mauro|NO|-
+2026-01-16|SANTI|S. Marcello Papa|NO|-
+2026-01-17|SANTI|Sant'Antonio abate|NO|-
+2026-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2026-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2026-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2026-01-21|SANTI|Sant'Agnese|NO|-
+2026-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2026-01-23|SANTI|Santa Emerenziana|NO|-
+2026-01-24|SANTI|S. Francesco di Sales|NO|-
+2026-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2026-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2026-01-27|SANTI|Sant'Angela Merici|NO|-
+2026-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2026-01-29|SANTI|S. Costanzo|NO|-
+2026-01-30|SANTI|Santa Martina|NO|-
+2026-01-31|SANTI|S. Giovanni Bosco|NO|-
+2026-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2026-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2026-02-03|SANTI|S. Biagio|NO|-
+2026-02-04|SANTI|S. Gilberto|NO|-
+2026-02-05|SANTI|Sant'Agata|NO|-
+2026-02-06|SANTI|S. Paolo Miki|NO|-
+2026-02-07|SANTI|S. Romualdo|NO|-
+2026-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2026-02-09|SANTI|Santa Apollonia|NO|-
+2026-02-10|SANTI|Santa Scolastica|NO|-
+2026-02-11|RICORRENZA_RELIGIOSA|Nostra Signora di Lourdes|NO|-
+2026-02-12|SANTI|Santa Eulalia|NO|-
+2026-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2026-02-14|SANTI|S. Valentino martire|NO|-
+2026-02-15|SANTI|SS. Faustino e Giovita|NO|-
+2026-02-16|SANTI|Santa Giuliana|NO|-
+2026-02-17|SANTI|S. Donato martire|NO|-
+2026-02-18|SANTI_E_RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri · Beato Angelico|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2026-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2026-02-21|SANTI|Santa Eleonora, S. Pier Damiani|NO|-
+2026-02-22|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Quaresima · S. Massimiano di Ravenna|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-02-23|SANTI|S. Policarpo|NO|-
+2026-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2026-02-25|SANTI|S. Cesario|NO|-
+2026-02-26|SANTI|S. Nestore|NO|-
+2026-02-27|SANTI|S. Leandro|NO|-
+2026-02-28|SANTI|S. Romano abate|NO|-
+2026-03-01|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Quaresima · Sant'Albino|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-03-02|SANTI|Sant'Eraclio, S. Basilio martire|NO|-
+2026-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2026-03-04|SANTI|S. Casimiro, S. Lucio|NO|-
+2026-03-05|SANTI|S. Adriano|NO|-
+2026-03-06|SANTI|S. Marciano|NO|-
+2026-03-07|SANTI|Santa Perpetua e Felicita|NO|-
+2026-03-08|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Quaresima · S. Giovanni di Dio|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-03-09|SANTI|Santa Francesca Romana|NO|-
+2026-03-10|SANTI|S. Simplicio Papa|NO|-
+2026-03-11|SANTI|S. Costantino|NO|-
+2026-03-12|SANTI|S. Massimiliano|NO|-
+2026-03-13|SANTI|Sant'Arrigo, Santa Eufrasia|NO|-
+2026-03-14|SANTI|Santa Matilde regina|NO|-
+2026-03-15|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Quaresima · S. Zaccaria Papa|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-03-16|SANTI|Sant'Ariberto|NO|-
+2026-03-17|SANTI|S. Patrizio|NO|-
+2026-03-18|SANTI|S. Cirillo di Gerusalemme|NO|-
+2026-03-19|SANTI|S. Giuseppe|NO|-
+2026-03-20|SANTI|Santa Claudia, S. Alessandra martire|NO|-
+2026-03-21|SANTI|S. Benedetto da Norcia|NO|-
+2026-03-22|SANTI_E_RICORRENZA_RELIGIOSA|V Domenica di Quaresima · Santa Lea|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-03-23|SANTI|S. Turibio de Mogrovejo|NO|-
+2026-03-24|SANTI|S. Romolo, S. Caterina di Svezia|NO|-
+2026-03-25|RICORRENZA_RELIGIOSA|Annunciazione del Signore|NO|-
+2026-03-26|SANTI|S. Emanuele, S. Teodoro|NO|-
+2026-03-27|SANTI|S. Augusto|NO|-
+2026-03-28|SANTI|S. Sisto III Papa|NO|-
+2026-03-29|SANTI_E_RICORRENZA_RELIGIOSA|Domenica delle Palme · Sant'Eustasio|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-03-30|SANTI|S. Amedeo|NO|-
+2026-03-31|SANTI|S. Beniamino martire|NO|-
+2026-04-01|SANTI|Sant'Ugo di Grenoble (vescovo)|NO|-
+2026-04-02|SANTI|S. Francesco di Paola|NO|-
+2026-04-03|SANTI|S. Riccardo vescovo|NO|-
+2026-04-04|SANTI|Sant'Isidoro|NO|-
+2026-04-05|SANTI_E_RICORRENZA_RELIGIOSA|Pasqua · S. Vincenzo Ferrer|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-04-06|SANTI_E_RICORRENZA_RELIGIOSA|Lunedì dell’Angelo · Santa Galla|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-04-07|SANTI|Sant'Ermanno, S. Giovanni B.|NO|-
+2026-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2026-04-09|SANTI|S. Gualtiero, Santa Maria Cleofe|NO|-
+2026-04-10|SANTI|S. Terenzio martire|NO|-
+2026-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2026-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2026-04-13|SANTI|Sant'Ermenegildo, S. Martino I Papa|NO|-
+2026-04-14|SANTI|S. Abbondio|NO|-
+2026-04-15|SANTI|Sant'Annibale martire|NO|-
+2026-04-16|SANTI|Santa Bernadetta, S. Lamberto|NO|-
+2026-04-17|SANTI|Sant'Aniceto Papa, S. Roberto|NO|-
+2026-04-18|SANTI|S. Galdino vescovo|NO|-
+2026-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2026-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2026-04-21|SANTI|Sant'Anselmo|NO|-
+2026-04-22|SANTI|Ss. Sotero e Caio|NO|-
+2026-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2026-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2026-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2026-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2026-04-27|SANTI|Ss. Ida e Zita|NO|-
+2026-04-28|SANTI|Santa Valeria|NO|-
+2026-04-29|SANTI|Santa Caterina da Siena|NO|-
+2026-04-30|SANTI|S. Pio V Papa|NO|-
+2026-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2026-05-02|SANTI|Sant'Atanasio|NO|-
+2026-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2026-05-04|SANTI|S. Silvano|NO|-
+2026-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2026-05-06|SANTI|Santa Giuditta|NO|-
+2026-05-07|SANTI|Santa Flavia|NO|-
+2026-05-08|SANTI|S. Vittore|NO|-
+2026-05-09|SANTI|S. Gregorio|NO|-
+2026-05-10|SANTI|Sant'Antonino|NO|-
+2026-05-11|SANTI|S. Fabio martire|NO|-
+2026-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2026-05-13|RICORRENZA_RELIGIOSA|Beata Vergine Maria di Fatima|NO|-
+2026-05-14|SANTI|S. Mattia apostolo|NO|-
+2026-05-15|SANTI|S. Torquato|NO|-
+2026-05-16|SANTI|Sant'Ubaldo|NO|-
+2026-05-17|SANTI_E_RICORRENZA_RELIGIOSA|Ascensione del Signore · S. Pasquale Baylon|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-05-18|SANTI|S. Giovanni I Papa|NO|-
+2026-05-19|SANTI|S. Celestino V Papa|NO|-
+2026-05-20|SANTI|S. Bernardino da Siena|NO|-
+2026-05-21|SANTI|S. Vittorio martire|NO|-
+2026-05-22|SANTI|Santa Rita da Cascia|NO|-
+2026-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2026-05-24|SANTI_E_RICORRENZA_RELIGIOSA|Pentecoste · S. Vincenzo di Lérins|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-05-25|SANTI|S. Gregorio VII Papa|NO|-
+2026-05-26|SANTI|S. Filippo Neri|NO|-
+2026-05-27|SANTI|Sant'Agostino|NO|-
+2026-05-28|SANTI|Sant'Emilio martire|NO|-
+2026-05-29|SANTI|S. Massimino vescovo|NO|-
+2026-05-30|SANTI|Santa Giovanna d'Arco|NO|-
+2026-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2026-06-01|SANTI|S. Giustino|NO|-
+2026-06-02|SANTI_E_FESTIVITA_CIVILE|Ss. Marcellino / Festa della Repubblica|NO|-
+2026-06-03|SANTI|S. Carlo Lwanga e compagni|NO|-
+2026-06-04|SANTI|S. Quirino vescovo|NO|-
+2026-06-05|SANTI|S. Bonifacio vescovo|NO|-
+2026-06-06|SANTI|S. Norberto|NO|-
+2026-06-07|SANTI_E_RICORRENZA_RELIGIOSA|Corpus Domini · Sant'Antonio Maria Gianelli|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-06-08|SANTI|S. Medardo vescovo|NO|-
+2026-06-09|SANTI|Sant'Efrem Siro, Ss. Primo e Feliciano|NO|-
+2026-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2026-06-11|SANTI|S. Barnaba apostolo|NO|-
+2026-06-12|SANTI_E_RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù · Sant'Onofrio|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-06-13|SANTI_E_RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria · Sant'Antonio di Padova|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-06-14|SANTI|Sant'Eliseo|NO|-
+2026-06-15|SANTI|S. Germana|NO|-
+2026-06-16|SANTI|Sant'Aureliano|NO|-
+2026-06-17|SANTI|S. Ranieri, S. Gregorio Barbarigo|NO|-
+2026-06-18|SANTI|Santa Marina|NO|-
+2026-06-19|SANTI|Ss. Gervasio e Protasio, S. Romualdo|NO|-
+2026-06-20|SANTI|Sant'Ettore, S. Silverio Papa|NO|-
+2026-06-21|SANTI|S. Luigi Gonzaga|NO|-
+2026-06-22|SANTI|S. Paolino da Nola|NO|-
+2026-06-23|SANTI|S. Lanfranco vescovo|NO|-
+2026-06-24|RICORRENZA_RELIGIOSA|Natività di S. Giovanni Battista|NO|-
+2026-06-25|SANTI|S. Guglielmo|NO|-
+2026-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2026-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2026-06-28|SANTI|S. Attilio confessore, S. Ireneo|NO|-
+2026-06-29|SANTI|Ss. Pietro e Paolo|NO|-
+2026-06-30|SANTI|Ss. Primi Martiri|NO|-
+2026-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2026-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2026-07-03|SANTI|S. Tommaso apostolo|NO|-
+2026-07-04|SANTI|Santa Elisabetta regina|NO|-
+2026-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2026-07-06|SANTI|Santa Maria Goretti|NO|-
+2026-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2026-07-08|SANTI|Sant'Adriano III|NO|-
+2026-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2026-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2026-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2026-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2026-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2026-07-14|SANTI|S. Camillo De Lellis|NO|-
+2026-07-15|SANTI|S. Bonaventura|NO|-
+2026-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2026-07-17|SANTI|Sant'Alessio confessore|NO|-
+2026-07-18|SANTI|S. Federico|NO|-
+2026-07-19|SANTI|Santa Giusta|NO|-
+2026-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2026-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2026-07-22|SANTI|Santa Maria Maddalena|NO|-
+2026-07-23|SANTI|Santa Brigida|NO|-
+2026-07-24|SANTI|Santa Cristina|NO|-
+2026-07-25|SANTI|S. Giacomo apostolo|NO|-
+2026-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2026-07-27|SANTI|Santa Liliana|NO|-
+2026-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2026-07-29|SANTI|Santa Marta|NO|-
+2026-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2026-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2026-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2026-08-02|SANTI|Sant'Eusebio|NO|-
+2026-08-03|SANTI|Santa Lidia|NO|-
+2026-08-04|SANTI|S. Giovanni Maria Vianney|NO|VN_CORREZIONE
+2026-08-05|SANTI|Sant'Osvaldo|NO|VN_CORREZIONE
+2026-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2026-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2026-08-08|SANTI|S. Domenico|NO|-
+2026-08-09|SANTI|S. Romano|NO|-
+2026-08-10|SANTI|S. Lorenzo martire|NO|-
+2026-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2026-08-12|SANTI|Sant'Ercolano|NO|-
+2026-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2026-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2026-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2026-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2026-08-17|SANTI|S. Giacinto|NO|-
+2026-08-18|SANTI|Santa Elena imperatrice|NO|-
+2026-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2026-08-20|SANTI|S. Bernardo|NO|-
+2026-08-21|SANTI|S. Pio X Papa|NO|-
+2026-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2026-08-23|SANTI|S. Rosa da Lima|NO|-
+2026-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2026-08-25|SANTI|S. Lodovico re|NO|-
+2026-08-26|SANTI|Sant'Alessandro martire|NO|-
+2026-08-27|SANTI|Santa Monica|NO|-
+2026-08-28|SANTI|Sant'Agostino|NO|-
+2026-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2026-08-30|SANTI|Santa Faustina|NO|-
+2026-08-31|SANTI|Sant'Aristide|NO|-
+2026-09-01|SANTI|Sant'Egidio|NO|-
+2026-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2026-09-03|SANTI|S. Gregorio martire|NO|-
+2026-09-04|SANTI|Santa Rosalia|NO|-
+2026-09-05|SANTI|S. Vittorino|NO|-
+2026-09-06|SANTI|Sant'Umberto|NO|-
+2026-09-07|SANTI|Santa Regina|NO|-
+2026-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2026-09-09|SANTI|S. Sergio Papa|NO|-
+2026-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2026-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2026-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2026-09-13|SANTI|S. Giovanni Crisostomo|NO|VN_CORREZIONE
+2026-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2026-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2026-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2026-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2026-09-18|SANTI|Santa Sofia martire|NO|-
+2026-09-19|SANTI|S. Gennaro vescovo|NO|-
+2026-09-20|SANTI|Sant'Eustachio|NO|-
+2026-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2026-09-22|SANTI|S. Maurizio martire|NO|-
+2026-09-23|SANTI|S. Pio da Pietrelcina|NO|VN_CORREZIONE
+2026-09-24|SANTI|S. Pacifico prete|NO|-
+2026-09-25|SANTI|Santa Aurelia|NO|-
+2026-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2026-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2026-09-28|SANTI|S. Venceslao martire|NO|-
+2026-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2026-09-30|SANTI|S. Girolamo|NO|-
+2026-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2026-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2026-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2026-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2026-10-05|SANTI|S. Placido martire|NO|-
+2026-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2026-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2026-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2026-10-09|SANTI|S. Dionigi|NO|-
+2026-10-10|SANTI|S. Daniele vescovo|NO|-
+2026-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2026-10-12|SANTI|S. Serafino|NO|-
+2026-10-13|SANTI|Sant'Edoardo re|NO|-
+2026-10-14|SANTI|S. Callisto I Papa|NO|-
+2026-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2026-10-16|SANTI|Santa Edvige|NO|-
+2026-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2026-10-18|SANTI|S. Luca evangelista|NO|-
+2026-10-19|SANTI|S. Isacco martire|NO|-
+2026-10-20|SANTI|Sant'Irene|NO|-
+2026-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2026-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2026-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2026-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2026-10-25|SANTI|Ss. Crisanto e Daria|NO|VN
+2026-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2026-10-27|SANTI|S. Fiorenzo|NO|-
+2026-10-28|SANTI|SS. Simone e Giuda|NO|-
+2026-10-29|SANTI|S. Ermelinda|NO|-
+2026-10-30|SANTI|S. Germano vescovo|NO|-
+2026-10-31|SANTI|Santa Lucilla|NO|-
+2026-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2026-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2026-11-03|SANTI|Santa Silvia|NO|-
+2026-11-04|SANTI|S. Carlo Borromeo|NO|-
+2026-11-05|SANTI|S. Zaccaria profeta|NO|-
+2026-11-06|SANTI|S. Leonardo|NO|-
+2026-11-07|SANTI|Sant'Ernesto|NO|-
+2026-11-08|SANTI|S. Goffredo vescovo|NO|-
+2026-11-09|SANTI|Sant'Oreste|NO|-
+2026-11-10|SANTI|S. Leone Magno|NO|-
+2026-11-11|SANTI|S. Martino|NO|-
+2026-11-12|SANTI|S. Renato|NO|-
+2026-11-13|SANTI|S. Diego confessore|NO|-
+2026-11-14|SANTI|S. Giocondo vescovo|NO|-
+2026-11-15|SANTI|S. Alberto Magno|NO|-
+2026-11-16|SANTI|S. Margherita di Scozia|NO|-
+2026-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2026-11-18|SANTI|Sant'Oddone|NO|-
+2026-11-19|SANTI|S. Fausto|NO|-
+2026-11-20|SANTI|S. Felice di Valois, Sant'Ottavio|NO|-
+2026-11-21|RICORRENZA_RELIGIOSA|Presentazione di Maria Vergine|NO|-
+2026-11-22|SANTI_E_RICORRENZA_RELIGIOSA|N.S. Gesù Re dell’Universo · Santa Cecilia|SI|CALCOLO_ROMANO_ITALIA;A4
+2026-11-23|SANTI|S. Clemente I Papa|NO|-
+2026-11-24|SANTI|S. Giovanni della Croce|NO|-
+2026-11-25|SANTI|Santa Caterina di Alessandria|NO|-
+2026-11-26|SANTI|S. Corrado vescovo, S. Delfina|NO|-
+2026-11-27|SANTI|S. Virgilio|NO|-
+2026-11-28|SANTI|Santa Livia, S. Demetrio|NO|-
+2026-11-29|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Avvento · S. Saturnino martire|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-11-30|SANTI|Sant'Andrea apostolo|NO|-
+2026-12-01|SANTI|S. Eligio|NO|-
+2026-12-02|SANTI|Santa Bibiana|NO|-
+2026-12-03|SANTI|S. Francesco Saverio|NO|-
+2026-12-04|SANTI|Santa Barbara|NO|-
+2026-12-05|SANTI|S. Dalmazio|NO|-
+2026-12-06|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Avvento · S. Nicola di Bari|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-12-07|SANTI|Sant'Ambrogio vescovo|NO|-
+2026-12-08|RICORRENZA_RELIGIOSA|Immacolata Concezione|NO|-
+2026-12-09|SANTI|S. Siro|NO|-
+2026-12-10|RICORRENZA_RELIGIOSA|Nostra Signora di Loreto|NO|-
+2026-12-11|SANTI|S. Damaso I Papa|NO|-
+2026-12-12|SANTI|Santa Giovanna|NO|-
+2026-12-13|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Avvento · Santa Lucia|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-12-14|SANTI|S. Giovanni della Croce|NO|-
+2026-12-15|SANTI|S. Valeriano|NO|-
+2026-12-16|SANTI|Santa Adelaide|NO|-
+2026-12-17|SANTI|S. Lazzaro|NO|-
+2026-12-18|SANTI|S. Graziano vescovo|NO|-
+2026-12-19|SANTI|S. Dario, Santa Fausta|NO|-
+2026-12-20|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Avvento · S. Filogonio|SI|CALCOLO_ROMANO_ITALIA;VN
+2026-12-21|SANTI|S. Pietro Canisio|NO|-
+2026-12-22|SANTI|S. Flaviano|NO|-
+2026-12-23|SANTI|S. Giovanni di Kenty|NO|-
+2026-12-24|SANTI|Santa Irma|NO|-
+2026-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2026-12-26|SANTI|S. Stefano|NO|VN
+2026-12-27|SANTI_E_RICORRENZA_RELIGIOSA|Sacra Famiglia · S. Giovanni Evangelista|SI|CALCOLO_ROMANO_ITALIA;A5
+2026-12-28|SANTI|Ss. Innocenti martiri|NO|-
+2026-12-29|SANTI|S. Tommaso Becket|NO|-
+2026-12-30|SANTI|Sant'Eugenio vescovo|NO|-
+2026-12-31|SANTI|S. Silvestro Papa|NO|-
+2027-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2027-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2027-01-03|SANTI|Santa Genoveffa|NO|-
+2027-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2027-01-05|SANTI|Sant'Amelia|NO|-
+2027-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2027-01-07|SANTI|S. Luciano, S. Raimondo|NO|-
+2027-01-08|SANTI|S. Severino, S. Massimo|NO|-
+2027-01-09|SANTI|S. Giuliano martire|NO|-
+2027-01-10|SANTI_E_RICORRENZA_RELIGIOSA|Battesimo del Signore · S. Agatone, S. Aldo|SI|CALCOLO_ROMANO_ITALIA;-
+2027-01-11|SANTI|Sant'Igino Papa|NO|VN
+2027-01-12|SANTI|S. Modesto|NO|-
+2027-01-13|SANTI|Sant'Ilario|NO|-
+2027-01-14|SANTI|S. Felice|NO|-
+2027-01-15|SANTI|S. Mauro|NO|-
+2027-01-16|SANTI|S. Marcello Papa|NO|-
+2027-01-17|SANTI|Sant'Antonio abate|NO|-
+2027-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2027-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2027-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2027-01-21|SANTI|Sant'Agnese|NO|-
+2027-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2027-01-23|SANTI|Santa Emerenziana|NO|-
+2027-01-24|SANTI|S. Francesco di Sales|NO|-
+2027-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2027-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2027-01-27|SANTI|Sant'Angela Merici|NO|-
+2027-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2027-01-29|SANTI|S. Costanzo|NO|-
+2027-01-30|SANTI|Santa Martina|NO|-
+2027-01-31|SANTI|S. Giovanni Bosco|NO|-
+2027-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2027-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2027-02-03|SANTI|S. Biagio|NO|-
+2027-02-04|SANTI|S. Gilberto|NO|-
+2027-02-05|SANTI|Sant'Agata|NO|-
+2027-02-06|SANTI|S. Paolo Miki|NO|-
+2027-02-07|SANTI|S. Romualdo|NO|-
+2027-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2027-02-09|SANTI|Santa Apollonia|NO|-
+2027-02-10|SANTI_E_RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri · Santa Scolastica|SI|CALCOLO_ROMANO_ITALIA;-
+2027-02-11|RICORRENZA_RELIGIOSA|Nostra Signora di Lourdes|NO|-
+2027-02-12|SANTI|Santa Eulalia|NO|-
+2027-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2027-02-14|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Quaresima · S. Valentino martire|SI|CALCOLO_ROMANO_ITALIA;-
+2027-02-15|SANTI|SS. Faustino e Giovita|NO|-
+2027-02-16|SANTI|Santa Giuliana|NO|-
+2027-02-17|SANTI|S. Donato martire|NO|-
+2027-02-18|SANTI|Beato Angelico|NO|VN
+2027-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2027-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2027-02-21|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Quaresima · Santa Eleonora, S. Pier Damiani|SI|CALCOLO_ROMANO_ITALIA;-
+2027-02-22|SANTI|S. Massimiano di Ravenna|NO|VN
+2027-02-23|SANTI|S. Policarpo|NO|-
+2027-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2027-02-25|SANTI|S. Cesario|NO|-
+2027-02-26|SANTI|S. Nestore|NO|-
+2027-02-27|SANTI|S. Leandro|NO|-
+2027-02-28|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Quaresima · S. Romano abate|SI|CALCOLO_ROMANO_ITALIA;-
+2027-03-01|SANTI|Sant'Albino|NO|VN
+2027-03-02|SANTI|Sant'Eraclio, S. Basilio martire|NO|-
+2027-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2027-03-04|SANTI|S. Casimiro, S. Lucio|NO|-
+2027-03-05|SANTI|S. Adriano|NO|-
+2027-03-06|SANTI|S. Marciano|NO|-
+2027-03-07|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Quaresima · Santa Perpetua e Felicita|SI|CALCOLO_ROMANO_ITALIA;-
+2027-03-08|SANTI|S. Giovanni di Dio|NO|VN
+2027-03-09|SANTI|Santa Francesca Romana|NO|-
+2027-03-10|SANTI|S. Simplicio Papa|NO|-
+2027-03-11|SANTI|S. Costantino|NO|-
+2027-03-12|SANTI|S. Massimiliano|NO|-
+2027-03-13|SANTI|Sant'Arrigo, Santa Eufrasia|NO|-
+2027-03-14|SANTI_E_RICORRENZA_RELIGIOSA|V Domenica di Quaresima · Santa Matilde regina|SI|CALCOLO_ROMANO_ITALIA;-
+2027-03-15|SANTI|S. Zaccaria Papa|NO|VN
+2027-03-16|SANTI|Sant'Ariberto|NO|-
+2027-03-17|SANTI|S. Patrizio|NO|-
+2027-03-18|SANTI|S. Cirillo di Gerusalemme|NO|-
+2027-03-19|SANTI|S. Giuseppe|NO|-
+2027-03-20|SANTI|Santa Claudia, S. Alessandra martire|NO|-
+2027-03-21|SANTI_E_RICORRENZA_RELIGIOSA|Domenica delle Palme · S. Benedetto da Norcia|SI|CALCOLO_ROMANO_ITALIA;-
+2027-03-22|SANTI|Santa Lea|NO|VN
+2027-03-23|SANTI|S. Turibio de Mogrovejo|NO|-
+2027-03-24|SANTI|S. Romolo, S. Caterina di Svezia|NO|-
+2027-03-25|RICORRENZA_RELIGIOSA|Annunciazione del Signore|NO|-
+2027-03-26|SANTI|S. Emanuele, S. Teodoro|NO|-
+2027-03-27|SANTI|S. Augusto|NO|-
+2027-03-28|SANTI_E_RICORRENZA_RELIGIOSA|Pasqua · S. Sisto III Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2027-03-29|SANTI_E_RICORRENZA_RELIGIOSA|Lunedì dell’Angelo · Sant'Eustasio|SI|CALCOLO_ROMANO_ITALIA;VN
+2027-03-30|SANTI|S. Amedeo|NO|-
+2027-03-31|SANTI|S. Beniamino martire|NO|-
+2027-04-01|SANTI|Sant'Ugo di Grenoble (vescovo)|NO|-
+2027-04-02|SANTI|S. Francesco di Paola|NO|-
+2027-04-03|SANTI|S. Riccardo vescovo|NO|-
+2027-04-04|SANTI|Sant'Isidoro|NO|-
+2027-04-05|SANTI|S. Vincenzo Ferrer|NO|VN
+2027-04-06|SANTI|Santa Galla|NO|VN
+2027-04-07|SANTI|Sant'Ermanno, S. Giovanni B.|NO|-
+2027-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2027-04-09|SANTI|S. Gualtiero, Santa Maria Cleofe|NO|-
+2027-04-10|SANTI|S. Terenzio martire|NO|-
+2027-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2027-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2027-04-13|SANTI|Sant'Ermenegildo, S. Martino I Papa|NO|-
+2027-04-14|SANTI|S. Abbondio|NO|-
+2027-04-15|SANTI|Sant'Annibale martire|NO|-
+2027-04-16|SANTI|Santa Bernadetta, S. Lamberto|NO|-
+2027-04-17|SANTI|Sant'Aniceto Papa, S. Roberto|NO|-
+2027-04-18|SANTI|S. Galdino vescovo|NO|-
+2027-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2027-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2027-04-21|SANTI|Sant'Anselmo|NO|-
+2027-04-22|SANTI|Ss. Sotero e Caio|NO|-
+2027-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2027-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2027-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2027-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2027-04-27|SANTI|Ss. Ida e Zita|NO|-
+2027-04-28|SANTI|Santa Valeria|NO|-
+2027-04-29|SANTI|Santa Caterina da Siena|NO|-
+2027-04-30|SANTI|S. Pio V Papa|NO|-
+2027-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2027-05-02|SANTI|Sant'Atanasio|NO|-
+2027-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2027-05-04|SANTI|S. Silvano|NO|-
+2027-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2027-05-06|SANTI|Santa Giuditta|NO|-
+2027-05-07|SANTI|Santa Flavia|NO|-
+2027-05-08|SANTI|S. Vittore|NO|-
+2027-05-09|SANTI_E_RICORRENZA_RELIGIOSA|Ascensione del Signore · S. Gregorio|SI|CALCOLO_ROMANO_ITALIA;-
+2027-05-10|SANTI|Sant'Antonino|NO|-
+2027-05-11|SANTI|S. Fabio martire|NO|-
+2027-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2027-05-13|RICORRENZA_RELIGIOSA|Beata Vergine Maria di Fatima|NO|-
+2027-05-14|SANTI|S. Mattia apostolo|NO|-
+2027-05-15|SANTI|S. Torquato|NO|-
+2027-05-16|SANTI_E_RICORRENZA_RELIGIOSA|Pentecoste · Sant'Ubaldo|SI|CALCOLO_ROMANO_ITALIA;-
+2027-05-17|SANTI|S. Pasquale Baylon|NO|VN
+2027-05-18|SANTI|S. Giovanni I Papa|NO|-
+2027-05-19|SANTI|S. Celestino V Papa|NO|-
+2027-05-20|SANTI|S. Bernardino da Siena|NO|-
+2027-05-21|SANTI|S. Vittorio martire|NO|-
+2027-05-22|SANTI|Santa Rita da Cascia|NO|-
+2027-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2027-05-24|SANTI|S. Vincenzo di Lérins|NO|VN
+2027-05-25|SANTI|S. Gregorio VII Papa|NO|-
+2027-05-26|SANTI|S. Filippo Neri|NO|-
+2027-05-27|SANTI|Sant'Agostino|NO|-
+2027-05-28|SANTI|Sant'Emilio martire|NO|-
+2027-05-29|SANTI|S. Massimino vescovo|NO|-
+2027-05-30|SANTI_E_RICORRENZA_RELIGIOSA|Corpus Domini · Santa Giovanna d'Arco|SI|CALCOLO_ROMANO_ITALIA;-
+2027-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2027-06-01|SANTI|S. Giustino|NO|-
+2027-06-02|SANTI_E_FESTIVITA_CIVILE|Ss. Marcellino / Festa della Repubblica|NO|-
+2027-06-03|SANTI|S. Carlo Lwanga e compagni|NO|-
+2027-06-04|SANTI_E_RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù · S. Quirino vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2027-06-05|SANTI_E_RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria · S. Bonifacio vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2027-06-06|SANTI|S. Norberto|NO|-
+2027-06-07|SANTI|Sant'Antonio Maria Gianelli|NO|VN
+2027-06-08|SANTI|S. Medardo vescovo|NO|-
+2027-06-09|SANTI|Sant'Efrem Siro, Ss. Primo e Feliciano|NO|-
+2027-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2027-06-11|SANTI|S. Barnaba apostolo|NO|-
+2027-06-12|SANTI|Sant'Onofrio|NO|VN
+2027-06-13|SANTI|Sant'Antonio di Padova|NO|VN
+2027-06-14|SANTI|Sant'Eliseo|NO|-
+2027-06-15|SANTI|S. Germana|NO|-
+2027-06-16|SANTI|Sant'Aureliano|NO|-
+2027-06-17|SANTI|S. Ranieri, S. Gregorio Barbarigo|NO|-
+2027-06-18|SANTI|Santa Marina|NO|-
+2027-06-19|SANTI|Ss. Gervasio e Protasio, S. Romualdo|NO|-
+2027-06-20|SANTI|Sant'Ettore, S. Silverio Papa|NO|-
+2027-06-21|SANTI|S. Luigi Gonzaga|NO|-
+2027-06-22|SANTI|S. Paolino da Nola|NO|-
+2027-06-23|SANTI|S. Lanfranco vescovo|NO|-
+2027-06-24|RICORRENZA_RELIGIOSA|Natività di S. Giovanni Battista|NO|-
+2027-06-25|SANTI|S. Guglielmo|NO|-
+2027-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2027-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2027-06-28|SANTI|S. Attilio confessore, S. Ireneo|NO|-
+2027-06-29|SANTI|Ss. Pietro e Paolo|NO|-
+2027-06-30|SANTI|Ss. Primi Martiri|NO|-
+2027-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2027-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2027-07-03|SANTI|S. Tommaso apostolo|NO|-
+2027-07-04|SANTI|Santa Elisabetta regina|NO|-
+2027-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2027-07-06|SANTI|Santa Maria Goretti|NO|-
+2027-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2027-07-08|SANTI|Sant'Adriano III|NO|-
+2027-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2027-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2027-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2027-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2027-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2027-07-14|SANTI|S. Camillo De Lellis|NO|-
+2027-07-15|SANTI|S. Bonaventura|NO|-
+2027-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2027-07-17|SANTI|Sant'Alessio confessore|NO|-
+2027-07-18|SANTI|S. Federico|NO|-
+2027-07-19|SANTI|Santa Giusta|NO|-
+2027-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2027-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2027-07-22|SANTI|Santa Maria Maddalena|NO|-
+2027-07-23|SANTI|Santa Brigida|NO|-
+2027-07-24|SANTI|Santa Cristina|NO|-
+2027-07-25|SANTI|S. Giacomo apostolo|NO|-
+2027-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2027-07-27|SANTI|Santa Liliana|NO|-
+2027-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2027-07-29|SANTI|Santa Marta|NO|-
+2027-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2027-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2027-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2027-08-02|SANTI|Sant'Eusebio|NO|-
+2027-08-03|SANTI|Santa Lidia|NO|-
+2027-08-04|SANTI|S. Giovanni Maria Vianney|NO|VN_CORREZIONE
+2027-08-05|SANTI|Sant'Osvaldo|NO|VN_CORREZIONE
+2027-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2027-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2027-08-08|SANTI|S. Domenico|NO|-
+2027-08-09|SANTI|S. Romano|NO|-
+2027-08-10|SANTI|S. Lorenzo martire|NO|-
+2027-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2027-08-12|SANTI|Sant'Ercolano|NO|-
+2027-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2027-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2027-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2027-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2027-08-17|SANTI|S. Giacinto|NO|-
+2027-08-18|SANTI|Santa Elena imperatrice|NO|-
+2027-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2027-08-20|SANTI|S. Bernardo|NO|-
+2027-08-21|SANTI|S. Pio X Papa|NO|-
+2027-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2027-08-23|SANTI|S. Rosa da Lima|NO|-
+2027-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2027-08-25|SANTI|S. Lodovico re|NO|-
+2027-08-26|SANTI|Sant'Alessandro martire|NO|-
+2027-08-27|SANTI|Santa Monica|NO|-
+2027-08-28|SANTI|Sant'Agostino|NO|-
+2027-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2027-08-30|SANTI|Santa Faustina|NO|-
+2027-08-31|SANTI|Sant'Aristide|NO|-
+2027-09-01|SANTI|Sant'Egidio|NO|-
+2027-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2027-09-03|SANTI|S. Gregorio martire|NO|-
+2027-09-04|SANTI|Santa Rosalia|NO|-
+2027-09-05|SANTI|S. Vittorino|NO|-
+2027-09-06|SANTI|Sant'Umberto|NO|-
+2027-09-07|SANTI|Santa Regina|NO|-
+2027-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2027-09-09|SANTI|S. Sergio Papa|NO|-
+2027-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2027-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2027-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2027-09-13|SANTI|S. Giovanni Crisostomo|NO|VN_CORREZIONE
+2027-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2027-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2027-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2027-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2027-09-18|SANTI|Santa Sofia martire|NO|-
+2027-09-19|SANTI|S. Gennaro vescovo|NO|-
+2027-09-20|SANTI|Sant'Eustachio|NO|-
+2027-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2027-09-22|SANTI|S. Maurizio martire|NO|-
+2027-09-23|SANTI|S. Pio da Pietrelcina|NO|VN_CORREZIONE
+2027-09-24|SANTI|S. Pacifico prete|NO|-
+2027-09-25|SANTI|Santa Aurelia|NO|-
+2027-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2027-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2027-09-28|SANTI|S. Venceslao martire|NO|-
+2027-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2027-09-30|SANTI|S. Girolamo|NO|-
+2027-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2027-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2027-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2027-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2027-10-05|SANTI|S. Placido martire|NO|-
+2027-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2027-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2027-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2027-10-09|SANTI|S. Dionigi|NO|-
+2027-10-10|SANTI|S. Daniele vescovo|NO|-
+2027-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2027-10-12|SANTI|S. Serafino|NO|-
+2027-10-13|SANTI|Sant'Edoardo re|NO|-
+2027-10-14|SANTI|S. Callisto I Papa|NO|-
+2027-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2027-10-16|SANTI|Santa Edvige|NO|-
+2027-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2027-10-18|SANTI|S. Luca evangelista|NO|-
+2027-10-19|SANTI|S. Isacco martire|NO|-
+2027-10-20|SANTI|Sant'Irene|NO|-
+2027-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2027-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2027-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2027-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2027-10-25|SANTI|Ss. Crisanto e Daria|NO|VN
+2027-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2027-10-27|SANTI|S. Fiorenzo|NO|-
+2027-10-28|SANTI|SS. Simone e Giuda|NO|-
+2027-10-29|SANTI|S. Ermelinda|NO|-
+2027-10-30|SANTI|S. Germano vescovo|NO|-
+2027-10-31|SANTI|Santa Lucilla|NO|-
+2027-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2027-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2027-11-03|SANTI|Santa Silvia|NO|-
+2027-11-04|SANTI|S. Carlo Borromeo|NO|-
+2027-11-05|SANTI|S. Zaccaria profeta|NO|-
+2027-11-06|SANTI|S. Leonardo|NO|-
+2027-11-07|SANTI|Sant'Ernesto|NO|-
+2027-11-08|SANTI|S. Goffredo vescovo|NO|-
+2027-11-09|SANTI|Sant'Oreste|NO|-
+2027-11-10|SANTI|S. Leone Magno|NO|-
+2027-11-11|SANTI|S. Martino|NO|-
+2027-11-12|SANTI|S. Renato|NO|-
+2027-11-13|SANTI|S. Diego confessore|NO|-
+2027-11-14|SANTI|S. Giocondo vescovo|NO|-
+2027-11-15|SANTI|S. Alberto Magno|NO|-
+2027-11-16|SANTI|S. Margherita di Scozia|NO|-
+2027-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2027-11-18|SANTI|Sant'Oddone|NO|-
+2027-11-19|SANTI|S. Fausto|NO|-
+2027-11-20|SANTI|S. Felice di Valois, Sant'Ottavio|NO|-
+2027-11-21|SANTI_E_RICORRENZA_RELIGIOSA|N.S. Gesù Re dell’Universo · Presentazione di Maria Vergine|SI|CALCOLO_ROMANO_ITALIA;-
+2027-11-22|SANTI|Santa Cecilia|NO|A4
+2027-11-23|SANTI|S. Clemente I Papa|NO|-
+2027-11-24|SANTI|S. Giovanni della Croce|NO|-
+2027-11-25|SANTI|Santa Caterina di Alessandria|NO|-
+2027-11-26|SANTI|S. Corrado vescovo, S. Delfina|NO|-
+2027-11-27|SANTI|S. Virgilio|NO|-
+2027-11-28|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Avvento · Santa Livia, S. Demetrio|SI|CALCOLO_ROMANO_ITALIA;-
+2027-11-29|SANTI|S. Saturnino martire|NO|VN
+2027-11-30|SANTI|Sant'Andrea apostolo|NO|-
+2027-12-01|SANTI|S. Eligio|NO|-
+2027-12-02|SANTI|Santa Bibiana|NO|-
+2027-12-03|SANTI|S. Francesco Saverio|NO|-
+2027-12-04|SANTI|Santa Barbara|NO|-
+2027-12-05|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Avvento · S. Dalmazio|SI|CALCOLO_ROMANO_ITALIA;-
+2027-12-06|SANTI|S. Nicola di Bari|NO|VN
+2027-12-07|SANTI|Sant'Ambrogio vescovo|NO|-
+2027-12-08|RICORRENZA_RELIGIOSA|Immacolata Concezione|NO|-
+2027-12-09|SANTI|S. Siro|NO|-
+2027-12-10|RICORRENZA_RELIGIOSA|Nostra Signora di Loreto|NO|-
+2027-12-11|SANTI|S. Damaso I Papa|NO|-
+2027-12-12|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Avvento · Santa Giovanna|SI|CALCOLO_ROMANO_ITALIA;-
+2027-12-13|SANTI|Santa Lucia|NO|VN
+2027-12-14|SANTI|S. Giovanni della Croce|NO|-
+2027-12-15|SANTI|S. Valeriano|NO|-
+2027-12-16|SANTI|Santa Adelaide|NO|-
+2027-12-17|SANTI|S. Lazzaro|NO|-
+2027-12-18|SANTI|S. Graziano vescovo|NO|-
+2027-12-19|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Avvento · S. Dario, Santa Fausta|SI|CALCOLO_ROMANO_ITALIA;-
+2027-12-20|SANTI|S. Filogonio|NO|VN
+2027-12-21|SANTI|S. Pietro Canisio|NO|-
+2027-12-22|SANTI|S. Flaviano|NO|-
+2027-12-23|SANTI|S. Giovanni di Kenty|NO|-
+2027-12-24|SANTI|Santa Irma|NO|-
+2027-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2027-12-26|SANTI_E_RICORRENZA_RELIGIOSA|Sacra Famiglia · S. Stefano|SI|CALCOLO_ROMANO_ITALIA;VN
+2027-12-27|SANTI|S. Giovanni Evangelista|NO|A5
+2027-12-28|SANTI|Ss. Innocenti martiri|NO|-
+2027-12-29|SANTI|S. Tommaso Becket|NO|-
+2027-12-30|SANTI|Sant'Eugenio vescovo|NO|-
+2027-12-31|SANTI|S. Silvestro Papa|NO|-
+2028-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2028-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2028-01-03|SANTI|Santa Genoveffa|NO|-
+2028-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2028-01-05|SANTI|Sant'Amelia|NO|-
+2028-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2028-01-07|SANTI|S. Luciano, S. Raimondo|NO|-
+2028-01-08|SANTI|S. Severino, S. Massimo|NO|-
+2028-01-09|SANTI_E_RICORRENZA_RELIGIOSA|Battesimo del Signore · S. Giuliano martire|SI|CALCOLO_ROMANO_ITALIA;-
+2028-01-10|SANTI|S. Agatone, S. Aldo|NO|-
+2028-01-11|SANTI|Sant'Igino Papa|NO|VN
+2028-01-12|SANTI|S. Modesto|NO|-
+2028-01-13|SANTI|Sant'Ilario|NO|-
+2028-01-14|SANTI|S. Felice|NO|-
+2028-01-15|SANTI|S. Mauro|NO|-
+2028-01-16|SANTI|S. Marcello Papa|NO|-
+2028-01-17|SANTI|Sant'Antonio abate|NO|-
+2028-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2028-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2028-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2028-01-21|SANTI|Sant'Agnese|NO|-
+2028-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2028-01-23|SANTI|Santa Emerenziana|NO|-
+2028-01-24|SANTI|S. Francesco di Sales|NO|-
+2028-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2028-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2028-01-27|SANTI|Sant'Angela Merici|NO|-
+2028-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2028-01-29|SANTI|S. Costanzo|NO|-
+2028-01-30|SANTI|Santa Martina|NO|-
+2028-01-31|SANTI|S. Giovanni Bosco|NO|-
+2028-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2028-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2028-02-03|SANTI|S. Biagio|NO|-
+2028-02-04|SANTI|S. Gilberto|NO|-
+2028-02-05|SANTI|Sant'Agata|NO|-
+2028-02-06|SANTI|S. Paolo Miki|NO|-
+2028-02-07|SANTI|S. Romualdo|NO|-
+2028-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2028-02-09|SANTI|Santa Apollonia|NO|-
+2028-02-10|SANTI|Santa Scolastica|NO|-
+2028-02-11|RICORRENZA_RELIGIOSA|Nostra Signora di Lourdes|NO|-
+2028-02-12|SANTI|Santa Eulalia|NO|-
+2028-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2028-02-14|SANTI|S. Valentino martire|NO|-
+2028-02-15|SANTI|SS. Faustino e Giovita|NO|-
+2028-02-16|SANTI|Santa Giuliana|NO|-
+2028-02-17|SANTI|S. Donato martire|NO|-
+2028-02-18|SANTI|Beato Angelico|NO|VN
+2028-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2028-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2028-02-21|SANTI|Santa Eleonora, S. Pier Damiani|NO|-
+2028-02-22|SANTI|S. Massimiano di Ravenna|NO|VN
+2028-02-23|SANTI|S. Policarpo|NO|-
+2028-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2028-02-25|SANTI|S. Cesario|NO|-
+2028-02-26|SANTI|S. Nestore|NO|-
+2028-02-27|SANTI|S. Leandro|NO|-
+2028-02-28|SANTI|S. Romano abate|NO|-
+2028-02-29|SANTI|Sant'Ilaro Papa|NO|VN_BISESTILE
+2028-03-01|SANTI_E_RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri · Sant'Albino|SI|CALCOLO_ROMANO_ITALIA;VN
+2028-03-02|SANTI|Sant'Eraclio, S. Basilio martire|NO|-
+2028-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2028-03-04|SANTI|S. Casimiro, S. Lucio|NO|-
+2028-03-05|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Quaresima · S. Adriano|SI|CALCOLO_ROMANO_ITALIA;-
+2028-03-06|SANTI|S. Marciano|NO|-
+2028-03-07|SANTI|Santa Perpetua e Felicita|NO|-
+2028-03-08|SANTI|S. Giovanni di Dio|NO|VN
+2028-03-09|SANTI|Santa Francesca Romana|NO|-
+2028-03-10|SANTI|S. Simplicio Papa|NO|-
+2028-03-11|SANTI|S. Costantino|NO|-
+2028-03-12|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Quaresima · S. Massimiliano|SI|CALCOLO_ROMANO_ITALIA;-
+2028-03-13|SANTI|Sant'Arrigo, Santa Eufrasia|NO|-
+2028-03-14|SANTI|Santa Matilde regina|NO|-
+2028-03-15|SANTI|S. Zaccaria Papa|NO|VN
+2028-03-16|SANTI|Sant'Ariberto|NO|-
+2028-03-17|SANTI|S. Patrizio|NO|-
+2028-03-18|SANTI|S. Cirillo di Gerusalemme|NO|-
+2028-03-19|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Quaresima · S. Giuseppe|SI|CALCOLO_ROMANO_ITALIA;-
+2028-03-20|SANTI|Santa Claudia, S. Alessandra martire|NO|-
+2028-03-21|SANTI|S. Benedetto da Norcia|NO|-
+2028-03-22|SANTI|Santa Lea|NO|VN
+2028-03-23|SANTI|S. Turibio de Mogrovejo|NO|-
+2028-03-24|SANTI|S. Romolo, S. Caterina di Svezia|NO|-
+2028-03-25|RICORRENZA_RELIGIOSA|Annunciazione del Signore|NO|-
+2028-03-26|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Quaresima · S. Emanuele, S. Teodoro|SI|CALCOLO_ROMANO_ITALIA;-
+2028-03-27|SANTI|S. Augusto|NO|-
+2028-03-28|SANTI|S. Sisto III Papa|NO|-
+2028-03-29|SANTI|Sant'Eustasio|NO|VN
+2028-03-30|SANTI|S. Amedeo|NO|-
+2028-03-31|SANTI|S. Beniamino martire|NO|-
+2028-04-01|SANTI|Sant'Ugo di Grenoble (vescovo)|NO|-
+2028-04-02|SANTI_E_RICORRENZA_RELIGIOSA|V Domenica di Quaresima · S. Francesco di Paola|SI|CALCOLO_ROMANO_ITALIA;-
+2028-04-03|SANTI|S. Riccardo vescovo|NO|-
+2028-04-04|SANTI|Sant'Isidoro|NO|-
+2028-04-05|SANTI|S. Vincenzo Ferrer|NO|VN
+2028-04-06|SANTI|Santa Galla|NO|VN
+2028-04-07|SANTI|Sant'Ermanno, S. Giovanni B.|NO|-
+2028-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2028-04-09|SANTI_E_RICORRENZA_RELIGIOSA|Domenica delle Palme · S. Gualtiero, Santa Maria Cleofe|SI|CALCOLO_ROMANO_ITALIA;-
+2028-04-10|SANTI|S. Terenzio martire|NO|-
+2028-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2028-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2028-04-13|SANTI|Sant'Ermenegildo, S. Martino I Papa|NO|-
+2028-04-14|SANTI|S. Abbondio|NO|-
+2028-04-15|SANTI|Sant'Annibale martire|NO|-
+2028-04-16|SANTI_E_RICORRENZA_RELIGIOSA|Pasqua · Santa Bernadetta, S. Lamberto|SI|CALCOLO_ROMANO_ITALIA;-
+2028-04-17|SANTI_E_RICORRENZA_RELIGIOSA|Lunedì dell’Angelo · Sant'Aniceto Papa, S. Roberto|SI|CALCOLO_ROMANO_ITALIA;-
+2028-04-18|SANTI|S. Galdino vescovo|NO|-
+2028-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2028-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2028-04-21|SANTI|Sant'Anselmo|NO|-
+2028-04-22|SANTI|Ss. Sotero e Caio|NO|-
+2028-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2028-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2028-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2028-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2028-04-27|SANTI|Ss. Ida e Zita|NO|-
+2028-04-28|SANTI|Santa Valeria|NO|-
+2028-04-29|SANTI|Santa Caterina da Siena|NO|-
+2028-04-30|SANTI|S. Pio V Papa|NO|-
+2028-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2028-05-02|SANTI|Sant'Atanasio|NO|-
+2028-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2028-05-04|SANTI|S. Silvano|NO|-
+2028-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2028-05-06|SANTI|Santa Giuditta|NO|-
+2028-05-07|SANTI|Santa Flavia|NO|-
+2028-05-08|SANTI|S. Vittore|NO|-
+2028-05-09|SANTI|S. Gregorio|NO|-
+2028-05-10|SANTI|Sant'Antonino|NO|-
+2028-05-11|SANTI|S. Fabio martire|NO|-
+2028-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2028-05-13|RICORRENZA_RELIGIOSA|Beata Vergine Maria di Fatima|NO|-
+2028-05-14|SANTI|S. Mattia apostolo|NO|-
+2028-05-15|SANTI|S. Torquato|NO|-
+2028-05-16|SANTI|Sant'Ubaldo|NO|-
+2028-05-17|SANTI|S. Pasquale Baylon|NO|VN
+2028-05-18|SANTI|S. Giovanni I Papa|NO|-
+2028-05-19|SANTI|S. Celestino V Papa|NO|-
+2028-05-20|SANTI|S. Bernardino da Siena|NO|-
+2028-05-21|SANTI|S. Vittorio martire|NO|-
+2028-05-22|SANTI|Santa Rita da Cascia|NO|-
+2028-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2028-05-24|SANTI|S. Vincenzo di Lérins|NO|VN
+2028-05-25|SANTI|S. Gregorio VII Papa|NO|-
+2028-05-26|SANTI|S. Filippo Neri|NO|-
+2028-05-27|SANTI|Sant'Agostino|NO|-
+2028-05-28|SANTI_E_RICORRENZA_RELIGIOSA|Ascensione del Signore · Sant'Emilio martire|SI|CALCOLO_ROMANO_ITALIA;-
+2028-05-29|SANTI|S. Massimino vescovo|NO|-
+2028-05-30|SANTI|Santa Giovanna d'Arco|NO|-
+2028-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2028-06-01|SANTI|S. Giustino|NO|-
+2028-06-02|SANTI_E_FESTIVITA_CIVILE|Ss. Marcellino / Festa della Repubblica|NO|-
+2028-06-03|SANTI|S. Carlo Lwanga e compagni|NO|-
+2028-06-04|SANTI_E_RICORRENZA_RELIGIOSA|Pentecoste · S. Quirino vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2028-06-05|SANTI|S. Bonifacio vescovo|NO|-
+2028-06-06|SANTI|S. Norberto|NO|-
+2028-06-07|SANTI|Sant'Antonio Maria Gianelli|NO|VN
+2028-06-08|SANTI|S. Medardo vescovo|NO|-
+2028-06-09|SANTI|Sant'Efrem Siro, Ss. Primo e Feliciano|NO|-
+2028-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2028-06-11|SANTI|S. Barnaba apostolo|NO|-
+2028-06-12|SANTI|Sant'Onofrio|NO|VN
+2028-06-13|SANTI|Sant'Antonio di Padova|NO|VN
+2028-06-14|SANTI|Sant'Eliseo|NO|-
+2028-06-15|SANTI|S. Germana|NO|-
+2028-06-16|SANTI|Sant'Aureliano|NO|-
+2028-06-17|SANTI|S. Ranieri, S. Gregorio Barbarigo|NO|-
+2028-06-18|SANTI_E_RICORRENZA_RELIGIOSA|Corpus Domini · Santa Marina|SI|CALCOLO_ROMANO_ITALIA;-
+2028-06-19|SANTI|Ss. Gervasio e Protasio, S. Romualdo|NO|-
+2028-06-20|SANTI|Sant'Ettore, S. Silverio Papa|NO|-
+2028-06-21|SANTI|S. Luigi Gonzaga|NO|-
+2028-06-22|SANTI|S. Paolino da Nola|NO|-
+2028-06-23|SANTI_E_RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù · S. Lanfranco vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2028-06-24|SANTI_E_RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria · Natività di S. Giovanni Battista|SI|CALCOLO_ROMANO_ITALIA;-
+2028-06-25|SANTI|S. Guglielmo|NO|-
+2028-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2028-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2028-06-28|SANTI|S. Attilio confessore, S. Ireneo|NO|-
+2028-06-29|SANTI|Ss. Pietro e Paolo|NO|-
+2028-06-30|SANTI|Ss. Primi Martiri|NO|-
+2028-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2028-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2028-07-03|SANTI|S. Tommaso apostolo|NO|-
+2028-07-04|SANTI|Santa Elisabetta regina|NO|-
+2028-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2028-07-06|SANTI|Santa Maria Goretti|NO|-
+2028-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2028-07-08|SANTI|Sant'Adriano III|NO|-
+2028-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2028-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2028-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2028-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2028-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2028-07-14|SANTI|S. Camillo De Lellis|NO|-
+2028-07-15|SANTI|S. Bonaventura|NO|-
+2028-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2028-07-17|SANTI|Sant'Alessio confessore|NO|-
+2028-07-18|SANTI|S. Federico|NO|-
+2028-07-19|SANTI|Santa Giusta|NO|-
+2028-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2028-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2028-07-22|SANTI|Santa Maria Maddalena|NO|-
+2028-07-23|SANTI|Santa Brigida|NO|-
+2028-07-24|SANTI|Santa Cristina|NO|-
+2028-07-25|SANTI|S. Giacomo apostolo|NO|-
+2028-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2028-07-27|SANTI|Santa Liliana|NO|-
+2028-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2028-07-29|SANTI|Santa Marta|NO|-
+2028-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2028-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2028-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2028-08-02|SANTI|Sant'Eusebio|NO|-
+2028-08-03|SANTI|Santa Lidia|NO|-
+2028-08-04|SANTI|S. Giovanni Maria Vianney|NO|VN_CORREZIONE
+2028-08-05|SANTI|Sant'Osvaldo|NO|VN_CORREZIONE
+2028-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2028-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2028-08-08|SANTI|S. Domenico|NO|-
+2028-08-09|SANTI|S. Romano|NO|-
+2028-08-10|SANTI|S. Lorenzo martire|NO|-
+2028-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2028-08-12|SANTI|Sant'Ercolano|NO|-
+2028-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2028-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2028-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2028-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2028-08-17|SANTI|S. Giacinto|NO|-
+2028-08-18|SANTI|Santa Elena imperatrice|NO|-
+2028-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2028-08-20|SANTI|S. Bernardo|NO|-
+2028-08-21|SANTI|S. Pio X Papa|NO|-
+2028-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2028-08-23|SANTI|S. Rosa da Lima|NO|-
+2028-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2028-08-25|SANTI|S. Lodovico re|NO|-
+2028-08-26|SANTI|Sant'Alessandro martire|NO|-
+2028-08-27|SANTI|Santa Monica|NO|-
+2028-08-28|SANTI|Sant'Agostino|NO|-
+2028-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2028-08-30|SANTI|Santa Faustina|NO|-
+2028-08-31|SANTI|Sant'Aristide|NO|-
+2028-09-01|SANTI|Sant'Egidio|NO|-
+2028-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2028-09-03|SANTI|S. Gregorio martire|NO|-
+2028-09-04|SANTI|Santa Rosalia|NO|-
+2028-09-05|SANTI|S. Vittorino|NO|-
+2028-09-06|SANTI|Sant'Umberto|NO|-
+2028-09-07|SANTI|Santa Regina|NO|-
+2028-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2028-09-09|SANTI|S. Sergio Papa|NO|-
+2028-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2028-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2028-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2028-09-13|SANTI|S. Giovanni Crisostomo|NO|VN_CORREZIONE
+2028-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2028-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2028-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2028-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2028-09-18|SANTI|Santa Sofia martire|NO|-
+2028-09-19|SANTI|S. Gennaro vescovo|NO|-
+2028-09-20|SANTI|Sant'Eustachio|NO|-
+2028-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2028-09-22|SANTI|S. Maurizio martire|NO|-
+2028-09-23|SANTI|S. Pio da Pietrelcina|NO|VN_CORREZIONE
+2028-09-24|SANTI|S. Pacifico prete|NO|-
+2028-09-25|SANTI|Santa Aurelia|NO|-
+2028-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2028-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2028-09-28|SANTI|S. Venceslao martire|NO|-
+2028-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2028-09-30|SANTI|S. Girolamo|NO|-
+2028-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2028-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2028-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2028-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2028-10-05|SANTI|S. Placido martire|NO|-
+2028-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2028-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2028-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2028-10-09|SANTI|S. Dionigi|NO|-
+2028-10-10|SANTI|S. Daniele vescovo|NO|-
+2028-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2028-10-12|SANTI|S. Serafino|NO|-
+2028-10-13|SANTI|Sant'Edoardo re|NO|-
+2028-10-14|SANTI|S. Callisto I Papa|NO|-
+2028-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2028-10-16|SANTI|Santa Edvige|NO|-
+2028-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2028-10-18|SANTI|S. Luca evangelista|NO|-
+2028-10-19|SANTI|S. Isacco martire|NO|-
+2028-10-20|SANTI|Sant'Irene|NO|-
+2028-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2028-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2028-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2028-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2028-10-25|SANTI|Ss. Crisanto e Daria|NO|VN
+2028-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2028-10-27|SANTI|S. Fiorenzo|NO|-
+2028-10-28|SANTI|SS. Simone e Giuda|NO|-
+2028-10-29|SANTI|S. Ermelinda|NO|-
+2028-10-30|SANTI|S. Germano vescovo|NO|-
+2028-10-31|SANTI|Santa Lucilla|NO|-
+2028-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2028-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2028-11-03|SANTI|Santa Silvia|NO|-
+2028-11-04|SANTI|S. Carlo Borromeo|NO|-
+2028-11-05|SANTI|S. Zaccaria profeta|NO|-
+2028-11-06|SANTI|S. Leonardo|NO|-
+2028-11-07|SANTI|Sant'Ernesto|NO|-
+2028-11-08|SANTI|S. Goffredo vescovo|NO|-
+2028-11-09|SANTI|Sant'Oreste|NO|-
+2028-11-10|SANTI|S. Leone Magno|NO|-
+2028-11-11|SANTI|S. Martino|NO|-
+2028-11-12|SANTI|S. Renato|NO|-
+2028-11-13|SANTI|S. Diego confessore|NO|-
+2028-11-14|SANTI|S. Giocondo vescovo|NO|-
+2028-11-15|SANTI|S. Alberto Magno|NO|-
+2028-11-16|SANTI|S. Margherita di Scozia|NO|-
+2028-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2028-11-18|SANTI|Sant'Oddone|NO|-
+2028-11-19|SANTI|S. Fausto|NO|-
+2028-11-20|SANTI|S. Felice di Valois, Sant'Ottavio|NO|-
+2028-11-21|RICORRENZA_RELIGIOSA|Presentazione di Maria Vergine|NO|-
+2028-11-22|SANTI|Santa Cecilia|NO|A4
+2028-11-23|SANTI|S. Clemente I Papa|NO|-
+2028-11-24|SANTI|S. Giovanni della Croce|NO|-
+2028-11-25|SANTI|Santa Caterina di Alessandria|NO|-
+2028-11-26|SANTI_E_RICORRENZA_RELIGIOSA|N.S. Gesù Re dell’Universo · S. Corrado vescovo, S. Delfina|SI|CALCOLO_ROMANO_ITALIA;-
+2028-11-27|SANTI|S. Virgilio|NO|-
+2028-11-28|SANTI|Santa Livia, S. Demetrio|NO|-
+2028-11-29|SANTI|S. Saturnino martire|NO|VN
+2028-11-30|SANTI|Sant'Andrea apostolo|NO|-
+2028-12-01|SANTI|S. Eligio|NO|-
+2028-12-02|SANTI|Santa Bibiana|NO|-
+2028-12-03|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Avvento · S. Francesco Saverio|SI|CALCOLO_ROMANO_ITALIA;-
+2028-12-04|SANTI|Santa Barbara|NO|-
+2028-12-05|SANTI|S. Dalmazio|NO|-
+2028-12-06|SANTI|S. Nicola di Bari|NO|VN
+2028-12-07|SANTI|Sant'Ambrogio vescovo|NO|-
+2028-12-08|RICORRENZA_RELIGIOSA|Immacolata Concezione|NO|-
+2028-12-09|SANTI|S. Siro|NO|-
+2028-12-10|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Avvento · Nostra Signora di Loreto|SI|CALCOLO_ROMANO_ITALIA;-
+2028-12-11|SANTI|S. Damaso I Papa|NO|-
+2028-12-12|SANTI|Santa Giovanna|NO|-
+2028-12-13|SANTI|Santa Lucia|NO|VN
+2028-12-14|SANTI|S. Giovanni della Croce|NO|-
+2028-12-15|SANTI|S. Valeriano|NO|-
+2028-12-16|SANTI|Santa Adelaide|NO|-
+2028-12-17|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Avvento · S. Lazzaro|SI|CALCOLO_ROMANO_ITALIA;-
+2028-12-18|SANTI|S. Graziano vescovo|NO|-
+2028-12-19|SANTI|S. Dario, Santa Fausta|NO|-
+2028-12-20|SANTI|S. Filogonio|NO|VN
+2028-12-21|SANTI|S. Pietro Canisio|NO|-
+2028-12-22|SANTI|S. Flaviano|NO|-
+2028-12-23|SANTI|S. Giovanni di Kenty|NO|-
+2028-12-24|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Avvento · Santa Irma|SI|CALCOLO_ROMANO_ITALIA;-
+2028-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2028-12-26|SANTI|S. Stefano|NO|VN
+2028-12-27|SANTI|S. Giovanni Evangelista|NO|A5
+2028-12-28|SANTI|Ss. Innocenti martiri|NO|-
+2028-12-29|SANTI|S. Tommaso Becket|NO|-
+2028-12-30|SANTI|Sant'Eugenio vescovo|NO|-
+2028-12-31|SANTI_E_RICORRENZA_RELIGIOSA|Sacra Famiglia · S. Silvestro Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2029-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2029-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2029-01-03|SANTI|Santa Genoveffa|NO|-
+2029-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2029-01-05|SANTI|Sant'Amelia|NO|-
+2029-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2029-01-07|SANTI_E_RICORRENZA_RELIGIOSA|Battesimo del Signore · S. Luciano, S. Raimondo|SI|CALCOLO_ROMANO_ITALIA;-
+2029-01-08|SANTI|S. Severino, S. Massimo|NO|-
+2029-01-09|SANTI|S. Giuliano martire|NO|-
+2029-01-10|SANTI|S. Agatone, S. Aldo|NO|-
+2029-01-11|SANTI|Sant'Igino Papa|NO|VN
+2029-01-12|SANTI|S. Modesto|NO|-
+2029-01-13|SANTI|Sant'Ilario|NO|-
+2029-01-14|SANTI|S. Felice|NO|-
+2029-01-15|SANTI|S. Mauro|NO|-
+2029-01-16|SANTI|S. Marcello Papa|NO|-
+2029-01-17|SANTI|Sant'Antonio abate|NO|-
+2029-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2029-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2029-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2029-01-21|SANTI|Sant'Agnese|NO|-
+2029-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2029-01-23|SANTI|Santa Emerenziana|NO|-
+2029-01-24|SANTI|S. Francesco di Sales|NO|-
+2029-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2029-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2029-01-27|SANTI|Sant'Angela Merici|NO|-
+2029-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2029-01-29|SANTI|S. Costanzo|NO|-
+2029-01-30|SANTI|Santa Martina|NO|-
+2029-01-31|SANTI|S. Giovanni Bosco|NO|-
+2029-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2029-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2029-02-03|SANTI|S. Biagio|NO|-
+2029-02-04|SANTI|S. Gilberto|NO|-
+2029-02-05|SANTI|Sant'Agata|NO|-
+2029-02-06|SANTI|S. Paolo Miki|NO|-
+2029-02-07|SANTI|S. Romualdo|NO|-
+2029-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2029-02-09|SANTI|Santa Apollonia|NO|-
+2029-02-10|SANTI|Santa Scolastica|NO|-
+2029-02-11|RICORRENZA_RELIGIOSA|Nostra Signora di Lourdes|NO|-
+2029-02-12|SANTI|Santa Eulalia|NO|-
+2029-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2029-02-14|SANTI_E_RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri · S. Valentino martire|SI|CALCOLO_ROMANO_ITALIA;-
+2029-02-15|SANTI|SS. Faustino e Giovita|NO|-
+2029-02-16|SANTI|Santa Giuliana|NO|-
+2029-02-17|SANTI|S. Donato martire|NO|-
+2029-02-18|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Quaresima · Beato Angelico|SI|CALCOLO_ROMANO_ITALIA;VN
+2029-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2029-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2029-02-21|SANTI|Santa Eleonora, S. Pier Damiani|NO|-
+2029-02-22|SANTI|S. Massimiano di Ravenna|NO|VN
+2029-02-23|SANTI|S. Policarpo|NO|-
+2029-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2029-02-25|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Quaresima · S. Cesario|SI|CALCOLO_ROMANO_ITALIA;-
+2029-02-26|SANTI|S. Nestore|NO|-
+2029-02-27|SANTI|S. Leandro|NO|-
+2029-02-28|SANTI|S. Romano abate|NO|-
+2029-03-01|SANTI|Sant'Albino|NO|VN
+2029-03-02|SANTI|Sant'Eraclio, S. Basilio martire|NO|-
+2029-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2029-03-04|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Quaresima · S. Casimiro, S. Lucio|SI|CALCOLO_ROMANO_ITALIA;-
+2029-03-05|SANTI|S. Adriano|NO|-
+2029-03-06|SANTI|S. Marciano|NO|-
+2029-03-07|SANTI|Santa Perpetua e Felicita|NO|-
+2029-03-08|SANTI|S. Giovanni di Dio|NO|VN
+2029-03-09|SANTI|Santa Francesca Romana|NO|-
+2029-03-10|SANTI|S. Simplicio Papa|NO|-
+2029-03-11|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Quaresima · S. Costantino|SI|CALCOLO_ROMANO_ITALIA;-
+2029-03-12|SANTI|S. Massimiliano|NO|-
+2029-03-13|SANTI|Sant'Arrigo, Santa Eufrasia|NO|-
+2029-03-14|SANTI|Santa Matilde regina|NO|-
+2029-03-15|SANTI|S. Zaccaria Papa|NO|VN
+2029-03-16|SANTI|Sant'Ariberto|NO|-
+2029-03-17|SANTI|S. Patrizio|NO|-
+2029-03-18|SANTI_E_RICORRENZA_RELIGIOSA|V Domenica di Quaresima · S. Cirillo di Gerusalemme|SI|CALCOLO_ROMANO_ITALIA;-
+2029-03-19|SANTI|S. Giuseppe|NO|-
+2029-03-20|SANTI|Santa Claudia, S. Alessandra martire|NO|-
+2029-03-21|SANTI|S. Benedetto da Norcia|NO|-
+2029-03-22|SANTI|Santa Lea|NO|VN
+2029-03-23|SANTI|S. Turibio de Mogrovejo|NO|-
+2029-03-24|SANTI|S. Romolo, S. Caterina di Svezia|NO|-
+2029-03-25|SANTI_E_RICORRENZA_RELIGIOSA|Domenica delle Palme · Annunciazione del Signore|SI|CALCOLO_ROMANO_ITALIA;-
+2029-03-26|SANTI|S. Emanuele, S. Teodoro|NO|-
+2029-03-27|SANTI|S. Augusto|NO|-
+2029-03-28|SANTI|S. Sisto III Papa|NO|-
+2029-03-29|SANTI|Sant'Eustasio|NO|VN
+2029-03-30|SANTI|S. Amedeo|NO|-
+2029-03-31|SANTI|S. Beniamino martire|NO|-
+2029-04-01|SANTI_E_RICORRENZA_RELIGIOSA|Pasqua · Sant'Ugo di Grenoble (vescovo)|SI|CALCOLO_ROMANO_ITALIA;-
+2029-04-02|SANTI_E_RICORRENZA_RELIGIOSA|Lunedì dell’Angelo · S. Francesco di Paola|SI|CALCOLO_ROMANO_ITALIA;-
+2029-04-03|SANTI|S. Riccardo vescovo|NO|-
+2029-04-04|SANTI|Sant'Isidoro|NO|-
+2029-04-05|SANTI|S. Vincenzo Ferrer|NO|VN
+2029-04-06|SANTI|Santa Galla|NO|VN
+2029-04-07|SANTI|Sant'Ermanno, S. Giovanni B.|NO|-
+2029-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2029-04-09|SANTI|S. Gualtiero, Santa Maria Cleofe|NO|-
+2029-04-10|SANTI|S. Terenzio martire|NO|-
+2029-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2029-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2029-04-13|SANTI|Sant'Ermenegildo, S. Martino I Papa|NO|-
+2029-04-14|SANTI|S. Abbondio|NO|-
+2029-04-15|SANTI|Sant'Annibale martire|NO|-
+2029-04-16|SANTI|Santa Bernadetta, S. Lamberto|NO|-
+2029-04-17|SANTI|Sant'Aniceto Papa, S. Roberto|NO|-
+2029-04-18|SANTI|S. Galdino vescovo|NO|-
+2029-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2029-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2029-04-21|SANTI|Sant'Anselmo|NO|-
+2029-04-22|SANTI|Ss. Sotero e Caio|NO|-
+2029-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2029-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2029-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2029-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2029-04-27|SANTI|Ss. Ida e Zita|NO|-
+2029-04-28|SANTI|Santa Valeria|NO|-
+2029-04-29|SANTI|Santa Caterina da Siena|NO|-
+2029-04-30|SANTI|S. Pio V Papa|NO|-
+2029-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2029-05-02|SANTI|Sant'Atanasio|NO|-
+2029-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2029-05-04|SANTI|S. Silvano|NO|-
+2029-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2029-05-06|SANTI|Santa Giuditta|NO|-
+2029-05-07|SANTI|Santa Flavia|NO|-
+2029-05-08|SANTI|S. Vittore|NO|-
+2029-05-09|SANTI|S. Gregorio|NO|-
+2029-05-10|SANTI|Sant'Antonino|NO|-
+2029-05-11|SANTI|S. Fabio martire|NO|-
+2029-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2029-05-13|SANTI_E_RICORRENZA_RELIGIOSA|Ascensione del Signore · Beata Vergine Maria di Fatima|SI|CALCOLO_ROMANO_ITALIA;-
+2029-05-14|SANTI|S. Mattia apostolo|NO|-
+2029-05-15|SANTI|S. Torquato|NO|-
+2029-05-16|SANTI|Sant'Ubaldo|NO|-
+2029-05-17|SANTI|S. Pasquale Baylon|NO|VN
+2029-05-18|SANTI|S. Giovanni I Papa|NO|-
+2029-05-19|SANTI|S. Celestino V Papa|NO|-
+2029-05-20|SANTI_E_RICORRENZA_RELIGIOSA|Pentecoste · S. Bernardino da Siena|SI|CALCOLO_ROMANO_ITALIA;-
+2029-05-21|SANTI|S. Vittorio martire|NO|-
+2029-05-22|SANTI|Santa Rita da Cascia|NO|-
+2029-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2029-05-24|SANTI|S. Vincenzo di Lérins|NO|VN
+2029-05-25|SANTI|S. Gregorio VII Papa|NO|-
+2029-05-26|SANTI|S. Filippo Neri|NO|-
+2029-05-27|SANTI|Sant'Agostino|NO|-
+2029-05-28|SANTI|Sant'Emilio martire|NO|-
+2029-05-29|SANTI|S. Massimino vescovo|NO|-
+2029-05-30|SANTI|Santa Giovanna d'Arco|NO|-
+2029-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2029-06-01|SANTI|S. Giustino|NO|-
+2029-06-02|SANTI_E_FESTIVITA_CIVILE|Ss. Marcellino / Festa della Repubblica|NO|-
+2029-06-03|SANTI_E_RICORRENZA_RELIGIOSA|Corpus Domini · S. Carlo Lwanga e compagni|SI|CALCOLO_ROMANO_ITALIA;-
+2029-06-04|SANTI|S. Quirino vescovo|NO|-
+2029-06-05|SANTI|S. Bonifacio vescovo|NO|-
+2029-06-06|SANTI|S. Norberto|NO|-
+2029-06-07|SANTI|Sant'Antonio Maria Gianelli|NO|VN
+2029-06-08|SANTI_E_RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù · S. Medardo vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2029-06-09|SANTI_E_RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria · Sant'Efrem Siro, Ss. Primo e Feliciano|SI|CALCOLO_ROMANO_ITALIA;-
+2029-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2029-06-11|SANTI|S. Barnaba apostolo|NO|-
+2029-06-12|SANTI|Sant'Onofrio|NO|VN
+2029-06-13|SANTI|Sant'Antonio di Padova|NO|VN
+2029-06-14|SANTI|Sant'Eliseo|NO|-
+2029-06-15|SANTI|S. Germana|NO|-
+2029-06-16|SANTI|Sant'Aureliano|NO|-
+2029-06-17|SANTI|S. Ranieri, S. Gregorio Barbarigo|NO|-
+2029-06-18|SANTI|Santa Marina|NO|-
+2029-06-19|SANTI|Ss. Gervasio e Protasio, S. Romualdo|NO|-
+2029-06-20|SANTI|Sant'Ettore, S. Silverio Papa|NO|-
+2029-06-21|SANTI|S. Luigi Gonzaga|NO|-
+2029-06-22|SANTI|S. Paolino da Nola|NO|-
+2029-06-23|SANTI|S. Lanfranco vescovo|NO|-
+2029-06-24|RICORRENZA_RELIGIOSA|Natività di S. Giovanni Battista|NO|-
+2029-06-25|SANTI|S. Guglielmo|NO|-
+2029-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2029-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2029-06-28|SANTI|S. Attilio confessore, S. Ireneo|NO|-
+2029-06-29|SANTI|Ss. Pietro e Paolo|NO|-
+2029-06-30|SANTI|Ss. Primi Martiri|NO|-
+2029-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2029-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2029-07-03|SANTI|S. Tommaso apostolo|NO|-
+2029-07-04|SANTI|Santa Elisabetta regina|NO|-
+2029-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2029-07-06|SANTI|Santa Maria Goretti|NO|-
+2029-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2029-07-08|SANTI|Sant'Adriano III|NO|-
+2029-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2029-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2029-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2029-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2029-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2029-07-14|SANTI|S. Camillo De Lellis|NO|-
+2029-07-15|SANTI|S. Bonaventura|NO|-
+2029-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2029-07-17|SANTI|Sant'Alessio confessore|NO|-
+2029-07-18|SANTI|S. Federico|NO|-
+2029-07-19|SANTI|Santa Giusta|NO|-
+2029-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2029-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2029-07-22|SANTI|Santa Maria Maddalena|NO|-
+2029-07-23|SANTI|Santa Brigida|NO|-
+2029-07-24|SANTI|Santa Cristina|NO|-
+2029-07-25|SANTI|S. Giacomo apostolo|NO|-
+2029-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2029-07-27|SANTI|Santa Liliana|NO|-
+2029-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2029-07-29|SANTI|Santa Marta|NO|-
+2029-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2029-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2029-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2029-08-02|SANTI|Sant'Eusebio|NO|-
+2029-08-03|SANTI|Santa Lidia|NO|-
+2029-08-04|SANTI|S. Giovanni Maria Vianney|NO|VN_CORREZIONE
+2029-08-05|SANTI|Sant'Osvaldo|NO|VN_CORREZIONE
+2029-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2029-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2029-08-08|SANTI|S. Domenico|NO|-
+2029-08-09|SANTI|S. Romano|NO|-
+2029-08-10|SANTI|S. Lorenzo martire|NO|-
+2029-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2029-08-12|SANTI|Sant'Ercolano|NO|-
+2029-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2029-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2029-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2029-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2029-08-17|SANTI|S. Giacinto|NO|-
+2029-08-18|SANTI|Santa Elena imperatrice|NO|-
+2029-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2029-08-20|SANTI|S. Bernardo|NO|-
+2029-08-21|SANTI|S. Pio X Papa|NO|-
+2029-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2029-08-23|SANTI|S. Rosa da Lima|NO|-
+2029-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2029-08-25|SANTI|S. Lodovico re|NO|-
+2029-08-26|SANTI|Sant'Alessandro martire|NO|-
+2029-08-27|SANTI|Santa Monica|NO|-
+2029-08-28|SANTI|Sant'Agostino|NO|-
+2029-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2029-08-30|SANTI|Santa Faustina|NO|-
+2029-08-31|SANTI|Sant'Aristide|NO|-
+2029-09-01|SANTI|Sant'Egidio|NO|-
+2029-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2029-09-03|SANTI|S. Gregorio martire|NO|-
+2029-09-04|SANTI|Santa Rosalia|NO|-
+2029-09-05|SANTI|S. Vittorino|NO|-
+2029-09-06|SANTI|Sant'Umberto|NO|-
+2029-09-07|SANTI|Santa Regina|NO|-
+2029-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2029-09-09|SANTI|S. Sergio Papa|NO|-
+2029-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2029-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2029-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2029-09-13|SANTI|S. Giovanni Crisostomo|NO|VN_CORREZIONE
+2029-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2029-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2029-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2029-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2029-09-18|SANTI|Santa Sofia martire|NO|-
+2029-09-19|SANTI|S. Gennaro vescovo|NO|-
+2029-09-20|SANTI|Sant'Eustachio|NO|-
+2029-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2029-09-22|SANTI|S. Maurizio martire|NO|-
+2029-09-23|SANTI|S. Pio da Pietrelcina|NO|VN_CORREZIONE
+2029-09-24|SANTI|S. Pacifico prete|NO|-
+2029-09-25|SANTI|Santa Aurelia|NO|-
+2029-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2029-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2029-09-28|SANTI|S. Venceslao martire|NO|-
+2029-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2029-09-30|SANTI|S. Girolamo|NO|-
+2029-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2029-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2029-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2029-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2029-10-05|SANTI|S. Placido martire|NO|-
+2029-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2029-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2029-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2029-10-09|SANTI|S. Dionigi|NO|-
+2029-10-10|SANTI|S. Daniele vescovo|NO|-
+2029-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2029-10-12|SANTI|S. Serafino|NO|-
+2029-10-13|SANTI|Sant'Edoardo re|NO|-
+2029-10-14|SANTI|S. Callisto I Papa|NO|-
+2029-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2029-10-16|SANTI|Santa Edvige|NO|-
+2029-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2029-10-18|SANTI|S. Luca evangelista|NO|-
+2029-10-19|SANTI|S. Isacco martire|NO|-
+2029-10-20|SANTI|Sant'Irene|NO|-
+2029-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2029-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2029-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2029-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2029-10-25|SANTI|Ss. Crisanto e Daria|NO|VN
+2029-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2029-10-27|SANTI|S. Fiorenzo|NO|-
+2029-10-28|SANTI|SS. Simone e Giuda|NO|-
+2029-10-29|SANTI|S. Ermelinda|NO|-
+2029-10-30|SANTI|S. Germano vescovo|NO|-
+2029-10-31|SANTI|Santa Lucilla|NO|-
+2029-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2029-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2029-11-03|SANTI|Santa Silvia|NO|-
+2029-11-04|SANTI|S. Carlo Borromeo|NO|-
+2029-11-05|SANTI|S. Zaccaria profeta|NO|-
+2029-11-06|SANTI|S. Leonardo|NO|-
+2029-11-07|SANTI|Sant'Ernesto|NO|-
+2029-11-08|SANTI|S. Goffredo vescovo|NO|-
+2029-11-09|SANTI|Sant'Oreste|NO|-
+2029-11-10|SANTI|S. Leone Magno|NO|-
+2029-11-11|SANTI|S. Martino|NO|-
+2029-11-12|SANTI|S. Renato|NO|-
+2029-11-13|SANTI|S. Diego confessore|NO|-
+2029-11-14|SANTI|S. Giocondo vescovo|NO|-
+2029-11-15|SANTI|S. Alberto Magno|NO|-
+2029-11-16|SANTI|S. Margherita di Scozia|NO|-
+2029-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2029-11-18|SANTI|Sant'Oddone|NO|-
+2029-11-19|SANTI|S. Fausto|NO|-
+2029-11-20|SANTI|S. Felice di Valois, Sant'Ottavio|NO|-
+2029-11-21|RICORRENZA_RELIGIOSA|Presentazione di Maria Vergine|NO|-
+2029-11-22|SANTI|Santa Cecilia|NO|A4
+2029-11-23|SANTI|S. Clemente I Papa|NO|-
+2029-11-24|SANTI|S. Giovanni della Croce|NO|-
+2029-11-25|SANTI_E_RICORRENZA_RELIGIOSA|N.S. Gesù Re dell’Universo · Santa Caterina di Alessandria|SI|CALCOLO_ROMANO_ITALIA;-
+2029-11-26|SANTI|S. Corrado vescovo, S. Delfina|NO|-
+2029-11-27|SANTI|S. Virgilio|NO|-
+2029-11-28|SANTI|Santa Livia, S. Demetrio|NO|-
+2029-11-29|SANTI|S. Saturnino martire|NO|VN
+2029-11-30|SANTI|Sant'Andrea apostolo|NO|-
+2029-12-01|SANTI|S. Eligio|NO|-
+2029-12-02|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Avvento · Santa Bibiana|SI|CALCOLO_ROMANO_ITALIA;-
+2029-12-03|SANTI|S. Francesco Saverio|NO|-
+2029-12-04|SANTI|Santa Barbara|NO|-
+2029-12-05|SANTI|S. Dalmazio|NO|-
+2029-12-06|SANTI|S. Nicola di Bari|NO|VN
+2029-12-07|SANTI|Sant'Ambrogio vescovo|NO|-
+2029-12-08|RICORRENZA_RELIGIOSA|Immacolata Concezione|NO|-
+2029-12-09|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Avvento · S. Siro|SI|CALCOLO_ROMANO_ITALIA;-
+2029-12-10|RICORRENZA_RELIGIOSA|Nostra Signora di Loreto|NO|-
+2029-12-11|SANTI|S. Damaso I Papa|NO|-
+2029-12-12|SANTI|Santa Giovanna|NO|-
+2029-12-13|SANTI|Santa Lucia|NO|VN
+2029-12-14|SANTI|S. Giovanni della Croce|NO|-
+2029-12-15|SANTI|S. Valeriano|NO|-
+2029-12-16|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Avvento · Santa Adelaide|SI|CALCOLO_ROMANO_ITALIA;-
+2029-12-17|SANTI|S. Lazzaro|NO|-
+2029-12-18|SANTI|S. Graziano vescovo|NO|-
+2029-12-19|SANTI|S. Dario, Santa Fausta|NO|-
+2029-12-20|SANTI|S. Filogonio|NO|VN
+2029-12-21|SANTI|S. Pietro Canisio|NO|-
+2029-12-22|SANTI|S. Flaviano|NO|-
+2029-12-23|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Avvento · S. Giovanni di Kenty|SI|CALCOLO_ROMANO_ITALIA;-
+2029-12-24|SANTI|Santa Irma|NO|-
+2029-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2029-12-26|SANTI|S. Stefano|NO|VN
+2029-12-27|SANTI|S. Giovanni Evangelista|NO|A5
+2029-12-28|SANTI|Ss. Innocenti martiri|NO|-
+2029-12-29|SANTI|S. Tommaso Becket|NO|-
+2029-12-30|SANTI_E_RICORRENZA_RELIGIOSA|Sacra Famiglia · Sant'Eugenio vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2029-12-31|SANTI|S. Silvestro Papa|NO|-
+2030-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2030-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2030-01-03|SANTI|Santa Genoveffa|NO|-
+2030-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2030-01-05|SANTI|Sant'Amelia|NO|-
+2030-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2030-01-07|SANTI|S. Luciano, S. Raimondo|NO|-
+2030-01-08|SANTI|S. Severino, S. Massimo|NO|-
+2030-01-09|SANTI|S. Giuliano martire|NO|-
+2030-01-10|SANTI|S. Agatone, S. Aldo|NO|-
+2030-01-11|SANTI|Sant'Igino Papa|NO|VN
+2030-01-12|SANTI|S. Modesto|NO|-
+2030-01-13|SANTI_E_RICORRENZA_RELIGIOSA|Battesimo del Signore · Sant'Ilario|SI|CALCOLO_ROMANO_ITALIA;-
+2030-01-14|SANTI|S. Felice|NO|-
+2030-01-15|SANTI|S. Mauro|NO|-
+2030-01-16|SANTI|S. Marcello Papa|NO|-
+2030-01-17|SANTI|Sant'Antonio abate|NO|-
+2030-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2030-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2030-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2030-01-21|SANTI|Sant'Agnese|NO|-
+2030-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2030-01-23|SANTI|Santa Emerenziana|NO|-
+2030-01-24|SANTI|S. Francesco di Sales|NO|-
+2030-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2030-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2030-01-27|SANTI|Sant'Angela Merici|NO|-
+2030-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2030-01-29|SANTI|S. Costanzo|NO|-
+2030-01-30|SANTI|Santa Martina|NO|-
+2030-01-31|SANTI|S. Giovanni Bosco|NO|-
+2030-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2030-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2030-02-03|SANTI|S. Biagio|NO|-
+2030-02-04|SANTI|S. Gilberto|NO|-
+2030-02-05|SANTI|Sant'Agata|NO|-
+2030-02-06|SANTI|S. Paolo Miki|NO|-
+2030-02-07|SANTI|S. Romualdo|NO|-
+2030-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2030-02-09|SANTI|Santa Apollonia|NO|-
+2030-02-10|SANTI|Santa Scolastica|NO|-
+2030-02-11|RICORRENZA_RELIGIOSA|Nostra Signora di Lourdes|NO|-
+2030-02-12|SANTI|Santa Eulalia|NO|-
+2030-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2030-02-14|SANTI|S. Valentino martire|NO|-
+2030-02-15|SANTI|SS. Faustino e Giovita|NO|-
+2030-02-16|SANTI|Santa Giuliana|NO|-
+2030-02-17|SANTI|S. Donato martire|NO|-
+2030-02-18|SANTI|Beato Angelico|NO|VN
+2030-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2030-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2030-02-21|SANTI|Santa Eleonora, S. Pier Damiani|NO|-
+2030-02-22|SANTI|S. Massimiano di Ravenna|NO|VN
+2030-02-23|SANTI|S. Policarpo|NO|-
+2030-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2030-02-25|SANTI|S. Cesario|NO|-
+2030-02-26|SANTI|S. Nestore|NO|-
+2030-02-27|SANTI|S. Leandro|NO|-
+2030-02-28|SANTI|S. Romano abate|NO|-
+2030-03-01|SANTI|Sant'Albino|NO|VN
+2030-03-02|SANTI|Sant'Eraclio, S. Basilio martire|NO|-
+2030-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2030-03-04|SANTI|S. Casimiro, S. Lucio|NO|-
+2030-03-05|SANTI|S. Adriano|NO|-
+2030-03-06|SANTI_E_RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri · S. Marciano|SI|CALCOLO_ROMANO_ITALIA;-
+2030-03-07|SANTI|Santa Perpetua e Felicita|NO|-
+2030-03-08|SANTI|S. Giovanni di Dio|NO|VN
+2030-03-09|SANTI|Santa Francesca Romana|NO|-
+2030-03-10|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Quaresima · S. Simplicio Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2030-03-11|SANTI|S. Costantino|NO|-
+2030-03-12|SANTI|S. Massimiliano|NO|-
+2030-03-13|SANTI|Sant'Arrigo, Santa Eufrasia|NO|-
+2030-03-14|SANTI|Santa Matilde regina|NO|-
+2030-03-15|SANTI|S. Zaccaria Papa|NO|VN
+2030-03-16|SANTI|Sant'Ariberto|NO|-
+2030-03-17|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Quaresima · S. Patrizio|SI|CALCOLO_ROMANO_ITALIA;-
+2030-03-18|SANTI|S. Cirillo di Gerusalemme|NO|-
+2030-03-19|SANTI|S. Giuseppe|NO|-
+2030-03-20|SANTI|Santa Claudia, S. Alessandra martire|NO|-
+2030-03-21|SANTI|S. Benedetto da Norcia|NO|-
+2030-03-22|SANTI|Santa Lea|NO|VN
+2030-03-23|SANTI|S. Turibio de Mogrovejo|NO|-
+2030-03-24|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Quaresima · S. Romolo, S. Caterina di Svezia|SI|CALCOLO_ROMANO_ITALIA;-
+2030-03-25|RICORRENZA_RELIGIOSA|Annunciazione del Signore|NO|-
+2030-03-26|SANTI|S. Emanuele, S. Teodoro|NO|-
+2030-03-27|SANTI|S. Augusto|NO|-
+2030-03-28|SANTI|S. Sisto III Papa|NO|-
+2030-03-29|SANTI|Sant'Eustasio|NO|VN
+2030-03-30|SANTI|S. Amedeo|NO|-
+2030-03-31|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Quaresima · S. Beniamino martire|SI|CALCOLO_ROMANO_ITALIA;-
+2030-04-01|SANTI|Sant'Ugo di Grenoble (vescovo)|NO|-
+2030-04-02|SANTI|S. Francesco di Paola|NO|-
+2030-04-03|SANTI|S. Riccardo vescovo|NO|-
+2030-04-04|SANTI|Sant'Isidoro|NO|-
+2030-04-05|SANTI|S. Vincenzo Ferrer|NO|VN
+2030-04-06|SANTI|Santa Galla|NO|VN
+2030-04-07|SANTI_E_RICORRENZA_RELIGIOSA|V Domenica di Quaresima · Sant'Ermanno, S. Giovanni B.|SI|CALCOLO_ROMANO_ITALIA;-
+2030-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2030-04-09|SANTI|S. Gualtiero, Santa Maria Cleofe|NO|-
+2030-04-10|SANTI|S. Terenzio martire|NO|-
+2030-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2030-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2030-04-13|SANTI|Sant'Ermenegildo, S. Martino I Papa|NO|-
+2030-04-14|SANTI_E_RICORRENZA_RELIGIOSA|Domenica delle Palme · S. Abbondio|SI|CALCOLO_ROMANO_ITALIA;-
+2030-04-15|SANTI|Sant'Annibale martire|NO|-
+2030-04-16|SANTI|Santa Bernadetta, S. Lamberto|NO|-
+2030-04-17|SANTI|Sant'Aniceto Papa, S. Roberto|NO|-
+2030-04-18|SANTI|S. Galdino vescovo|NO|-
+2030-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2030-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2030-04-21|SANTI_E_RICORRENZA_RELIGIOSA|Pasqua · Sant'Anselmo|SI|CALCOLO_ROMANO_ITALIA;-
+2030-04-22|SANTI_E_RICORRENZA_RELIGIOSA|Lunedì dell’Angelo · Ss. Sotero e Caio|SI|CALCOLO_ROMANO_ITALIA;-
+2030-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2030-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2030-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2030-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2030-04-27|SANTI|Ss. Ida e Zita|NO|-
+2030-04-28|SANTI|Santa Valeria|NO|-
+2030-04-29|SANTI|Santa Caterina da Siena|NO|-
+2030-04-30|SANTI|S. Pio V Papa|NO|-
+2030-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2030-05-02|SANTI|Sant'Atanasio|NO|-
+2030-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2030-05-04|SANTI|S. Silvano|NO|-
+2030-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2030-05-06|SANTI|Santa Giuditta|NO|-
+2030-05-07|SANTI|Santa Flavia|NO|-
+2030-05-08|SANTI|S. Vittore|NO|-
+2030-05-09|SANTI|S. Gregorio|NO|-
+2030-05-10|SANTI|Sant'Antonino|NO|-
+2030-05-11|SANTI|S. Fabio martire|NO|-
+2030-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2030-05-13|RICORRENZA_RELIGIOSA|Beata Vergine Maria di Fatima|NO|-
+2030-05-14|SANTI|S. Mattia apostolo|NO|-
+2030-05-15|SANTI|S. Torquato|NO|-
+2030-05-16|SANTI|Sant'Ubaldo|NO|-
+2030-05-17|SANTI|S. Pasquale Baylon|NO|VN
+2030-05-18|SANTI|S. Giovanni I Papa|NO|-
+2030-05-19|SANTI|S. Celestino V Papa|NO|-
+2030-05-20|SANTI|S. Bernardino da Siena|NO|-
+2030-05-21|SANTI|S. Vittorio martire|NO|-
+2030-05-22|SANTI|Santa Rita da Cascia|NO|-
+2030-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2030-05-24|SANTI|S. Vincenzo di Lérins|NO|VN
+2030-05-25|SANTI|S. Gregorio VII Papa|NO|-
+2030-05-26|SANTI|S. Filippo Neri|NO|-
+2030-05-27|SANTI|Sant'Agostino|NO|-
+2030-05-28|SANTI|Sant'Emilio martire|NO|-
+2030-05-29|SANTI|S. Massimino vescovo|NO|-
+2030-05-30|SANTI|Santa Giovanna d'Arco|NO|-
+2030-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2030-06-01|SANTI|S. Giustino|NO|-
+2030-06-02|SANTI_E_RICORRENZA_RELIGIOSA|Ascensione del Signore · Ss. Marcellino / Festa della Repubblica|SI|CALCOLO_ROMANO_ITALIA;-
+2030-06-03|SANTI|S. Carlo Lwanga e compagni|NO|-
+2030-06-04|SANTI|S. Quirino vescovo|NO|-
+2030-06-05|SANTI|S. Bonifacio vescovo|NO|-
+2030-06-06|SANTI|S. Norberto|NO|-
+2030-06-07|SANTI|Sant'Antonio Maria Gianelli|NO|VN
+2030-06-08|SANTI|S. Medardo vescovo|NO|-
+2030-06-09|SANTI_E_RICORRENZA_RELIGIOSA|Pentecoste · Sant'Efrem Siro, Ss. Primo e Feliciano|SI|CALCOLO_ROMANO_ITALIA;-
+2030-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2030-06-11|SANTI|S. Barnaba apostolo|NO|-
+2030-06-12|SANTI|Sant'Onofrio|NO|VN
+2030-06-13|SANTI|Sant'Antonio di Padova|NO|VN
+2030-06-14|SANTI|Sant'Eliseo|NO|-
+2030-06-15|SANTI|S. Germana|NO|-
+2030-06-16|SANTI|Sant'Aureliano|NO|-
+2030-06-17|SANTI|S. Ranieri, S. Gregorio Barbarigo|NO|-
+2030-06-18|SANTI|Santa Marina|NO|-
+2030-06-19|SANTI|Ss. Gervasio e Protasio, S. Romualdo|NO|-
+2030-06-20|SANTI|Sant'Ettore, S. Silverio Papa|NO|-
+2030-06-21|SANTI|S. Luigi Gonzaga|NO|-
+2030-06-22|SANTI|S. Paolino da Nola|NO|-
+2030-06-23|SANTI_E_RICORRENZA_RELIGIOSA|Corpus Domini · S. Lanfranco vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2030-06-24|RICORRENZA_RELIGIOSA|Natività di S. Giovanni Battista|NO|-
+2030-06-25|SANTI|S. Guglielmo|NO|-
+2030-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2030-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2030-06-28|SANTI_E_RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù · S. Attilio confessore, S. Ireneo|SI|CALCOLO_ROMANO_ITALIA;-
+2030-06-29|SANTI_E_RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria · Ss. Pietro e Paolo|SI|CALCOLO_ROMANO_ITALIA;-
+2030-06-30|SANTI|Ss. Primi Martiri|NO|-
+2030-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2030-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2030-07-03|SANTI|S. Tommaso apostolo|NO|-
+2030-07-04|SANTI|Santa Elisabetta regina|NO|-
+2030-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2030-07-06|SANTI|Santa Maria Goretti|NO|-
+2030-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2030-07-08|SANTI|Sant'Adriano III|NO|-
+2030-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2030-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2030-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2030-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2030-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2030-07-14|SANTI|S. Camillo De Lellis|NO|-
+2030-07-15|SANTI|S. Bonaventura|NO|-
+2030-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2030-07-17|SANTI|Sant'Alessio confessore|NO|-
+2030-07-18|SANTI|S. Federico|NO|-
+2030-07-19|SANTI|Santa Giusta|NO|-
+2030-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2030-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2030-07-22|SANTI|Santa Maria Maddalena|NO|-
+2030-07-23|SANTI|Santa Brigida|NO|-
+2030-07-24|SANTI|Santa Cristina|NO|-
+2030-07-25|SANTI|S. Giacomo apostolo|NO|-
+2030-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2030-07-27|SANTI|Santa Liliana|NO|-
+2030-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2030-07-29|SANTI|Santa Marta|NO|-
+2030-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2030-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2030-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2030-08-02|SANTI|Sant'Eusebio|NO|-
+2030-08-03|SANTI|Santa Lidia|NO|-
+2030-08-04|SANTI|S. Giovanni Maria Vianney|NO|VN_CORREZIONE
+2030-08-05|SANTI|Sant'Osvaldo|NO|VN_CORREZIONE
+2030-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2030-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2030-08-08|SANTI|S. Domenico|NO|-
+2030-08-09|SANTI|S. Romano|NO|-
+2030-08-10|SANTI|S. Lorenzo martire|NO|-
+2030-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2030-08-12|SANTI|Sant'Ercolano|NO|-
+2030-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2030-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2030-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2030-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2030-08-17|SANTI|S. Giacinto|NO|-
+2030-08-18|SANTI|Santa Elena imperatrice|NO|-
+2030-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2030-08-20|SANTI|S. Bernardo|NO|-
+2030-08-21|SANTI|S. Pio X Papa|NO|-
+2030-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2030-08-23|SANTI|S. Rosa da Lima|NO|-
+2030-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2030-08-25|SANTI|S. Lodovico re|NO|-
+2030-08-26|SANTI|Sant'Alessandro martire|NO|-
+2030-08-27|SANTI|Santa Monica|NO|-
+2030-08-28|SANTI|Sant'Agostino|NO|-
+2030-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2030-08-30|SANTI|Santa Faustina|NO|-
+2030-08-31|SANTI|Sant'Aristide|NO|-
+2030-09-01|SANTI|Sant'Egidio|NO|-
+2030-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2030-09-03|SANTI|S. Gregorio martire|NO|-
+2030-09-04|SANTI|Santa Rosalia|NO|-
+2030-09-05|SANTI|S. Vittorino|NO|-
+2030-09-06|SANTI|Sant'Umberto|NO|-
+2030-09-07|SANTI|Santa Regina|NO|-
+2030-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2030-09-09|SANTI|S. Sergio Papa|NO|-
+2030-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2030-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2030-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2030-09-13|SANTI|S. Giovanni Crisostomo|NO|VN_CORREZIONE
+2030-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2030-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2030-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2030-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2030-09-18|SANTI|Santa Sofia martire|NO|-
+2030-09-19|SANTI|S. Gennaro vescovo|NO|-
+2030-09-20|SANTI|Sant'Eustachio|NO|-
+2030-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2030-09-22|SANTI|S. Maurizio martire|NO|-
+2030-09-23|SANTI|S. Pio da Pietrelcina|NO|VN_CORREZIONE
+2030-09-24|SANTI|S. Pacifico prete|NO|-
+2030-09-25|SANTI|Santa Aurelia|NO|-
+2030-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2030-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2030-09-28|SANTI|S. Venceslao martire|NO|-
+2030-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2030-09-30|SANTI|S. Girolamo|NO|-
+2030-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2030-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2030-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2030-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2030-10-05|SANTI|S. Placido martire|NO|-
+2030-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2030-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2030-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2030-10-09|SANTI|S. Dionigi|NO|-
+2030-10-10|SANTI|S. Daniele vescovo|NO|-
+2030-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2030-10-12|SANTI|S. Serafino|NO|-
+2030-10-13|SANTI|Sant'Edoardo re|NO|-
+2030-10-14|SANTI|S. Callisto I Papa|NO|-
+2030-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2030-10-16|SANTI|Santa Edvige|NO|-
+2030-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2030-10-18|SANTI|S. Luca evangelista|NO|-
+2030-10-19|SANTI|S. Isacco martire|NO|-
+2030-10-20|SANTI|Sant'Irene|NO|-
+2030-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2030-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2030-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2030-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2030-10-25|SANTI|Ss. Crisanto e Daria|NO|VN
+2030-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2030-10-27|SANTI|S. Fiorenzo|NO|-
+2030-10-28|SANTI|SS. Simone e Giuda|NO|-
+2030-10-29|SANTI|S. Ermelinda|NO|-
+2030-10-30|SANTI|S. Germano vescovo|NO|-
+2030-10-31|SANTI|Santa Lucilla|NO|-
+2030-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2030-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2030-11-03|SANTI|Santa Silvia|NO|-
+2030-11-04|SANTI|S. Carlo Borromeo|NO|-
+2030-11-05|SANTI|S. Zaccaria profeta|NO|-
+2030-11-06|SANTI|S. Leonardo|NO|-
+2030-11-07|SANTI|Sant'Ernesto|NO|-
+2030-11-08|SANTI|S. Goffredo vescovo|NO|-
+2030-11-09|SANTI|Sant'Oreste|NO|-
+2030-11-10|SANTI|S. Leone Magno|NO|-
+2030-11-11|SANTI|S. Martino|NO|-
+2030-11-12|SANTI|S. Renato|NO|-
+2030-11-13|SANTI|S. Diego confessore|NO|-
+2030-11-14|SANTI|S. Giocondo vescovo|NO|-
+2030-11-15|SANTI|S. Alberto Magno|NO|-
+2030-11-16|SANTI|S. Margherita di Scozia|NO|-
+2030-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2030-11-18|SANTI|Sant'Oddone|NO|-
+2030-11-19|SANTI|S. Fausto|NO|-
+2030-11-20|SANTI|S. Felice di Valois, Sant'Ottavio|NO|-
+2030-11-21|RICORRENZA_RELIGIOSA|Presentazione di Maria Vergine|NO|-
+2030-11-22|SANTI|Santa Cecilia|NO|A4
+2030-11-23|SANTI|S. Clemente I Papa|NO|-
+2030-11-24|SANTI_E_RICORRENZA_RELIGIOSA|N.S. Gesù Re dell’Universo · S. Giovanni della Croce|SI|CALCOLO_ROMANO_ITALIA;-
+2030-11-25|SANTI|Santa Caterina di Alessandria|NO|-
+2030-11-26|SANTI|S. Corrado vescovo, S. Delfina|NO|-
+2030-11-27|SANTI|S. Virgilio|NO|-
+2030-11-28|SANTI|Santa Livia, S. Demetrio|NO|-
+2030-11-29|SANTI|S. Saturnino martire|NO|VN
+2030-11-30|SANTI|Sant'Andrea apostolo|NO|-
+2030-12-01|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Avvento · S. Eligio|SI|CALCOLO_ROMANO_ITALIA;-
+2030-12-02|SANTI|Santa Bibiana|NO|-
+2030-12-03|SANTI|S. Francesco Saverio|NO|-
+2030-12-04|SANTI|Santa Barbara|NO|-
+2030-12-05|SANTI|S. Dalmazio|NO|-
+2030-12-06|SANTI|S. Nicola di Bari|NO|VN
+2030-12-07|SANTI|Sant'Ambrogio vescovo|NO|-
+2030-12-08|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Avvento · Immacolata Concezione|SI|CALCOLO_ROMANO_ITALIA;-
+2030-12-09|SANTI|S. Siro|NO|-
+2030-12-10|RICORRENZA_RELIGIOSA|Nostra Signora di Loreto|NO|-
+2030-12-11|SANTI|S. Damaso I Papa|NO|-
+2030-12-12|SANTI|Santa Giovanna|NO|-
+2030-12-13|SANTI|Santa Lucia|NO|VN
+2030-12-14|SANTI|S. Giovanni della Croce|NO|-
+2030-12-15|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Avvento · S. Valeriano|SI|CALCOLO_ROMANO_ITALIA;-
+2030-12-16|SANTI|Santa Adelaide|NO|-
+2030-12-17|SANTI|S. Lazzaro|NO|-
+2030-12-18|SANTI|S. Graziano vescovo|NO|-
+2030-12-19|SANTI|S. Dario, Santa Fausta|NO|-
+2030-12-20|SANTI|S. Filogonio|NO|VN
+2030-12-21|SANTI|S. Pietro Canisio|NO|-
+2030-12-22|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Avvento · S. Flaviano|SI|CALCOLO_ROMANO_ITALIA;-
+2030-12-23|SANTI|S. Giovanni di Kenty|NO|-
+2030-12-24|SANTI|Santa Irma|NO|-
+2030-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2030-12-26|SANTI|S. Stefano|NO|VN
+2030-12-27|SANTI|S. Giovanni Evangelista|NO|A5
+2030-12-28|SANTI|Ss. Innocenti martiri|NO|-
+2030-12-29|SANTI_E_RICORRENZA_RELIGIOSA|Sacra Famiglia · S. Tommaso Becket|SI|CALCOLO_ROMANO_ITALIA;-
+2030-12-30|SANTI|Sant'Eugenio vescovo|NO|-
+2030-12-31|SANTI|S. Silvestro Papa|NO|-
+2031-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2031-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2031-01-03|SANTI|Santa Genoveffa|NO|-
+2031-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2031-01-05|SANTI|Sant'Amelia|NO|-
+2031-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2031-01-07|SANTI|S. Luciano, S. Raimondo|NO|-
+2031-01-08|SANTI|S. Severino, S. Massimo|NO|-
+2031-01-09|SANTI|S. Giuliano martire|NO|-
+2031-01-10|SANTI|S. Agatone, S. Aldo|NO|-
+2031-01-11|SANTI|Sant'Igino Papa|NO|VN
+2031-01-12|SANTI_E_RICORRENZA_RELIGIOSA|Battesimo del Signore · S. Modesto|SI|CALCOLO_ROMANO_ITALIA;-
+2031-01-13|SANTI|Sant'Ilario|NO|-
+2031-01-14|SANTI|S. Felice|NO|-
+2031-01-15|SANTI|S. Mauro|NO|-
+2031-01-16|SANTI|S. Marcello Papa|NO|-
+2031-01-17|SANTI|Sant'Antonio abate|NO|-
+2031-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2031-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2031-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2031-01-21|SANTI|Sant'Agnese|NO|-
+2031-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2031-01-23|SANTI|Santa Emerenziana|NO|-
+2031-01-24|SANTI|S. Francesco di Sales|NO|-
+2031-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2031-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2031-01-27|SANTI|Sant'Angela Merici|NO|-
+2031-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2031-01-29|SANTI|S. Costanzo|NO|-
+2031-01-30|SANTI|Santa Martina|NO|-
+2031-01-31|SANTI|S. Giovanni Bosco|NO|-
+2031-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2031-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2031-02-03|SANTI|S. Biagio|NO|-
+2031-02-04|SANTI|S. Gilberto|NO|-
+2031-02-05|SANTI|Sant'Agata|NO|-
+2031-02-06|SANTI|S. Paolo Miki|NO|-
+2031-02-07|SANTI|S. Romualdo|NO|-
+2031-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2031-02-09|SANTI|Santa Apollonia|NO|-
+2031-02-10|SANTI|Santa Scolastica|NO|-
+2031-02-11|RICORRENZA_RELIGIOSA|Nostra Signora di Lourdes|NO|-
+2031-02-12|SANTI|Santa Eulalia|NO|-
+2031-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2031-02-14|SANTI|S. Valentino martire|NO|-
+2031-02-15|SANTI|SS. Faustino e Giovita|NO|-
+2031-02-16|SANTI|Santa Giuliana|NO|-
+2031-02-17|SANTI|S. Donato martire|NO|-
+2031-02-18|SANTI|Beato Angelico|NO|VN
+2031-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2031-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2031-02-21|SANTI|Santa Eleonora, S. Pier Damiani|NO|-
+2031-02-22|SANTI|S. Massimiano di Ravenna|NO|VN
+2031-02-23|SANTI|S. Policarpo|NO|-
+2031-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2031-02-25|SANTI|S. Cesario|NO|-
+2031-02-26|SANTI_E_RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri · S. Nestore|SI|CALCOLO_ROMANO_ITALIA;-
+2031-02-27|SANTI|S. Leandro|NO|-
+2031-02-28|SANTI|S. Romano abate|NO|-
+2031-03-01|SANTI|Sant'Albino|NO|VN
+2031-03-02|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Quaresima · Sant'Eraclio, S. Basilio martire|SI|CALCOLO_ROMANO_ITALIA;-
+2031-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2031-03-04|SANTI|S. Casimiro, S. Lucio|NO|-
+2031-03-05|SANTI|S. Adriano|NO|-
+2031-03-06|SANTI|S. Marciano|NO|-
+2031-03-07|SANTI|Santa Perpetua e Felicita|NO|-
+2031-03-08|SANTI|S. Giovanni di Dio|NO|VN
+2031-03-09|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Quaresima · Santa Francesca Romana|SI|CALCOLO_ROMANO_ITALIA;-
+2031-03-10|SANTI|S. Simplicio Papa|NO|-
+2031-03-11|SANTI|S. Costantino|NO|-
+2031-03-12|SANTI|S. Massimiliano|NO|-
+2031-03-13|SANTI|Sant'Arrigo, Santa Eufrasia|NO|-
+2031-03-14|SANTI|Santa Matilde regina|NO|-
+2031-03-15|SANTI|S. Zaccaria Papa|NO|VN
+2031-03-16|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Quaresima · Sant'Ariberto|SI|CALCOLO_ROMANO_ITALIA;-
+2031-03-17|SANTI|S. Patrizio|NO|-
+2031-03-18|SANTI|S. Cirillo di Gerusalemme|NO|-
+2031-03-19|SANTI|S. Giuseppe|NO|-
+2031-03-20|SANTI|Santa Claudia, S. Alessandra martire|NO|-
+2031-03-21|SANTI|S. Benedetto da Norcia|NO|-
+2031-03-22|SANTI|Santa Lea|NO|VN
+2031-03-23|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Quaresima · S. Turibio de Mogrovejo|SI|CALCOLO_ROMANO_ITALIA;-
+2031-03-24|SANTI|S. Romolo, S. Caterina di Svezia|NO|-
+2031-03-25|RICORRENZA_RELIGIOSA|Annunciazione del Signore|NO|-
+2031-03-26|SANTI|S. Emanuele, S. Teodoro|NO|-
+2031-03-27|SANTI|S. Augusto|NO|-
+2031-03-28|SANTI|S. Sisto III Papa|NO|-
+2031-03-29|SANTI|Sant'Eustasio|NO|VN
+2031-03-30|SANTI_E_RICORRENZA_RELIGIOSA|V Domenica di Quaresima · S. Amedeo|SI|CALCOLO_ROMANO_ITALIA;-
+2031-03-31|SANTI|S. Beniamino martire|NO|-
+2031-04-01|SANTI|Sant'Ugo di Grenoble (vescovo)|NO|-
+2031-04-02|SANTI|S. Francesco di Paola|NO|-
+2031-04-03|SANTI|S. Riccardo vescovo|NO|-
+2031-04-04|SANTI|Sant'Isidoro|NO|-
+2031-04-05|SANTI|S. Vincenzo Ferrer|NO|VN
+2031-04-06|SANTI_E_RICORRENZA_RELIGIOSA|Domenica delle Palme · Santa Galla|SI|CALCOLO_ROMANO_ITALIA;VN
+2031-04-07|SANTI|Sant'Ermanno, S. Giovanni B.|NO|-
+2031-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2031-04-09|SANTI|S. Gualtiero, Santa Maria Cleofe|NO|-
+2031-04-10|SANTI|S. Terenzio martire|NO|-
+2031-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2031-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2031-04-13|SANTI_E_RICORRENZA_RELIGIOSA|Pasqua · Sant'Ermenegildo, S. Martino I Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2031-04-14|SANTI_E_RICORRENZA_RELIGIOSA|Lunedì dell’Angelo · S. Abbondio|SI|CALCOLO_ROMANO_ITALIA;-
+2031-04-15|SANTI|Sant'Annibale martire|NO|-
+2031-04-16|SANTI|Santa Bernadetta, S. Lamberto|NO|-
+2031-04-17|SANTI|Sant'Aniceto Papa, S. Roberto|NO|-
+2031-04-18|SANTI|S. Galdino vescovo|NO|-
+2031-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2031-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2031-04-21|SANTI|Sant'Anselmo|NO|-
+2031-04-22|SANTI|Ss. Sotero e Caio|NO|-
+2031-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2031-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2031-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2031-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2031-04-27|SANTI|Ss. Ida e Zita|NO|-
+2031-04-28|SANTI|Santa Valeria|NO|-
+2031-04-29|SANTI|Santa Caterina da Siena|NO|-
+2031-04-30|SANTI|S. Pio V Papa|NO|-
+2031-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2031-05-02|SANTI|Sant'Atanasio|NO|-
+2031-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2031-05-04|SANTI|S. Silvano|NO|-
+2031-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2031-05-06|SANTI|Santa Giuditta|NO|-
+2031-05-07|SANTI|Santa Flavia|NO|-
+2031-05-08|SANTI|S. Vittore|NO|-
+2031-05-09|SANTI|S. Gregorio|NO|-
+2031-05-10|SANTI|Sant'Antonino|NO|-
+2031-05-11|SANTI|S. Fabio martire|NO|-
+2031-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2031-05-13|RICORRENZA_RELIGIOSA|Beata Vergine Maria di Fatima|NO|-
+2031-05-14|SANTI|S. Mattia apostolo|NO|-
+2031-05-15|SANTI|S. Torquato|NO|-
+2031-05-16|SANTI|Sant'Ubaldo|NO|-
+2031-05-17|SANTI|S. Pasquale Baylon|NO|VN
+2031-05-18|SANTI|S. Giovanni I Papa|NO|-
+2031-05-19|SANTI|S. Celestino V Papa|NO|-
+2031-05-20|SANTI|S. Bernardino da Siena|NO|-
+2031-05-21|SANTI|S. Vittorio martire|NO|-
+2031-05-22|SANTI|Santa Rita da Cascia|NO|-
+2031-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2031-05-24|SANTI|S. Vincenzo di Lérins|NO|VN
+2031-05-25|SANTI_E_RICORRENZA_RELIGIOSA|Ascensione del Signore · S. Gregorio VII Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2031-05-26|SANTI|S. Filippo Neri|NO|-
+2031-05-27|SANTI|Sant'Agostino|NO|-
+2031-05-28|SANTI|Sant'Emilio martire|NO|-
+2031-05-29|SANTI|S. Massimino vescovo|NO|-
+2031-05-30|SANTI|Santa Giovanna d'Arco|NO|-
+2031-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2031-06-01|SANTI_E_RICORRENZA_RELIGIOSA|Pentecoste · S. Giustino|SI|CALCOLO_ROMANO_ITALIA;-
+2031-06-02|SANTI_E_FESTIVITA_CIVILE|Ss. Marcellino / Festa della Repubblica|NO|-
+2031-06-03|SANTI|S. Carlo Lwanga e compagni|NO|-
+2031-06-04|SANTI|S. Quirino vescovo|NO|-
+2031-06-05|SANTI|S. Bonifacio vescovo|NO|-
+2031-06-06|SANTI|S. Norberto|NO|-
+2031-06-07|SANTI|Sant'Antonio Maria Gianelli|NO|VN
+2031-06-08|SANTI|S. Medardo vescovo|NO|-
+2031-06-09|SANTI|Sant'Efrem Siro, Ss. Primo e Feliciano|NO|-
+2031-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2031-06-11|SANTI|S. Barnaba apostolo|NO|-
+2031-06-12|SANTI|Sant'Onofrio|NO|VN
+2031-06-13|SANTI|Sant'Antonio di Padova|NO|VN
+2031-06-14|SANTI|Sant'Eliseo|NO|-
+2031-06-15|SANTI_E_RICORRENZA_RELIGIOSA|Corpus Domini · S. Germana|SI|CALCOLO_ROMANO_ITALIA;-
+2031-06-16|SANTI|Sant'Aureliano|NO|-
+2031-06-17|SANTI|S. Ranieri, S. Gregorio Barbarigo|NO|-
+2031-06-18|SANTI|Santa Marina|NO|-
+2031-06-19|SANTI|Ss. Gervasio e Protasio, S. Romualdo|NO|-
+2031-06-20|SANTI_E_RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù · Sant'Ettore, S. Silverio Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2031-06-21|SANTI_E_RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria · S. Luigi Gonzaga|SI|CALCOLO_ROMANO_ITALIA;-
+2031-06-22|SANTI|S. Paolino da Nola|NO|-
+2031-06-23|SANTI|S. Lanfranco vescovo|NO|-
+2031-06-24|RICORRENZA_RELIGIOSA|Natività di S. Giovanni Battista|NO|-
+2031-06-25|SANTI|S. Guglielmo|NO|-
+2031-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2031-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2031-06-28|SANTI|S. Attilio confessore, S. Ireneo|NO|-
+2031-06-29|SANTI|Ss. Pietro e Paolo|NO|-
+2031-06-30|SANTI|Ss. Primi Martiri|NO|-
+2031-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2031-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2031-07-03|SANTI|S. Tommaso apostolo|NO|-
+2031-07-04|SANTI|Santa Elisabetta regina|NO|-
+2031-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2031-07-06|SANTI|Santa Maria Goretti|NO|-
+2031-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2031-07-08|SANTI|Sant'Adriano III|NO|-
+2031-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2031-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2031-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2031-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2031-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2031-07-14|SANTI|S. Camillo De Lellis|NO|-
+2031-07-15|SANTI|S. Bonaventura|NO|-
+2031-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2031-07-17|SANTI|Sant'Alessio confessore|NO|-
+2031-07-18|SANTI|S. Federico|NO|-
+2031-07-19|SANTI|Santa Giusta|NO|-
+2031-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2031-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2031-07-22|SANTI|Santa Maria Maddalena|NO|-
+2031-07-23|SANTI|Santa Brigida|NO|-
+2031-07-24|SANTI|Santa Cristina|NO|-
+2031-07-25|SANTI|S. Giacomo apostolo|NO|-
+2031-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2031-07-27|SANTI|Santa Liliana|NO|-
+2031-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2031-07-29|SANTI|Santa Marta|NO|-
+2031-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2031-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2031-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2031-08-02|SANTI|Sant'Eusebio|NO|-
+2031-08-03|SANTI|Santa Lidia|NO|-
+2031-08-04|SANTI|S. Giovanni Maria Vianney|NO|VN_CORREZIONE
+2031-08-05|SANTI|Sant'Osvaldo|NO|VN_CORREZIONE
+2031-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2031-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2031-08-08|SANTI|S. Domenico|NO|-
+2031-08-09|SANTI|S. Romano|NO|-
+2031-08-10|SANTI|S. Lorenzo martire|NO|-
+2031-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2031-08-12|SANTI|Sant'Ercolano|NO|-
+2031-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2031-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2031-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2031-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2031-08-17|SANTI|S. Giacinto|NO|-
+2031-08-18|SANTI|Santa Elena imperatrice|NO|-
+2031-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2031-08-20|SANTI|S. Bernardo|NO|-
+2031-08-21|SANTI|S. Pio X Papa|NO|-
+2031-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2031-08-23|SANTI|S. Rosa da Lima|NO|-
+2031-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2031-08-25|SANTI|S. Lodovico re|NO|-
+2031-08-26|SANTI|Sant'Alessandro martire|NO|-
+2031-08-27|SANTI|Santa Monica|NO|-
+2031-08-28|SANTI|Sant'Agostino|NO|-
+2031-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2031-08-30|SANTI|Santa Faustina|NO|-
+2031-08-31|SANTI|Sant'Aristide|NO|-
+2031-09-01|SANTI|Sant'Egidio|NO|-
+2031-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2031-09-03|SANTI|S. Gregorio martire|NO|-
+2031-09-04|SANTI|Santa Rosalia|NO|-
+2031-09-05|SANTI|S. Vittorino|NO|-
+2031-09-06|SANTI|Sant'Umberto|NO|-
+2031-09-07|SANTI|Santa Regina|NO|-
+2031-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2031-09-09|SANTI|S. Sergio Papa|NO|-
+2031-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2031-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2031-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2031-09-13|SANTI|S. Giovanni Crisostomo|NO|VN_CORREZIONE
+2031-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2031-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2031-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2031-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2031-09-18|SANTI|Santa Sofia martire|NO|-
+2031-09-19|SANTI|S. Gennaro vescovo|NO|-
+2031-09-20|SANTI|Sant'Eustachio|NO|-
+2031-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2031-09-22|SANTI|S. Maurizio martire|NO|-
+2031-09-23|SANTI|S. Pio da Pietrelcina|NO|VN_CORREZIONE
+2031-09-24|SANTI|S. Pacifico prete|NO|-
+2031-09-25|SANTI|Santa Aurelia|NO|-
+2031-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2031-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2031-09-28|SANTI|S. Venceslao martire|NO|-
+2031-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2031-09-30|SANTI|S. Girolamo|NO|-
+2031-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2031-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2031-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2031-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2031-10-05|SANTI|S. Placido martire|NO|-
+2031-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2031-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2031-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2031-10-09|SANTI|S. Dionigi|NO|-
+2031-10-10|SANTI|S. Daniele vescovo|NO|-
+2031-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2031-10-12|SANTI|S. Serafino|NO|-
+2031-10-13|SANTI|Sant'Edoardo re|NO|-
+2031-10-14|SANTI|S. Callisto I Papa|NO|-
+2031-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2031-10-16|SANTI|Santa Edvige|NO|-
+2031-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2031-10-18|SANTI|S. Luca evangelista|NO|-
+2031-10-19|SANTI|S. Isacco martire|NO|-
+2031-10-20|SANTI|Sant'Irene|NO|-
+2031-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2031-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2031-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2031-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2031-10-25|SANTI|Ss. Crisanto e Daria|NO|VN
+2031-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2031-10-27|SANTI|S. Fiorenzo|NO|-
+2031-10-28|SANTI|SS. Simone e Giuda|NO|-
+2031-10-29|SANTI|S. Ermelinda|NO|-
+2031-10-30|SANTI|S. Germano vescovo|NO|-
+2031-10-31|SANTI|Santa Lucilla|NO|-
+2031-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2031-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2031-11-03|SANTI|Santa Silvia|NO|-
+2031-11-04|SANTI|S. Carlo Borromeo|NO|-
+2031-11-05|SANTI|S. Zaccaria profeta|NO|-
+2031-11-06|SANTI|S. Leonardo|NO|-
+2031-11-07|SANTI|Sant'Ernesto|NO|-
+2031-11-08|SANTI|S. Goffredo vescovo|NO|-
+2031-11-09|SANTI|Sant'Oreste|NO|-
+2031-11-10|SANTI|S. Leone Magno|NO|-
+2031-11-11|SANTI|S. Martino|NO|-
+2031-11-12|SANTI|S. Renato|NO|-
+2031-11-13|SANTI|S. Diego confessore|NO|-
+2031-11-14|SANTI|S. Giocondo vescovo|NO|-
+2031-11-15|SANTI|S. Alberto Magno|NO|-
+2031-11-16|SANTI|S. Margherita di Scozia|NO|-
+2031-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2031-11-18|SANTI|Sant'Oddone|NO|-
+2031-11-19|SANTI|S. Fausto|NO|-
+2031-11-20|SANTI|S. Felice di Valois, Sant'Ottavio|NO|-
+2031-11-21|RICORRENZA_RELIGIOSA|Presentazione di Maria Vergine|NO|-
+2031-11-22|SANTI|Santa Cecilia|NO|A4
+2031-11-23|SANTI_E_RICORRENZA_RELIGIOSA|N.S. Gesù Re dell’Universo · S. Clemente I Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2031-11-24|SANTI|S. Giovanni della Croce|NO|-
+2031-11-25|SANTI|Santa Caterina di Alessandria|NO|-
+2031-11-26|SANTI|S. Corrado vescovo, S. Delfina|NO|-
+2031-11-27|SANTI|S. Virgilio|NO|-
+2031-11-28|SANTI|Santa Livia, S. Demetrio|NO|-
+2031-11-29|SANTI|S. Saturnino martire|NO|VN
+2031-11-30|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Avvento · Sant'Andrea apostolo|SI|CALCOLO_ROMANO_ITALIA;-
+2031-12-01|SANTI|S. Eligio|NO|-
+2031-12-02|SANTI|Santa Bibiana|NO|-
+2031-12-03|SANTI|S. Francesco Saverio|NO|-
+2031-12-04|SANTI|Santa Barbara|NO|-
+2031-12-05|SANTI|S. Dalmazio|NO|-
+2031-12-06|SANTI|S. Nicola di Bari|NO|VN
+2031-12-07|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Avvento · Sant'Ambrogio vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2031-12-08|RICORRENZA_RELIGIOSA|Immacolata Concezione|NO|-
+2031-12-09|SANTI|S. Siro|NO|-
+2031-12-10|RICORRENZA_RELIGIOSA|Nostra Signora di Loreto|NO|-
+2031-12-11|SANTI|S. Damaso I Papa|NO|-
+2031-12-12|SANTI|Santa Giovanna|NO|-
+2031-12-13|SANTI|Santa Lucia|NO|VN
+2031-12-14|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Avvento · S. Giovanni della Croce|SI|CALCOLO_ROMANO_ITALIA;-
+2031-12-15|SANTI|S. Valeriano|NO|-
+2031-12-16|SANTI|Santa Adelaide|NO|-
+2031-12-17|SANTI|S. Lazzaro|NO|-
+2031-12-18|SANTI|S. Graziano vescovo|NO|-
+2031-12-19|SANTI|S. Dario, Santa Fausta|NO|-
+2031-12-20|SANTI|S. Filogonio|NO|VN
+2031-12-21|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Avvento · S. Pietro Canisio|SI|CALCOLO_ROMANO_ITALIA;-
+2031-12-22|SANTI|S. Flaviano|NO|-
+2031-12-23|SANTI|S. Giovanni di Kenty|NO|-
+2031-12-24|SANTI|Santa Irma|NO|-
+2031-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2031-12-26|SANTI|S. Stefano|NO|VN
+2031-12-27|SANTI|S. Giovanni Evangelista|NO|A5
+2031-12-28|SANTI_E_RICORRENZA_RELIGIOSA|Sacra Famiglia · Ss. Innocenti martiri|SI|CALCOLO_ROMANO_ITALIA;-
+2031-12-29|SANTI|S. Tommaso Becket|NO|-
+2031-12-30|SANTI|Sant'Eugenio vescovo|NO|-
+2031-12-31|SANTI|S. Silvestro Papa|NO|-
+2032-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2032-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2032-01-03|SANTI|Santa Genoveffa|NO|-
+2032-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2032-01-05|SANTI|Sant'Amelia|NO|-
+2032-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2032-01-07|SANTI|S. Luciano, S. Raimondo|NO|-
+2032-01-08|SANTI|S. Severino, S. Massimo|NO|-
+2032-01-09|SANTI|S. Giuliano martire|NO|-
+2032-01-10|SANTI|S. Agatone, S. Aldo|NO|-
+2032-01-11|SANTI_E_RICORRENZA_RELIGIOSA|Battesimo del Signore · Sant'Igino Papa|SI|CALCOLO_ROMANO_ITALIA;VN
+2032-01-12|SANTI|S. Modesto|NO|-
+2032-01-13|SANTI|Sant'Ilario|NO|-
+2032-01-14|SANTI|S. Felice|NO|-
+2032-01-15|SANTI|S. Mauro|NO|-
+2032-01-16|SANTI|S. Marcello Papa|NO|-
+2032-01-17|SANTI|Sant'Antonio abate|NO|-
+2032-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2032-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2032-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2032-01-21|SANTI|Sant'Agnese|NO|-
+2032-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2032-01-23|SANTI|Santa Emerenziana|NO|-
+2032-01-24|SANTI|S. Francesco di Sales|NO|-
+2032-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2032-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2032-01-27|SANTI|Sant'Angela Merici|NO|-
+2032-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2032-01-29|SANTI|S. Costanzo|NO|-
+2032-01-30|SANTI|Santa Martina|NO|-
+2032-01-31|SANTI|S. Giovanni Bosco|NO|-
+2032-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2032-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2032-02-03|SANTI|S. Biagio|NO|-
+2032-02-04|SANTI|S. Gilberto|NO|-
+2032-02-05|SANTI|Sant'Agata|NO|-
+2032-02-06|SANTI|S. Paolo Miki|NO|-
+2032-02-07|SANTI|S. Romualdo|NO|-
+2032-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2032-02-09|SANTI|Santa Apollonia|NO|-
+2032-02-10|SANTI|Santa Scolastica|NO|-
+2032-02-11|SANTI_E_RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri · Nostra Signora di Lourdes|SI|CALCOLO_ROMANO_ITALIA;-
+2032-02-12|SANTI|Santa Eulalia|NO|-
+2032-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2032-02-14|SANTI|S. Valentino martire|NO|-
+2032-02-15|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Quaresima · SS. Faustino e Giovita|SI|CALCOLO_ROMANO_ITALIA;-
+2032-02-16|SANTI|Santa Giuliana|NO|-
+2032-02-17|SANTI|S. Donato martire|NO|-
+2032-02-18|SANTI|Beato Angelico|NO|VN
+2032-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2032-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2032-02-21|SANTI|Santa Eleonora, S. Pier Damiani|NO|-
+2032-02-22|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Quaresima · S. Massimiano di Ravenna|SI|CALCOLO_ROMANO_ITALIA;VN
+2032-02-23|SANTI|S. Policarpo|NO|-
+2032-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2032-02-25|SANTI|S. Cesario|NO|-
+2032-02-26|SANTI|S. Nestore|NO|-
+2032-02-27|SANTI|S. Leandro|NO|-
+2032-02-28|SANTI|S. Romano abate|NO|-
+2032-02-29|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Quaresima · Sant'Ilaro Papa|SI|CALCOLO_ROMANO_ITALIA;VN_BISESTILE
+2032-03-01|SANTI|Sant'Albino|NO|VN
+2032-03-02|SANTI|Sant'Eraclio, S. Basilio martire|NO|-
+2032-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2032-03-04|SANTI|S. Casimiro, S. Lucio|NO|-
+2032-03-05|SANTI|S. Adriano|NO|-
+2032-03-06|SANTI|S. Marciano|NO|-
+2032-03-07|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Quaresima · Santa Perpetua e Felicita|SI|CALCOLO_ROMANO_ITALIA;-
+2032-03-08|SANTI|S. Giovanni di Dio|NO|VN
+2032-03-09|SANTI|Santa Francesca Romana|NO|-
+2032-03-10|SANTI|S. Simplicio Papa|NO|-
+2032-03-11|SANTI|S. Costantino|NO|-
+2032-03-12|SANTI|S. Massimiliano|NO|-
+2032-03-13|SANTI|Sant'Arrigo, Santa Eufrasia|NO|-
+2032-03-14|SANTI_E_RICORRENZA_RELIGIOSA|V Domenica di Quaresima · Santa Matilde regina|SI|CALCOLO_ROMANO_ITALIA;-
+2032-03-15|SANTI|S. Zaccaria Papa|NO|VN
+2032-03-16|SANTI|Sant'Ariberto|NO|-
+2032-03-17|SANTI|S. Patrizio|NO|-
+2032-03-18|SANTI|S. Cirillo di Gerusalemme|NO|-
+2032-03-19|SANTI|S. Giuseppe|NO|-
+2032-03-20|SANTI|Santa Claudia, S. Alessandra martire|NO|-
+2032-03-21|SANTI_E_RICORRENZA_RELIGIOSA|Domenica delle Palme · S. Benedetto da Norcia|SI|CALCOLO_ROMANO_ITALIA;-
+2032-03-22|SANTI|Santa Lea|NO|VN
+2032-03-23|SANTI|S. Turibio de Mogrovejo|NO|-
+2032-03-24|SANTI|S. Romolo, S. Caterina di Svezia|NO|-
+2032-03-25|RICORRENZA_RELIGIOSA|Annunciazione del Signore|NO|-
+2032-03-26|SANTI|S. Emanuele, S. Teodoro|NO|-
+2032-03-27|SANTI|S. Augusto|NO|-
+2032-03-28|SANTI_E_RICORRENZA_RELIGIOSA|Pasqua · S. Sisto III Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2032-03-29|SANTI_E_RICORRENZA_RELIGIOSA|Lunedì dell’Angelo · Sant'Eustasio|SI|CALCOLO_ROMANO_ITALIA;VN
+2032-03-30|SANTI|S. Amedeo|NO|-
+2032-03-31|SANTI|S. Beniamino martire|NO|-
+2032-04-01|SANTI|Sant'Ugo di Grenoble (vescovo)|NO|-
+2032-04-02|SANTI|S. Francesco di Paola|NO|-
+2032-04-03|SANTI|S. Riccardo vescovo|NO|-
+2032-04-04|SANTI|Sant'Isidoro|NO|-
+2032-04-05|SANTI|S. Vincenzo Ferrer|NO|VN
+2032-04-06|SANTI|Santa Galla|NO|VN
+2032-04-07|SANTI|Sant'Ermanno, S. Giovanni B.|NO|-
+2032-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2032-04-09|SANTI|S. Gualtiero, Santa Maria Cleofe|NO|-
+2032-04-10|SANTI|S. Terenzio martire|NO|-
+2032-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2032-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2032-04-13|SANTI|Sant'Ermenegildo, S. Martino I Papa|NO|-
+2032-04-14|SANTI|S. Abbondio|NO|-
+2032-04-15|SANTI|Sant'Annibale martire|NO|-
+2032-04-16|SANTI|Santa Bernadetta, S. Lamberto|NO|-
+2032-04-17|SANTI|Sant'Aniceto Papa, S. Roberto|NO|-
+2032-04-18|SANTI|S. Galdino vescovo|NO|-
+2032-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2032-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2032-04-21|SANTI|Sant'Anselmo|NO|-
+2032-04-22|SANTI|Ss. Sotero e Caio|NO|-
+2032-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2032-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2032-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2032-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2032-04-27|SANTI|Ss. Ida e Zita|NO|-
+2032-04-28|SANTI|Santa Valeria|NO|-
+2032-04-29|SANTI|Santa Caterina da Siena|NO|-
+2032-04-30|SANTI|S. Pio V Papa|NO|-
+2032-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2032-05-02|SANTI|Sant'Atanasio|NO|-
+2032-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2032-05-04|SANTI|S. Silvano|NO|-
+2032-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2032-05-06|SANTI|Santa Giuditta|NO|-
+2032-05-07|SANTI|Santa Flavia|NO|-
+2032-05-08|SANTI|S. Vittore|NO|-
+2032-05-09|SANTI_E_RICORRENZA_RELIGIOSA|Ascensione del Signore · S. Gregorio|SI|CALCOLO_ROMANO_ITALIA;-
+2032-05-10|SANTI|Sant'Antonino|NO|-
+2032-05-11|SANTI|S. Fabio martire|NO|-
+2032-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2032-05-13|RICORRENZA_RELIGIOSA|Beata Vergine Maria di Fatima|NO|-
+2032-05-14|SANTI|S. Mattia apostolo|NO|-
+2032-05-15|SANTI|S. Torquato|NO|-
+2032-05-16|SANTI_E_RICORRENZA_RELIGIOSA|Pentecoste · Sant'Ubaldo|SI|CALCOLO_ROMANO_ITALIA;-
+2032-05-17|SANTI|S. Pasquale Baylon|NO|VN
+2032-05-18|SANTI|S. Giovanni I Papa|NO|-
+2032-05-19|SANTI|S. Celestino V Papa|NO|-
+2032-05-20|SANTI|S. Bernardino da Siena|NO|-
+2032-05-21|SANTI|S. Vittorio martire|NO|-
+2032-05-22|SANTI|Santa Rita da Cascia|NO|-
+2032-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2032-05-24|SANTI|S. Vincenzo di Lérins|NO|VN
+2032-05-25|SANTI|S. Gregorio VII Papa|NO|-
+2032-05-26|SANTI|S. Filippo Neri|NO|-
+2032-05-27|SANTI|Sant'Agostino|NO|-
+2032-05-28|SANTI|Sant'Emilio martire|NO|-
+2032-05-29|SANTI|S. Massimino vescovo|NO|-
+2032-05-30|SANTI_E_RICORRENZA_RELIGIOSA|Corpus Domini · Santa Giovanna d'Arco|SI|CALCOLO_ROMANO_ITALIA;-
+2032-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2032-06-01|SANTI|S. Giustino|NO|-
+2032-06-02|SANTI_E_FESTIVITA_CIVILE|Ss. Marcellino / Festa della Repubblica|NO|-
+2032-06-03|SANTI|S. Carlo Lwanga e compagni|NO|-
+2032-06-04|SANTI_E_RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù · S. Quirino vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2032-06-05|SANTI_E_RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria · S. Bonifacio vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2032-06-06|SANTI|S. Norberto|NO|-
+2032-06-07|SANTI|Sant'Antonio Maria Gianelli|NO|VN
+2032-06-08|SANTI|S. Medardo vescovo|NO|-
+2032-06-09|SANTI|Sant'Efrem Siro, Ss. Primo e Feliciano|NO|-
+2032-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2032-06-11|SANTI|S. Barnaba apostolo|NO|-
+2032-06-12|SANTI|Sant'Onofrio|NO|VN
+2032-06-13|SANTI|Sant'Antonio di Padova|NO|VN
+2032-06-14|SANTI|Sant'Eliseo|NO|-
+2032-06-15|SANTI|S. Germana|NO|-
+2032-06-16|SANTI|Sant'Aureliano|NO|-
+2032-06-17|SANTI|S. Ranieri, S. Gregorio Barbarigo|NO|-
+2032-06-18|SANTI|Santa Marina|NO|-
+2032-06-19|SANTI|Ss. Gervasio e Protasio, S. Romualdo|NO|-
+2032-06-20|SANTI|Sant'Ettore, S. Silverio Papa|NO|-
+2032-06-21|SANTI|S. Luigi Gonzaga|NO|-
+2032-06-22|SANTI|S. Paolino da Nola|NO|-
+2032-06-23|SANTI|S. Lanfranco vescovo|NO|-
+2032-06-24|RICORRENZA_RELIGIOSA|Natività di S. Giovanni Battista|NO|-
+2032-06-25|SANTI|S. Guglielmo|NO|-
+2032-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2032-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2032-06-28|SANTI|S. Attilio confessore, S. Ireneo|NO|-
+2032-06-29|SANTI|Ss. Pietro e Paolo|NO|-
+2032-06-30|SANTI|Ss. Primi Martiri|NO|-
+2032-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2032-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2032-07-03|SANTI|S. Tommaso apostolo|NO|-
+2032-07-04|SANTI|Santa Elisabetta regina|NO|-
+2032-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2032-07-06|SANTI|Santa Maria Goretti|NO|-
+2032-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2032-07-08|SANTI|Sant'Adriano III|NO|-
+2032-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2032-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2032-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2032-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2032-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2032-07-14|SANTI|S. Camillo De Lellis|NO|-
+2032-07-15|SANTI|S. Bonaventura|NO|-
+2032-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2032-07-17|SANTI|Sant'Alessio confessore|NO|-
+2032-07-18|SANTI|S. Federico|NO|-
+2032-07-19|SANTI|Santa Giusta|NO|-
+2032-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2032-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2032-07-22|SANTI|Santa Maria Maddalena|NO|-
+2032-07-23|SANTI|Santa Brigida|NO|-
+2032-07-24|SANTI|Santa Cristina|NO|-
+2032-07-25|SANTI|S. Giacomo apostolo|NO|-
+2032-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2032-07-27|SANTI|Santa Liliana|NO|-
+2032-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2032-07-29|SANTI|Santa Marta|NO|-
+2032-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2032-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2032-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2032-08-02|SANTI|Sant'Eusebio|NO|-
+2032-08-03|SANTI|Santa Lidia|NO|-
+2032-08-04|SANTI|S. Giovanni Maria Vianney|NO|VN_CORREZIONE
+2032-08-05|SANTI|Sant'Osvaldo|NO|VN_CORREZIONE
+2032-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2032-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2032-08-08|SANTI|S. Domenico|NO|-
+2032-08-09|SANTI|S. Romano|NO|-
+2032-08-10|SANTI|S. Lorenzo martire|NO|-
+2032-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2032-08-12|SANTI|Sant'Ercolano|NO|-
+2032-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2032-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2032-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2032-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2032-08-17|SANTI|S. Giacinto|NO|-
+2032-08-18|SANTI|Santa Elena imperatrice|NO|-
+2032-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2032-08-20|SANTI|S. Bernardo|NO|-
+2032-08-21|SANTI|S. Pio X Papa|NO|-
+2032-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2032-08-23|SANTI|S. Rosa da Lima|NO|-
+2032-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2032-08-25|SANTI|S. Lodovico re|NO|-
+2032-08-26|SANTI|Sant'Alessandro martire|NO|-
+2032-08-27|SANTI|Santa Monica|NO|-
+2032-08-28|SANTI|Sant'Agostino|NO|-
+2032-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2032-08-30|SANTI|Santa Faustina|NO|-
+2032-08-31|SANTI|Sant'Aristide|NO|-
+2032-09-01|SANTI|Sant'Egidio|NO|-
+2032-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2032-09-03|SANTI|S. Gregorio martire|NO|-
+2032-09-04|SANTI|Santa Rosalia|NO|-
+2032-09-05|SANTI|S. Vittorino|NO|-
+2032-09-06|SANTI|Sant'Umberto|NO|-
+2032-09-07|SANTI|Santa Regina|NO|-
+2032-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2032-09-09|SANTI|S. Sergio Papa|NO|-
+2032-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2032-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2032-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2032-09-13|SANTI|S. Giovanni Crisostomo|NO|VN_CORREZIONE
+2032-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2032-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2032-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2032-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2032-09-18|SANTI|Santa Sofia martire|NO|-
+2032-09-19|SANTI|S. Gennaro vescovo|NO|-
+2032-09-20|SANTI|Sant'Eustachio|NO|-
+2032-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2032-09-22|SANTI|S. Maurizio martire|NO|-
+2032-09-23|SANTI|S. Pio da Pietrelcina|NO|VN_CORREZIONE
+2032-09-24|SANTI|S. Pacifico prete|NO|-
+2032-09-25|SANTI|Santa Aurelia|NO|-
+2032-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2032-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2032-09-28|SANTI|S. Venceslao martire|NO|-
+2032-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2032-09-30|SANTI|S. Girolamo|NO|-
+2032-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2032-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2032-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2032-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2032-10-05|SANTI|S. Placido martire|NO|-
+2032-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2032-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2032-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2032-10-09|SANTI|S. Dionigi|NO|-
+2032-10-10|SANTI|S. Daniele vescovo|NO|-
+2032-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2032-10-12|SANTI|S. Serafino|NO|-
+2032-10-13|SANTI|Sant'Edoardo re|NO|-
+2032-10-14|SANTI|S. Callisto I Papa|NO|-
+2032-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2032-10-16|SANTI|Santa Edvige|NO|-
+2032-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2032-10-18|SANTI|S. Luca evangelista|NO|-
+2032-10-19|SANTI|S. Isacco martire|NO|-
+2032-10-20|SANTI|Sant'Irene|NO|-
+2032-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2032-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2032-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2032-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2032-10-25|SANTI|Ss. Crisanto e Daria|NO|VN
+2032-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2032-10-27|SANTI|S. Fiorenzo|NO|-
+2032-10-28|SANTI|SS. Simone e Giuda|NO|-
+2032-10-29|SANTI|S. Ermelinda|NO|-
+2032-10-30|SANTI|S. Germano vescovo|NO|-
+2032-10-31|SANTI|Santa Lucilla|NO|-
+2032-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2032-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2032-11-03|SANTI|Santa Silvia|NO|-
+2032-11-04|SANTI|S. Carlo Borromeo|NO|-
+2032-11-05|SANTI|S. Zaccaria profeta|NO|-
+2032-11-06|SANTI|S. Leonardo|NO|-
+2032-11-07|SANTI|Sant'Ernesto|NO|-
+2032-11-08|SANTI|S. Goffredo vescovo|NO|-
+2032-11-09|SANTI|Sant'Oreste|NO|-
+2032-11-10|SANTI|S. Leone Magno|NO|-
+2032-11-11|SANTI|S. Martino|NO|-
+2032-11-12|SANTI|S. Renato|NO|-
+2032-11-13|SANTI|S. Diego confessore|NO|-
+2032-11-14|SANTI|S. Giocondo vescovo|NO|-
+2032-11-15|SANTI|S. Alberto Magno|NO|-
+2032-11-16|SANTI|S. Margherita di Scozia|NO|-
+2032-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2032-11-18|SANTI|Sant'Oddone|NO|-
+2032-11-19|SANTI|S. Fausto|NO|-
+2032-11-20|SANTI|S. Felice di Valois, Sant'Ottavio|NO|-
+2032-11-21|SANTI_E_RICORRENZA_RELIGIOSA|N.S. Gesù Re dell’Universo · Presentazione di Maria Vergine|SI|CALCOLO_ROMANO_ITALIA;-
+2032-11-22|SANTI|Santa Cecilia|NO|A4
+2032-11-23|SANTI|S. Clemente I Papa|NO|-
+2032-11-24|SANTI|S. Giovanni della Croce|NO|-
+2032-11-25|SANTI|Santa Caterina di Alessandria|NO|-
+2032-11-26|SANTI|S. Corrado vescovo, S. Delfina|NO|-
+2032-11-27|SANTI|S. Virgilio|NO|-
+2032-11-28|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Avvento · Santa Livia, S. Demetrio|SI|CALCOLO_ROMANO_ITALIA;-
+2032-11-29|SANTI|S. Saturnino martire|NO|VN
+2032-11-30|SANTI|Sant'Andrea apostolo|NO|-
+2032-12-01|SANTI|S. Eligio|NO|-
+2032-12-02|SANTI|Santa Bibiana|NO|-
+2032-12-03|SANTI|S. Francesco Saverio|NO|-
+2032-12-04|SANTI|Santa Barbara|NO|-
+2032-12-05|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Avvento · S. Dalmazio|SI|CALCOLO_ROMANO_ITALIA;-
+2032-12-06|SANTI|S. Nicola di Bari|NO|VN
+2032-12-07|SANTI|Sant'Ambrogio vescovo|NO|-
+2032-12-08|RICORRENZA_RELIGIOSA|Immacolata Concezione|NO|-
+2032-12-09|SANTI|S. Siro|NO|-
+2032-12-10|RICORRENZA_RELIGIOSA|Nostra Signora di Loreto|NO|-
+2032-12-11|SANTI|S. Damaso I Papa|NO|-
+2032-12-12|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Avvento · Santa Giovanna|SI|CALCOLO_ROMANO_ITALIA;-
+2032-12-13|SANTI|Santa Lucia|NO|VN
+2032-12-14|SANTI|S. Giovanni della Croce|NO|-
+2032-12-15|SANTI|S. Valeriano|NO|-
+2032-12-16|SANTI|Santa Adelaide|NO|-
+2032-12-17|SANTI|S. Lazzaro|NO|-
+2032-12-18|SANTI|S. Graziano vescovo|NO|-
+2032-12-19|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Avvento · S. Dario, Santa Fausta|SI|CALCOLO_ROMANO_ITALIA;-
+2032-12-20|SANTI|S. Filogonio|NO|VN
+2032-12-21|SANTI|S. Pietro Canisio|NO|-
+2032-12-22|SANTI|S. Flaviano|NO|-
+2032-12-23|SANTI|S. Giovanni di Kenty|NO|-
+2032-12-24|SANTI|Santa Irma|NO|-
+2032-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2032-12-26|SANTI_E_RICORRENZA_RELIGIOSA|Sacra Famiglia · S. Stefano|SI|CALCOLO_ROMANO_ITALIA;VN
+2032-12-27|SANTI|S. Giovanni Evangelista|NO|A5
+2032-12-28|SANTI|Ss. Innocenti martiri|NO|-
+2032-12-29|SANTI|S. Tommaso Becket|NO|-
+2032-12-30|SANTI|Sant'Eugenio vescovo|NO|-
+2032-12-31|SANTI|S. Silvestro Papa|NO|-
+2033-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2033-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2033-01-03|SANTI|Santa Genoveffa|NO|-
+2033-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2033-01-05|SANTI|Sant'Amelia|NO|-
+2033-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2033-01-07|SANTI|S. Luciano, S. Raimondo|NO|-
+2033-01-08|SANTI|S. Severino, S. Massimo|NO|-
+2033-01-09|SANTI_E_RICORRENZA_RELIGIOSA|Battesimo del Signore · S. Giuliano martire|SI|CALCOLO_ROMANO_ITALIA;-
+2033-01-10|SANTI|S. Agatone, S. Aldo|NO|-
+2033-01-11|SANTI|Sant'Igino Papa|NO|VN
+2033-01-12|SANTI|S. Modesto|NO|-
+2033-01-13|SANTI|Sant'Ilario|NO|-
+2033-01-14|SANTI|S. Felice|NO|-
+2033-01-15|SANTI|S. Mauro|NO|-
+2033-01-16|SANTI|S. Marcello Papa|NO|-
+2033-01-17|SANTI|Sant'Antonio abate|NO|-
+2033-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2033-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2033-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2033-01-21|SANTI|Sant'Agnese|NO|-
+2033-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2033-01-23|SANTI|Santa Emerenziana|NO|-
+2033-01-24|SANTI|S. Francesco di Sales|NO|-
+2033-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2033-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2033-01-27|SANTI|Sant'Angela Merici|NO|-
+2033-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2033-01-29|SANTI|S. Costanzo|NO|-
+2033-01-30|SANTI|Santa Martina|NO|-
+2033-01-31|SANTI|S. Giovanni Bosco|NO|-
+2033-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2033-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2033-02-03|SANTI|S. Biagio|NO|-
+2033-02-04|SANTI|S. Gilberto|NO|-
+2033-02-05|SANTI|Sant'Agata|NO|-
+2033-02-06|SANTI|S. Paolo Miki|NO|-
+2033-02-07|SANTI|S. Romualdo|NO|-
+2033-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2033-02-09|SANTI|Santa Apollonia|NO|-
+2033-02-10|SANTI|Santa Scolastica|NO|-
+2033-02-11|RICORRENZA_RELIGIOSA|Nostra Signora di Lourdes|NO|-
+2033-02-12|SANTI|Santa Eulalia|NO|-
+2033-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2033-02-14|SANTI|S. Valentino martire|NO|-
+2033-02-15|SANTI|SS. Faustino e Giovita|NO|-
+2033-02-16|SANTI|Santa Giuliana|NO|-
+2033-02-17|SANTI|S. Donato martire|NO|-
+2033-02-18|SANTI|Beato Angelico|NO|VN
+2033-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2033-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2033-02-21|SANTI|Santa Eleonora, S. Pier Damiani|NO|-
+2033-02-22|SANTI|S. Massimiano di Ravenna|NO|VN
+2033-02-23|SANTI|S. Policarpo|NO|-
+2033-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2033-02-25|SANTI|S. Cesario|NO|-
+2033-02-26|SANTI|S. Nestore|NO|-
+2033-02-27|SANTI|S. Leandro|NO|-
+2033-02-28|SANTI|S. Romano abate|NO|-
+2033-03-01|SANTI|Sant'Albino|NO|VN
+2033-03-02|SANTI_E_RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri · Sant'Eraclio, S. Basilio martire|SI|CALCOLO_ROMANO_ITALIA;-
+2033-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2033-03-04|SANTI|S. Casimiro, S. Lucio|NO|-
+2033-03-05|SANTI|S. Adriano|NO|-
+2033-03-06|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Quaresima · S. Marciano|SI|CALCOLO_ROMANO_ITALIA;-
+2033-03-07|SANTI|Santa Perpetua e Felicita|NO|-
+2033-03-08|SANTI|S. Giovanni di Dio|NO|VN
+2033-03-09|SANTI|Santa Francesca Romana|NO|-
+2033-03-10|SANTI|S. Simplicio Papa|NO|-
+2033-03-11|SANTI|S. Costantino|NO|-
+2033-03-12|SANTI|S. Massimiliano|NO|-
+2033-03-13|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Quaresima · Sant'Arrigo, Santa Eufrasia|SI|CALCOLO_ROMANO_ITALIA;-
+2033-03-14|SANTI|Santa Matilde regina|NO|-
+2033-03-15|SANTI|S. Zaccaria Papa|NO|VN
+2033-03-16|SANTI|Sant'Ariberto|NO|-
+2033-03-17|SANTI|S. Patrizio|NO|-
+2033-03-18|SANTI|S. Cirillo di Gerusalemme|NO|-
+2033-03-19|SANTI|S. Giuseppe|NO|-
+2033-03-20|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Quaresima · Santa Claudia, S. Alessandra martire|SI|CALCOLO_ROMANO_ITALIA;-
+2033-03-21|SANTI|S. Benedetto da Norcia|NO|-
+2033-03-22|SANTI|Santa Lea|NO|VN
+2033-03-23|SANTI|S. Turibio de Mogrovejo|NO|-
+2033-03-24|SANTI|S. Romolo, S. Caterina di Svezia|NO|-
+2033-03-25|RICORRENZA_RELIGIOSA|Annunciazione del Signore|NO|-
+2033-03-26|SANTI|S. Emanuele, S. Teodoro|NO|-
+2033-03-27|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Quaresima · S. Augusto|SI|CALCOLO_ROMANO_ITALIA;-
+2033-03-28|SANTI|S. Sisto III Papa|NO|-
+2033-03-29|SANTI|Sant'Eustasio|NO|VN
+2033-03-30|SANTI|S. Amedeo|NO|-
+2033-03-31|SANTI|S. Beniamino martire|NO|-
+2033-04-01|SANTI|Sant'Ugo di Grenoble (vescovo)|NO|-
+2033-04-02|SANTI|S. Francesco di Paola|NO|-
+2033-04-03|SANTI_E_RICORRENZA_RELIGIOSA|V Domenica di Quaresima · S. Riccardo vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2033-04-04|SANTI|Sant'Isidoro|NO|-
+2033-04-05|SANTI|S. Vincenzo Ferrer|NO|VN
+2033-04-06|SANTI|Santa Galla|NO|VN
+2033-04-07|SANTI|Sant'Ermanno, S. Giovanni B.|NO|-
+2033-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2033-04-09|SANTI|S. Gualtiero, Santa Maria Cleofe|NO|-
+2033-04-10|SANTI_E_RICORRENZA_RELIGIOSA|Domenica delle Palme · S. Terenzio martire|SI|CALCOLO_ROMANO_ITALIA;-
+2033-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2033-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2033-04-13|SANTI|Sant'Ermenegildo, S. Martino I Papa|NO|-
+2033-04-14|SANTI|S. Abbondio|NO|-
+2033-04-15|SANTI|Sant'Annibale martire|NO|-
+2033-04-16|SANTI|Santa Bernadetta, S. Lamberto|NO|-
+2033-04-17|SANTI_E_RICORRENZA_RELIGIOSA|Pasqua · Sant'Aniceto Papa, S. Roberto|SI|CALCOLO_ROMANO_ITALIA;-
+2033-04-18|SANTI_E_RICORRENZA_RELIGIOSA|Lunedì dell’Angelo · S. Galdino vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2033-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2033-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2033-04-21|SANTI|Sant'Anselmo|NO|-
+2033-04-22|SANTI|Ss. Sotero e Caio|NO|-
+2033-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2033-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2033-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2033-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2033-04-27|SANTI|Ss. Ida e Zita|NO|-
+2033-04-28|SANTI|Santa Valeria|NO|-
+2033-04-29|SANTI|Santa Caterina da Siena|NO|-
+2033-04-30|SANTI|S. Pio V Papa|NO|-
+2033-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2033-05-02|SANTI|Sant'Atanasio|NO|-
+2033-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2033-05-04|SANTI|S. Silvano|NO|-
+2033-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2033-05-06|SANTI|Santa Giuditta|NO|-
+2033-05-07|SANTI|Santa Flavia|NO|-
+2033-05-08|SANTI|S. Vittore|NO|-
+2033-05-09|SANTI|S. Gregorio|NO|-
+2033-05-10|SANTI|Sant'Antonino|NO|-
+2033-05-11|SANTI|S. Fabio martire|NO|-
+2033-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2033-05-13|RICORRENZA_RELIGIOSA|Beata Vergine Maria di Fatima|NO|-
+2033-05-14|SANTI|S. Mattia apostolo|NO|-
+2033-05-15|SANTI|S. Torquato|NO|-
+2033-05-16|SANTI|Sant'Ubaldo|NO|-
+2033-05-17|SANTI|S. Pasquale Baylon|NO|VN
+2033-05-18|SANTI|S. Giovanni I Papa|NO|-
+2033-05-19|SANTI|S. Celestino V Papa|NO|-
+2033-05-20|SANTI|S. Bernardino da Siena|NO|-
+2033-05-21|SANTI|S. Vittorio martire|NO|-
+2033-05-22|SANTI|Santa Rita da Cascia|NO|-
+2033-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2033-05-24|SANTI|S. Vincenzo di Lérins|NO|VN
+2033-05-25|SANTI|S. Gregorio VII Papa|NO|-
+2033-05-26|SANTI|S. Filippo Neri|NO|-
+2033-05-27|SANTI|Sant'Agostino|NO|-
+2033-05-28|SANTI|Sant'Emilio martire|NO|-
+2033-05-29|SANTI_E_RICORRENZA_RELIGIOSA|Ascensione del Signore · S. Massimino vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2033-05-30|SANTI|Santa Giovanna d'Arco|NO|-
+2033-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2033-06-01|SANTI|S. Giustino|NO|-
+2033-06-02|SANTI_E_FESTIVITA_CIVILE|Ss. Marcellino / Festa della Repubblica|NO|-
+2033-06-03|SANTI|S. Carlo Lwanga e compagni|NO|-
+2033-06-04|SANTI|S. Quirino vescovo|NO|-
+2033-06-05|SANTI_E_RICORRENZA_RELIGIOSA|Pentecoste · S. Bonifacio vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2033-06-06|SANTI|S. Norberto|NO|-
+2033-06-07|SANTI|Sant'Antonio Maria Gianelli|NO|VN
+2033-06-08|SANTI|S. Medardo vescovo|NO|-
+2033-06-09|SANTI|Sant'Efrem Siro, Ss. Primo e Feliciano|NO|-
+2033-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2033-06-11|SANTI|S. Barnaba apostolo|NO|-
+2033-06-12|SANTI|Sant'Onofrio|NO|VN
+2033-06-13|SANTI|Sant'Antonio di Padova|NO|VN
+2033-06-14|SANTI|Sant'Eliseo|NO|-
+2033-06-15|SANTI|S. Germana|NO|-
+2033-06-16|SANTI|Sant'Aureliano|NO|-
+2033-06-17|SANTI|S. Ranieri, S. Gregorio Barbarigo|NO|-
+2033-06-18|SANTI|Santa Marina|NO|-
+2033-06-19|SANTI_E_RICORRENZA_RELIGIOSA|Corpus Domini · Ss. Gervasio e Protasio, S. Romualdo|SI|CALCOLO_ROMANO_ITALIA;-
+2033-06-20|SANTI|Sant'Ettore, S. Silverio Papa|NO|-
+2033-06-21|SANTI|S. Luigi Gonzaga|NO|-
+2033-06-22|SANTI|S. Paolino da Nola|NO|-
+2033-06-23|SANTI|S. Lanfranco vescovo|NO|-
+2033-06-24|SANTI_E_RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù · Natività di S. Giovanni Battista|SI|CALCOLO_ROMANO_ITALIA;-
+2033-06-25|SANTI_E_RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria · S. Guglielmo|SI|CALCOLO_ROMANO_ITALIA;-
+2033-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2033-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2033-06-28|SANTI|S. Attilio confessore, S. Ireneo|NO|-
+2033-06-29|SANTI|Ss. Pietro e Paolo|NO|-
+2033-06-30|SANTI|Ss. Primi Martiri|NO|-
+2033-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2033-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2033-07-03|SANTI|S. Tommaso apostolo|NO|-
+2033-07-04|SANTI|Santa Elisabetta regina|NO|-
+2033-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2033-07-06|SANTI|Santa Maria Goretti|NO|-
+2033-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2033-07-08|SANTI|Sant'Adriano III|NO|-
+2033-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2033-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2033-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2033-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2033-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2033-07-14|SANTI|S. Camillo De Lellis|NO|-
+2033-07-15|SANTI|S. Bonaventura|NO|-
+2033-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2033-07-17|SANTI|Sant'Alessio confessore|NO|-
+2033-07-18|SANTI|S. Federico|NO|-
+2033-07-19|SANTI|Santa Giusta|NO|-
+2033-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2033-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2033-07-22|SANTI|Santa Maria Maddalena|NO|-
+2033-07-23|SANTI|Santa Brigida|NO|-
+2033-07-24|SANTI|Santa Cristina|NO|-
+2033-07-25|SANTI|S. Giacomo apostolo|NO|-
+2033-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2033-07-27|SANTI|Santa Liliana|NO|-
+2033-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2033-07-29|SANTI|Santa Marta|NO|-
+2033-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2033-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2033-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2033-08-02|SANTI|Sant'Eusebio|NO|-
+2033-08-03|SANTI|Santa Lidia|NO|-
+2033-08-04|SANTI|S. Giovanni Maria Vianney|NO|VN_CORREZIONE
+2033-08-05|SANTI|Sant'Osvaldo|NO|VN_CORREZIONE
+2033-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2033-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2033-08-08|SANTI|S. Domenico|NO|-
+2033-08-09|SANTI|S. Romano|NO|-
+2033-08-10|SANTI|S. Lorenzo martire|NO|-
+2033-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2033-08-12|SANTI|Sant'Ercolano|NO|-
+2033-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2033-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2033-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2033-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2033-08-17|SANTI|S. Giacinto|NO|-
+2033-08-18|SANTI|Santa Elena imperatrice|NO|-
+2033-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2033-08-20|SANTI|S. Bernardo|NO|-
+2033-08-21|SANTI|S. Pio X Papa|NO|-
+2033-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2033-08-23|SANTI|S. Rosa da Lima|NO|-
+2033-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2033-08-25|SANTI|S. Lodovico re|NO|-
+2033-08-26|SANTI|Sant'Alessandro martire|NO|-
+2033-08-27|SANTI|Santa Monica|NO|-
+2033-08-28|SANTI|Sant'Agostino|NO|-
+2033-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2033-08-30|SANTI|Santa Faustina|NO|-
+2033-08-31|SANTI|Sant'Aristide|NO|-
+2033-09-01|SANTI|Sant'Egidio|NO|-
+2033-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2033-09-03|SANTI|S. Gregorio martire|NO|-
+2033-09-04|SANTI|Santa Rosalia|NO|-
+2033-09-05|SANTI|S. Vittorino|NO|-
+2033-09-06|SANTI|Sant'Umberto|NO|-
+2033-09-07|SANTI|Santa Regina|NO|-
+2033-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2033-09-09|SANTI|S. Sergio Papa|NO|-
+2033-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2033-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2033-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2033-09-13|SANTI|S. Giovanni Crisostomo|NO|VN_CORREZIONE
+2033-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2033-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2033-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2033-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2033-09-18|SANTI|Santa Sofia martire|NO|-
+2033-09-19|SANTI|S. Gennaro vescovo|NO|-
+2033-09-20|SANTI|Sant'Eustachio|NO|-
+2033-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2033-09-22|SANTI|S. Maurizio martire|NO|-
+2033-09-23|SANTI|S. Pio da Pietrelcina|NO|VN_CORREZIONE
+2033-09-24|SANTI|S. Pacifico prete|NO|-
+2033-09-25|SANTI|Santa Aurelia|NO|-
+2033-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2033-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2033-09-28|SANTI|S. Venceslao martire|NO|-
+2033-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2033-09-30|SANTI|S. Girolamo|NO|-
+2033-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2033-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2033-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2033-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2033-10-05|SANTI|S. Placido martire|NO|-
+2033-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2033-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2033-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2033-10-09|SANTI|S. Dionigi|NO|-
+2033-10-10|SANTI|S. Daniele vescovo|NO|-
+2033-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2033-10-12|SANTI|S. Serafino|NO|-
+2033-10-13|SANTI|Sant'Edoardo re|NO|-
+2033-10-14|SANTI|S. Callisto I Papa|NO|-
+2033-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2033-10-16|SANTI|Santa Edvige|NO|-
+2033-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2033-10-18|SANTI|S. Luca evangelista|NO|-
+2033-10-19|SANTI|S. Isacco martire|NO|-
+2033-10-20|SANTI|Sant'Irene|NO|-
+2033-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2033-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2033-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2033-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2033-10-25|SANTI|Ss. Crisanto e Daria|NO|VN
+2033-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2033-10-27|SANTI|S. Fiorenzo|NO|-
+2033-10-28|SANTI|SS. Simone e Giuda|NO|-
+2033-10-29|SANTI|S. Ermelinda|NO|-
+2033-10-30|SANTI|S. Germano vescovo|NO|-
+2033-10-31|SANTI|Santa Lucilla|NO|-
+2033-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2033-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2033-11-03|SANTI|Santa Silvia|NO|-
+2033-11-04|SANTI|S. Carlo Borromeo|NO|-
+2033-11-05|SANTI|S. Zaccaria profeta|NO|-
+2033-11-06|SANTI|S. Leonardo|NO|-
+2033-11-07|SANTI|Sant'Ernesto|NO|-
+2033-11-08|SANTI|S. Goffredo vescovo|NO|-
+2033-11-09|SANTI|Sant'Oreste|NO|-
+2033-11-10|SANTI|S. Leone Magno|NO|-
+2033-11-11|SANTI|S. Martino|NO|-
+2033-11-12|SANTI|S. Renato|NO|-
+2033-11-13|SANTI|S. Diego confessore|NO|-
+2033-11-14|SANTI|S. Giocondo vescovo|NO|-
+2033-11-15|SANTI|S. Alberto Magno|NO|-
+2033-11-16|SANTI|S. Margherita di Scozia|NO|-
+2033-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2033-11-18|SANTI|Sant'Oddone|NO|-
+2033-11-19|SANTI|S. Fausto|NO|-
+2033-11-20|SANTI_E_RICORRENZA_RELIGIOSA|N.S. Gesù Re dell’Universo · S. Felice di Valois, Sant'Ottavio|SI|CALCOLO_ROMANO_ITALIA;-
+2033-11-21|RICORRENZA_RELIGIOSA|Presentazione di Maria Vergine|NO|-
+2033-11-22|SANTI|Santa Cecilia|NO|A4
+2033-11-23|SANTI|S. Clemente I Papa|NO|-
+2033-11-24|SANTI|S. Giovanni della Croce|NO|-
+2033-11-25|SANTI|Santa Caterina di Alessandria|NO|-
+2033-11-26|SANTI|S. Corrado vescovo, S. Delfina|NO|-
+2033-11-27|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Avvento · S. Virgilio|SI|CALCOLO_ROMANO_ITALIA;-
+2033-11-28|SANTI|Santa Livia, S. Demetrio|NO|-
+2033-11-29|SANTI|S. Saturnino martire|NO|VN
+2033-11-30|SANTI|Sant'Andrea apostolo|NO|-
+2033-12-01|SANTI|S. Eligio|NO|-
+2033-12-02|SANTI|Santa Bibiana|NO|-
+2033-12-03|SANTI|S. Francesco Saverio|NO|-
+2033-12-04|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Avvento · Santa Barbara|SI|CALCOLO_ROMANO_ITALIA;-
+2033-12-05|SANTI|S. Dalmazio|NO|-
+2033-12-06|SANTI|S. Nicola di Bari|NO|VN
+2033-12-07|SANTI|Sant'Ambrogio vescovo|NO|-
+2033-12-08|RICORRENZA_RELIGIOSA|Immacolata Concezione|NO|-
+2033-12-09|SANTI|S. Siro|NO|-
+2033-12-10|RICORRENZA_RELIGIOSA|Nostra Signora di Loreto|NO|-
+2033-12-11|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Avvento · S. Damaso I Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2033-12-12|SANTI|Santa Giovanna|NO|-
+2033-12-13|SANTI|Santa Lucia|NO|VN
+2033-12-14|SANTI|S. Giovanni della Croce|NO|-
+2033-12-15|SANTI|S. Valeriano|NO|-
+2033-12-16|SANTI|Santa Adelaide|NO|-
+2033-12-17|SANTI|S. Lazzaro|NO|-
+2033-12-18|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Avvento · S. Graziano vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2033-12-19|SANTI|S. Dario, Santa Fausta|NO|-
+2033-12-20|SANTI|S. Filogonio|NO|VN
+2033-12-21|SANTI|S. Pietro Canisio|NO|-
+2033-12-22|SANTI|S. Flaviano|NO|-
+2033-12-23|SANTI|S. Giovanni di Kenty|NO|-
+2033-12-24|SANTI|Santa Irma|NO|-
+2033-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2033-12-26|SANTI|S. Stefano|NO|VN
+2033-12-27|SANTI|S. Giovanni Evangelista|NO|A5
+2033-12-28|SANTI|Ss. Innocenti martiri|NO|-
+2033-12-29|SANTI|S. Tommaso Becket|NO|-
+2033-12-30|SANTI_E_RICORRENZA_RELIGIOSA|Sacra Famiglia · Sant'Eugenio vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2033-12-31|SANTI|S. Silvestro Papa|NO|-
+2034-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2034-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2034-01-03|SANTI|Santa Genoveffa|NO|-
+2034-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2034-01-05|SANTI|Sant'Amelia|NO|-
+2034-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2034-01-07|SANTI|S. Luciano, S. Raimondo|NO|-
+2034-01-08|SANTI_E_RICORRENZA_RELIGIOSA|Battesimo del Signore · S. Severino, S. Massimo|SI|CALCOLO_ROMANO_ITALIA;-
+2034-01-09|SANTI|S. Giuliano martire|NO|-
+2034-01-10|SANTI|S. Agatone, S. Aldo|NO|-
+2034-01-11|SANTI|Sant'Igino Papa|NO|VN
+2034-01-12|SANTI|S. Modesto|NO|-
+2034-01-13|SANTI|Sant'Ilario|NO|-
+2034-01-14|SANTI|S. Felice|NO|-
+2034-01-15|SANTI|S. Mauro|NO|-
+2034-01-16|SANTI|S. Marcello Papa|NO|-
+2034-01-17|SANTI|Sant'Antonio abate|NO|-
+2034-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2034-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2034-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2034-01-21|SANTI|Sant'Agnese|NO|-
+2034-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2034-01-23|SANTI|Santa Emerenziana|NO|-
+2034-01-24|SANTI|S. Francesco di Sales|NO|-
+2034-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2034-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2034-01-27|SANTI|Sant'Angela Merici|NO|-
+2034-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2034-01-29|SANTI|S. Costanzo|NO|-
+2034-01-30|SANTI|Santa Martina|NO|-
+2034-01-31|SANTI|S. Giovanni Bosco|NO|-
+2034-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2034-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2034-02-03|SANTI|S. Biagio|NO|-
+2034-02-04|SANTI|S. Gilberto|NO|-
+2034-02-05|SANTI|Sant'Agata|NO|-
+2034-02-06|SANTI|S. Paolo Miki|NO|-
+2034-02-07|SANTI|S. Romualdo|NO|-
+2034-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2034-02-09|SANTI|Santa Apollonia|NO|-
+2034-02-10|SANTI|Santa Scolastica|NO|-
+2034-02-11|RICORRENZA_RELIGIOSA|Nostra Signora di Lourdes|NO|-
+2034-02-12|SANTI|Santa Eulalia|NO|-
+2034-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2034-02-14|SANTI|S. Valentino martire|NO|-
+2034-02-15|SANTI|SS. Faustino e Giovita|NO|-
+2034-02-16|SANTI|Santa Giuliana|NO|-
+2034-02-17|SANTI|S. Donato martire|NO|-
+2034-02-18|SANTI|Beato Angelico|NO|VN
+2034-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2034-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2034-02-21|SANTI|Santa Eleonora, S. Pier Damiani|NO|-
+2034-02-22|SANTI_E_RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri · S. Massimiano di Ravenna|SI|CALCOLO_ROMANO_ITALIA;VN
+2034-02-23|SANTI|S. Policarpo|NO|-
+2034-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2034-02-25|SANTI|S. Cesario|NO|-
+2034-02-26|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Quaresima · S. Nestore|SI|CALCOLO_ROMANO_ITALIA;-
+2034-02-27|SANTI|S. Leandro|NO|-
+2034-02-28|SANTI|S. Romano abate|NO|-
+2034-03-01|SANTI|Sant'Albino|NO|VN
+2034-03-02|SANTI|Sant'Eraclio, S. Basilio martire|NO|-
+2034-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2034-03-04|SANTI|S. Casimiro, S. Lucio|NO|-
+2034-03-05|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Quaresima · S. Adriano|SI|CALCOLO_ROMANO_ITALIA;-
+2034-03-06|SANTI|S. Marciano|NO|-
+2034-03-07|SANTI|Santa Perpetua e Felicita|NO|-
+2034-03-08|SANTI|S. Giovanni di Dio|NO|VN
+2034-03-09|SANTI|Santa Francesca Romana|NO|-
+2034-03-10|SANTI|S. Simplicio Papa|NO|-
+2034-03-11|SANTI|S. Costantino|NO|-
+2034-03-12|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Quaresima · S. Massimiliano|SI|CALCOLO_ROMANO_ITALIA;-
+2034-03-13|SANTI|Sant'Arrigo, Santa Eufrasia|NO|-
+2034-03-14|SANTI|Santa Matilde regina|NO|-
+2034-03-15|SANTI|S. Zaccaria Papa|NO|VN
+2034-03-16|SANTI|Sant'Ariberto|NO|-
+2034-03-17|SANTI|S. Patrizio|NO|-
+2034-03-18|SANTI|S. Cirillo di Gerusalemme|NO|-
+2034-03-19|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Quaresima · S. Giuseppe|SI|CALCOLO_ROMANO_ITALIA;-
+2034-03-20|SANTI|Santa Claudia, S. Alessandra martire|NO|-
+2034-03-21|SANTI|S. Benedetto da Norcia|NO|-
+2034-03-22|SANTI|Santa Lea|NO|VN
+2034-03-23|SANTI|S. Turibio de Mogrovejo|NO|-
+2034-03-24|SANTI|S. Romolo, S. Caterina di Svezia|NO|-
+2034-03-25|RICORRENZA_RELIGIOSA|Annunciazione del Signore|NO|-
+2034-03-26|SANTI_E_RICORRENZA_RELIGIOSA|V Domenica di Quaresima · S. Emanuele, S. Teodoro|SI|CALCOLO_ROMANO_ITALIA;-
+2034-03-27|SANTI|S. Augusto|NO|-
+2034-03-28|SANTI|S. Sisto III Papa|NO|-
+2034-03-29|SANTI|Sant'Eustasio|NO|VN
+2034-03-30|SANTI|S. Amedeo|NO|-
+2034-03-31|SANTI|S. Beniamino martire|NO|-
+2034-04-01|SANTI|Sant'Ugo di Grenoble (vescovo)|NO|-
+2034-04-02|SANTI_E_RICORRENZA_RELIGIOSA|Domenica delle Palme · S. Francesco di Paola|SI|CALCOLO_ROMANO_ITALIA;-
+2034-04-03|SANTI|S. Riccardo vescovo|NO|-
+2034-04-04|SANTI|Sant'Isidoro|NO|-
+2034-04-05|SANTI|S. Vincenzo Ferrer|NO|VN
+2034-04-06|SANTI|Santa Galla|NO|VN
+2034-04-07|SANTI|Sant'Ermanno, S. Giovanni B.|NO|-
+2034-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2034-04-09|SANTI_E_RICORRENZA_RELIGIOSA|Pasqua · S. Gualtiero, Santa Maria Cleofe|SI|CALCOLO_ROMANO_ITALIA;-
+2034-04-10|SANTI_E_RICORRENZA_RELIGIOSA|Lunedì dell’Angelo · S. Terenzio martire|SI|CALCOLO_ROMANO_ITALIA;-
+2034-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2034-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2034-04-13|SANTI|Sant'Ermenegildo, S. Martino I Papa|NO|-
+2034-04-14|SANTI|S. Abbondio|NO|-
+2034-04-15|SANTI|Sant'Annibale martire|NO|-
+2034-04-16|SANTI|Santa Bernadetta, S. Lamberto|NO|-
+2034-04-17|SANTI|Sant'Aniceto Papa, S. Roberto|NO|-
+2034-04-18|SANTI|S. Galdino vescovo|NO|-
+2034-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2034-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2034-04-21|SANTI|Sant'Anselmo|NO|-
+2034-04-22|SANTI|Ss. Sotero e Caio|NO|-
+2034-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2034-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2034-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2034-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2034-04-27|SANTI|Ss. Ida e Zita|NO|-
+2034-04-28|SANTI|Santa Valeria|NO|-
+2034-04-29|SANTI|Santa Caterina da Siena|NO|-
+2034-04-30|SANTI|S. Pio V Papa|NO|-
+2034-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2034-05-02|SANTI|Sant'Atanasio|NO|-
+2034-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2034-05-04|SANTI|S. Silvano|NO|-
+2034-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2034-05-06|SANTI|Santa Giuditta|NO|-
+2034-05-07|SANTI|Santa Flavia|NO|-
+2034-05-08|SANTI|S. Vittore|NO|-
+2034-05-09|SANTI|S. Gregorio|NO|-
+2034-05-10|SANTI|Sant'Antonino|NO|-
+2034-05-11|SANTI|S. Fabio martire|NO|-
+2034-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2034-05-13|RICORRENZA_RELIGIOSA|Beata Vergine Maria di Fatima|NO|-
+2034-05-14|SANTI|S. Mattia apostolo|NO|-
+2034-05-15|SANTI|S. Torquato|NO|-
+2034-05-16|SANTI|Sant'Ubaldo|NO|-
+2034-05-17|SANTI|S. Pasquale Baylon|NO|VN
+2034-05-18|SANTI|S. Giovanni I Papa|NO|-
+2034-05-19|SANTI|S. Celestino V Papa|NO|-
+2034-05-20|SANTI|S. Bernardino da Siena|NO|-
+2034-05-21|SANTI_E_RICORRENZA_RELIGIOSA|Ascensione del Signore · S. Vittorio martire|SI|CALCOLO_ROMANO_ITALIA;-
+2034-05-22|SANTI|Santa Rita da Cascia|NO|-
+2034-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2034-05-24|SANTI|S. Vincenzo di Lérins|NO|VN
+2034-05-25|SANTI|S. Gregorio VII Papa|NO|-
+2034-05-26|SANTI|S. Filippo Neri|NO|-
+2034-05-27|SANTI|Sant'Agostino|NO|-
+2034-05-28|SANTI_E_RICORRENZA_RELIGIOSA|Pentecoste · Sant'Emilio martire|SI|CALCOLO_ROMANO_ITALIA;-
+2034-05-29|SANTI|S. Massimino vescovo|NO|-
+2034-05-30|SANTI|Santa Giovanna d'Arco|NO|-
+2034-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2034-06-01|SANTI|S. Giustino|NO|-
+2034-06-02|SANTI_E_FESTIVITA_CIVILE|Ss. Marcellino / Festa della Repubblica|NO|-
+2034-06-03|SANTI|S. Carlo Lwanga e compagni|NO|-
+2034-06-04|SANTI|S. Quirino vescovo|NO|-
+2034-06-05|SANTI|S. Bonifacio vescovo|NO|-
+2034-06-06|SANTI|S. Norberto|NO|-
+2034-06-07|SANTI|Sant'Antonio Maria Gianelli|NO|VN
+2034-06-08|SANTI|S. Medardo vescovo|NO|-
+2034-06-09|SANTI|Sant'Efrem Siro, Ss. Primo e Feliciano|NO|-
+2034-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2034-06-11|SANTI_E_RICORRENZA_RELIGIOSA|Corpus Domini · S. Barnaba apostolo|SI|CALCOLO_ROMANO_ITALIA;-
+2034-06-12|SANTI|Sant'Onofrio|NO|VN
+2034-06-13|SANTI|Sant'Antonio di Padova|NO|VN
+2034-06-14|SANTI|Sant'Eliseo|NO|-
+2034-06-15|SANTI|S. Germana|NO|-
+2034-06-16|SANTI_E_RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù · Sant'Aureliano|SI|CALCOLO_ROMANO_ITALIA;-
+2034-06-17|SANTI_E_RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria · S. Ranieri, S. Gregorio Barbarigo|SI|CALCOLO_ROMANO_ITALIA;-
+2034-06-18|SANTI|Santa Marina|NO|-
+2034-06-19|SANTI|Ss. Gervasio e Protasio, S. Romualdo|NO|-
+2034-06-20|SANTI|Sant'Ettore, S. Silverio Papa|NO|-
+2034-06-21|SANTI|S. Luigi Gonzaga|NO|-
+2034-06-22|SANTI|S. Paolino da Nola|NO|-
+2034-06-23|SANTI|S. Lanfranco vescovo|NO|-
+2034-06-24|RICORRENZA_RELIGIOSA|Natività di S. Giovanni Battista|NO|-
+2034-06-25|SANTI|S. Guglielmo|NO|-
+2034-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2034-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2034-06-28|SANTI|S. Attilio confessore, S. Ireneo|NO|-
+2034-06-29|SANTI|Ss. Pietro e Paolo|NO|-
+2034-06-30|SANTI|Ss. Primi Martiri|NO|-
+2034-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2034-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2034-07-03|SANTI|S. Tommaso apostolo|NO|-
+2034-07-04|SANTI|Santa Elisabetta regina|NO|-
+2034-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2034-07-06|SANTI|Santa Maria Goretti|NO|-
+2034-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2034-07-08|SANTI|Sant'Adriano III|NO|-
+2034-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2034-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2034-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2034-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2034-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2034-07-14|SANTI|S. Camillo De Lellis|NO|-
+2034-07-15|SANTI|S. Bonaventura|NO|-
+2034-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2034-07-17|SANTI|Sant'Alessio confessore|NO|-
+2034-07-18|SANTI|S. Federico|NO|-
+2034-07-19|SANTI|Santa Giusta|NO|-
+2034-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2034-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2034-07-22|SANTI|Santa Maria Maddalena|NO|-
+2034-07-23|SANTI|Santa Brigida|NO|-
+2034-07-24|SANTI|Santa Cristina|NO|-
+2034-07-25|SANTI|S. Giacomo apostolo|NO|-
+2034-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2034-07-27|SANTI|Santa Liliana|NO|-
+2034-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2034-07-29|SANTI|Santa Marta|NO|-
+2034-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2034-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2034-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2034-08-02|SANTI|Sant'Eusebio|NO|-
+2034-08-03|SANTI|Santa Lidia|NO|-
+2034-08-04|SANTI|S. Giovanni Maria Vianney|NO|VN_CORREZIONE
+2034-08-05|SANTI|Sant'Osvaldo|NO|VN_CORREZIONE
+2034-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2034-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2034-08-08|SANTI|S. Domenico|NO|-
+2034-08-09|SANTI|S. Romano|NO|-
+2034-08-10|SANTI|S. Lorenzo martire|NO|-
+2034-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2034-08-12|SANTI|Sant'Ercolano|NO|-
+2034-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2034-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2034-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2034-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2034-08-17|SANTI|S. Giacinto|NO|-
+2034-08-18|SANTI|Santa Elena imperatrice|NO|-
+2034-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2034-08-20|SANTI|S. Bernardo|NO|-
+2034-08-21|SANTI|S. Pio X Papa|NO|-
+2034-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2034-08-23|SANTI|S. Rosa da Lima|NO|-
+2034-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2034-08-25|SANTI|S. Lodovico re|NO|-
+2034-08-26|SANTI|Sant'Alessandro martire|NO|-
+2034-08-27|SANTI|Santa Monica|NO|-
+2034-08-28|SANTI|Sant'Agostino|NO|-
+2034-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2034-08-30|SANTI|Santa Faustina|NO|-
+2034-08-31|SANTI|Sant'Aristide|NO|-
+2034-09-01|SANTI|Sant'Egidio|NO|-
+2034-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2034-09-03|SANTI|S. Gregorio martire|NO|-
+2034-09-04|SANTI|Santa Rosalia|NO|-
+2034-09-05|SANTI|S. Vittorino|NO|-
+2034-09-06|SANTI|Sant'Umberto|NO|-
+2034-09-07|SANTI|Santa Regina|NO|-
+2034-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2034-09-09|SANTI|S. Sergio Papa|NO|-
+2034-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2034-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2034-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2034-09-13|SANTI|S. Giovanni Crisostomo|NO|VN_CORREZIONE
+2034-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2034-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2034-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2034-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2034-09-18|SANTI|Santa Sofia martire|NO|-
+2034-09-19|SANTI|S. Gennaro vescovo|NO|-
+2034-09-20|SANTI|Sant'Eustachio|NO|-
+2034-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2034-09-22|SANTI|S. Maurizio martire|NO|-
+2034-09-23|SANTI|S. Pio da Pietrelcina|NO|VN_CORREZIONE
+2034-09-24|SANTI|S. Pacifico prete|NO|-
+2034-09-25|SANTI|Santa Aurelia|NO|-
+2034-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2034-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2034-09-28|SANTI|S. Venceslao martire|NO|-
+2034-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2034-09-30|SANTI|S. Girolamo|NO|-
+2034-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2034-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2034-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2034-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2034-10-05|SANTI|S. Placido martire|NO|-
+2034-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2034-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2034-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2034-10-09|SANTI|S. Dionigi|NO|-
+2034-10-10|SANTI|S. Daniele vescovo|NO|-
+2034-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2034-10-12|SANTI|S. Serafino|NO|-
+2034-10-13|SANTI|Sant'Edoardo re|NO|-
+2034-10-14|SANTI|S. Callisto I Papa|NO|-
+2034-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2034-10-16|SANTI|Santa Edvige|NO|-
+2034-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2034-10-18|SANTI|S. Luca evangelista|NO|-
+2034-10-19|SANTI|S. Isacco martire|NO|-
+2034-10-20|SANTI|Sant'Irene|NO|-
+2034-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2034-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2034-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2034-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2034-10-25|SANTI|Ss. Crisanto e Daria|NO|VN
+2034-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2034-10-27|SANTI|S. Fiorenzo|NO|-
+2034-10-28|SANTI|SS. Simone e Giuda|NO|-
+2034-10-29|SANTI|S. Ermelinda|NO|-
+2034-10-30|SANTI|S. Germano vescovo|NO|-
+2034-10-31|SANTI|Santa Lucilla|NO|-
+2034-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2034-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2034-11-03|SANTI|Santa Silvia|NO|-
+2034-11-04|SANTI|S. Carlo Borromeo|NO|-
+2034-11-05|SANTI|S. Zaccaria profeta|NO|-
+2034-11-06|SANTI|S. Leonardo|NO|-
+2034-11-07|SANTI|Sant'Ernesto|NO|-
+2034-11-08|SANTI|S. Goffredo vescovo|NO|-
+2034-11-09|SANTI|Sant'Oreste|NO|-
+2034-11-10|SANTI|S. Leone Magno|NO|-
+2034-11-11|SANTI|S. Martino|NO|-
+2034-11-12|SANTI|S. Renato|NO|-
+2034-11-13|SANTI|S. Diego confessore|NO|-
+2034-11-14|SANTI|S. Giocondo vescovo|NO|-
+2034-11-15|SANTI|S. Alberto Magno|NO|-
+2034-11-16|SANTI|S. Margherita di Scozia|NO|-
+2034-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2034-11-18|SANTI|Sant'Oddone|NO|-
+2034-11-19|SANTI|S. Fausto|NO|-
+2034-11-20|SANTI|S. Felice di Valois, Sant'Ottavio|NO|-
+2034-11-21|RICORRENZA_RELIGIOSA|Presentazione di Maria Vergine|NO|-
+2034-11-22|SANTI|Santa Cecilia|NO|A4
+2034-11-23|SANTI|S. Clemente I Papa|NO|-
+2034-11-24|SANTI|S. Giovanni della Croce|NO|-
+2034-11-25|SANTI|Santa Caterina di Alessandria|NO|-
+2034-11-26|SANTI_E_RICORRENZA_RELIGIOSA|N.S. Gesù Re dell’Universo · S. Corrado vescovo, S. Delfina|SI|CALCOLO_ROMANO_ITALIA;-
+2034-11-27|SANTI|S. Virgilio|NO|-
+2034-11-28|SANTI|Santa Livia, S. Demetrio|NO|-
+2034-11-29|SANTI|S. Saturnino martire|NO|VN
+2034-11-30|SANTI|Sant'Andrea apostolo|NO|-
+2034-12-01|SANTI|S. Eligio|NO|-
+2034-12-02|SANTI|Santa Bibiana|NO|-
+2034-12-03|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Avvento · S. Francesco Saverio|SI|CALCOLO_ROMANO_ITALIA;-
+2034-12-04|SANTI|Santa Barbara|NO|-
+2034-12-05|SANTI|S. Dalmazio|NO|-
+2034-12-06|SANTI|S. Nicola di Bari|NO|VN
+2034-12-07|SANTI|Sant'Ambrogio vescovo|NO|-
+2034-12-08|RICORRENZA_RELIGIOSA|Immacolata Concezione|NO|-
+2034-12-09|SANTI|S. Siro|NO|-
+2034-12-10|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Avvento · Nostra Signora di Loreto|SI|CALCOLO_ROMANO_ITALIA;-
+2034-12-11|SANTI|S. Damaso I Papa|NO|-
+2034-12-12|SANTI|Santa Giovanna|NO|-
+2034-12-13|SANTI|Santa Lucia|NO|VN
+2034-12-14|SANTI|S. Giovanni della Croce|NO|-
+2034-12-15|SANTI|S. Valeriano|NO|-
+2034-12-16|SANTI|Santa Adelaide|NO|-
+2034-12-17|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Avvento · S. Lazzaro|SI|CALCOLO_ROMANO_ITALIA;-
+2034-12-18|SANTI|S. Graziano vescovo|NO|-
+2034-12-19|SANTI|S. Dario, Santa Fausta|NO|-
+2034-12-20|SANTI|S. Filogonio|NO|VN
+2034-12-21|SANTI|S. Pietro Canisio|NO|-
+2034-12-22|SANTI|S. Flaviano|NO|-
+2034-12-23|SANTI|S. Giovanni di Kenty|NO|-
+2034-12-24|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Avvento · Santa Irma|SI|CALCOLO_ROMANO_ITALIA;-
+2034-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2034-12-26|SANTI|S. Stefano|NO|VN
+2034-12-27|SANTI|S. Giovanni Evangelista|NO|A5
+2034-12-28|SANTI|Ss. Innocenti martiri|NO|-
+2034-12-29|SANTI|S. Tommaso Becket|NO|-
+2034-12-30|SANTI|Sant'Eugenio vescovo|NO|-
+2034-12-31|SANTI_E_RICORRENZA_RELIGIOSA|Sacra Famiglia · S. Silvestro Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2035-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2035-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2035-01-03|SANTI|Santa Genoveffa|NO|-
+2035-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2035-01-05|SANTI|Sant'Amelia|NO|-
+2035-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2035-01-07|SANTI_E_RICORRENZA_RELIGIOSA|Battesimo del Signore · S. Luciano, S. Raimondo|SI|CALCOLO_ROMANO_ITALIA;-
+2035-01-08|SANTI|S. Severino, S. Massimo|NO|-
+2035-01-09|SANTI|S. Giuliano martire|NO|-
+2035-01-10|SANTI|S. Agatone, S. Aldo|NO|-
+2035-01-11|SANTI|Sant'Igino Papa|NO|VN
+2035-01-12|SANTI|S. Modesto|NO|-
+2035-01-13|SANTI|Sant'Ilario|NO|-
+2035-01-14|SANTI|S. Felice|NO|-
+2035-01-15|SANTI|S. Mauro|NO|-
+2035-01-16|SANTI|S. Marcello Papa|NO|-
+2035-01-17|SANTI|Sant'Antonio abate|NO|-
+2035-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2035-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2035-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2035-01-21|SANTI|Sant'Agnese|NO|-
+2035-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2035-01-23|SANTI|Santa Emerenziana|NO|-
+2035-01-24|SANTI|S. Francesco di Sales|NO|-
+2035-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2035-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2035-01-27|SANTI|Sant'Angela Merici|NO|-
+2035-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2035-01-29|SANTI|S. Costanzo|NO|-
+2035-01-30|SANTI|Santa Martina|NO|-
+2035-01-31|SANTI|S. Giovanni Bosco|NO|-
+2035-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2035-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2035-02-03|SANTI|S. Biagio|NO|-
+2035-02-04|SANTI|S. Gilberto|NO|-
+2035-02-05|SANTI|Sant'Agata|NO|-
+2035-02-06|SANTI|S. Paolo Miki|NO|-
+2035-02-07|SANTI_E_RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri · S. Romualdo|SI|CALCOLO_ROMANO_ITALIA;-
+2035-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2035-02-09|SANTI|Santa Apollonia|NO|-
+2035-02-10|SANTI|Santa Scolastica|NO|-
+2035-02-11|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Quaresima · Nostra Signora di Lourdes|SI|CALCOLO_ROMANO_ITALIA;-
+2035-02-12|SANTI|Santa Eulalia|NO|-
+2035-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2035-02-14|SANTI|S. Valentino martire|NO|-
+2035-02-15|SANTI|SS. Faustino e Giovita|NO|-
+2035-02-16|SANTI|Santa Giuliana|NO|-
+2035-02-17|SANTI|S. Donato martire|NO|-
+2035-02-18|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Quaresima · Beato Angelico|SI|CALCOLO_ROMANO_ITALIA;VN
+2035-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2035-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2035-02-21|SANTI|Santa Eleonora, S. Pier Damiani|NO|-
+2035-02-22|SANTI|S. Massimiano di Ravenna|NO|VN
+2035-02-23|SANTI|S. Policarpo|NO|-
+2035-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2035-02-25|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Quaresima · S. Cesario|SI|CALCOLO_ROMANO_ITALIA;-
+2035-02-26|SANTI|S. Nestore|NO|-
+2035-02-27|SANTI|S. Leandro|NO|-
+2035-02-28|SANTI|S. Romano abate|NO|-
+2035-03-01|SANTI|Sant'Albino|NO|VN
+2035-03-02|SANTI|Sant'Eraclio, S. Basilio martire|NO|-
+2035-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2035-03-04|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Quaresima · S. Casimiro, S. Lucio|SI|CALCOLO_ROMANO_ITALIA;-
+2035-03-05|SANTI|S. Adriano|NO|-
+2035-03-06|SANTI|S. Marciano|NO|-
+2035-03-07|SANTI|Santa Perpetua e Felicita|NO|-
+2035-03-08|SANTI|S. Giovanni di Dio|NO|VN
+2035-03-09|SANTI|Santa Francesca Romana|NO|-
+2035-03-10|SANTI|S. Simplicio Papa|NO|-
+2035-03-11|SANTI_E_RICORRENZA_RELIGIOSA|V Domenica di Quaresima · S. Costantino|SI|CALCOLO_ROMANO_ITALIA;-
+2035-03-12|SANTI|S. Massimiliano|NO|-
+2035-03-13|SANTI|Sant'Arrigo, Santa Eufrasia|NO|-
+2035-03-14|SANTI|Santa Matilde regina|NO|-
+2035-03-15|SANTI|S. Zaccaria Papa|NO|VN
+2035-03-16|SANTI|Sant'Ariberto|NO|-
+2035-03-17|SANTI|S. Patrizio|NO|-
+2035-03-18|SANTI_E_RICORRENZA_RELIGIOSA|Domenica delle Palme · S. Cirillo di Gerusalemme|SI|CALCOLO_ROMANO_ITALIA;-
+2035-03-19|SANTI|S. Giuseppe|NO|-
+2035-03-20|SANTI|Santa Claudia, S. Alessandra martire|NO|-
+2035-03-21|SANTI|S. Benedetto da Norcia|NO|-
+2035-03-22|SANTI|Santa Lea|NO|VN
+2035-03-23|SANTI|S. Turibio de Mogrovejo|NO|-
+2035-03-24|SANTI|S. Romolo, S. Caterina di Svezia|NO|-
+2035-03-25|SANTI_E_RICORRENZA_RELIGIOSA|Pasqua · Annunciazione del Signore|SI|CALCOLO_ROMANO_ITALIA;-
+2035-03-26|SANTI_E_RICORRENZA_RELIGIOSA|Lunedì dell’Angelo · S. Emanuele, S. Teodoro|SI|CALCOLO_ROMANO_ITALIA;-
+2035-03-27|SANTI|S. Augusto|NO|-
+2035-03-28|SANTI|S. Sisto III Papa|NO|-
+2035-03-29|SANTI|Sant'Eustasio|NO|VN
+2035-03-30|SANTI|S. Amedeo|NO|-
+2035-03-31|SANTI|S. Beniamino martire|NO|-
+2035-04-01|SANTI|Sant'Ugo di Grenoble (vescovo)|NO|-
+2035-04-02|SANTI|S. Francesco di Paola|NO|-
+2035-04-03|SANTI|S. Riccardo vescovo|NO|-
+2035-04-04|SANTI|Sant'Isidoro|NO|-
+2035-04-05|SANTI|S. Vincenzo Ferrer|NO|VN
+2035-04-06|SANTI|Santa Galla|NO|VN
+2035-04-07|SANTI|Sant'Ermanno, S. Giovanni B.|NO|-
+2035-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2035-04-09|SANTI|S. Gualtiero, Santa Maria Cleofe|NO|-
+2035-04-10|SANTI|S. Terenzio martire|NO|-
+2035-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2035-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2035-04-13|SANTI|Sant'Ermenegildo, S. Martino I Papa|NO|-
+2035-04-14|SANTI|S. Abbondio|NO|-
+2035-04-15|SANTI|Sant'Annibale martire|NO|-
+2035-04-16|SANTI|Santa Bernadetta, S. Lamberto|NO|-
+2035-04-17|SANTI|Sant'Aniceto Papa, S. Roberto|NO|-
+2035-04-18|SANTI|S. Galdino vescovo|NO|-
+2035-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2035-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2035-04-21|SANTI|Sant'Anselmo|NO|-
+2035-04-22|SANTI|Ss. Sotero e Caio|NO|-
+2035-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2035-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2035-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2035-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2035-04-27|SANTI|Ss. Ida e Zita|NO|-
+2035-04-28|SANTI|Santa Valeria|NO|-
+2035-04-29|SANTI|Santa Caterina da Siena|NO|-
+2035-04-30|SANTI|S. Pio V Papa|NO|-
+2035-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2035-05-02|SANTI|Sant'Atanasio|NO|-
+2035-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2035-05-04|SANTI|S. Silvano|NO|-
+2035-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2035-05-06|SANTI_E_RICORRENZA_RELIGIOSA|Ascensione del Signore · Santa Giuditta|SI|CALCOLO_ROMANO_ITALIA;-
+2035-05-07|SANTI|Santa Flavia|NO|-
+2035-05-08|SANTI|S. Vittore|NO|-
+2035-05-09|SANTI|S. Gregorio|NO|-
+2035-05-10|SANTI|Sant'Antonino|NO|-
+2035-05-11|SANTI|S. Fabio martire|NO|-
+2035-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2035-05-13|SANTI_E_RICORRENZA_RELIGIOSA|Pentecoste · Beata Vergine Maria di Fatima|SI|CALCOLO_ROMANO_ITALIA;-
+2035-05-14|SANTI|S. Mattia apostolo|NO|-
+2035-05-15|SANTI|S. Torquato|NO|-
+2035-05-16|SANTI|Sant'Ubaldo|NO|-
+2035-05-17|SANTI|S. Pasquale Baylon|NO|VN
+2035-05-18|SANTI|S. Giovanni I Papa|NO|-
+2035-05-19|SANTI|S. Celestino V Papa|NO|-
+2035-05-20|SANTI|S. Bernardino da Siena|NO|-
+2035-05-21|SANTI|S. Vittorio martire|NO|-
+2035-05-22|SANTI|Santa Rita da Cascia|NO|-
+2035-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2035-05-24|SANTI|S. Vincenzo di Lérins|NO|VN
+2035-05-25|SANTI|S. Gregorio VII Papa|NO|-
+2035-05-26|SANTI|S. Filippo Neri|NO|-
+2035-05-27|SANTI_E_RICORRENZA_RELIGIOSA|Corpus Domini · Sant'Agostino|SI|CALCOLO_ROMANO_ITALIA;-
+2035-05-28|SANTI|Sant'Emilio martire|NO|-
+2035-05-29|SANTI|S. Massimino vescovo|NO|-
+2035-05-30|SANTI|Santa Giovanna d'Arco|NO|-
+2035-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2035-06-01|SANTI_E_RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù · S. Giustino|SI|CALCOLO_ROMANO_ITALIA;-
+2035-06-02|SANTI_E_RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria · Ss. Marcellino / Festa della Repubblica|SI|CALCOLO_ROMANO_ITALIA;-
+2035-06-03|SANTI|S. Carlo Lwanga e compagni|NO|-
+2035-06-04|SANTI|S. Quirino vescovo|NO|-
+2035-06-05|SANTI|S. Bonifacio vescovo|NO|-
+2035-06-06|SANTI|S. Norberto|NO|-
+2035-06-07|SANTI|Sant'Antonio Maria Gianelli|NO|VN
+2035-06-08|SANTI|S. Medardo vescovo|NO|-
+2035-06-09|SANTI|Sant'Efrem Siro, Ss. Primo e Feliciano|NO|-
+2035-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2035-06-11|SANTI|S. Barnaba apostolo|NO|-
+2035-06-12|SANTI|Sant'Onofrio|NO|VN
+2035-06-13|SANTI|Sant'Antonio di Padova|NO|VN
+2035-06-14|SANTI|Sant'Eliseo|NO|-
+2035-06-15|SANTI|S. Germana|NO|-
+2035-06-16|SANTI|Sant'Aureliano|NO|-
+2035-06-17|SANTI|S. Ranieri, S. Gregorio Barbarigo|NO|-
+2035-06-18|SANTI|Santa Marina|NO|-
+2035-06-19|SANTI|Ss. Gervasio e Protasio, S. Romualdo|NO|-
+2035-06-20|SANTI|Sant'Ettore, S. Silverio Papa|NO|-
+2035-06-21|SANTI|S. Luigi Gonzaga|NO|-
+2035-06-22|SANTI|S. Paolino da Nola|NO|-
+2035-06-23|SANTI|S. Lanfranco vescovo|NO|-
+2035-06-24|RICORRENZA_RELIGIOSA|Natività di S. Giovanni Battista|NO|-
+2035-06-25|SANTI|S. Guglielmo|NO|-
+2035-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2035-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2035-06-28|SANTI|S. Attilio confessore, S. Ireneo|NO|-
+2035-06-29|SANTI|Ss. Pietro e Paolo|NO|-
+2035-06-30|SANTI|Ss. Primi Martiri|NO|-
+2035-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2035-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2035-07-03|SANTI|S. Tommaso apostolo|NO|-
+2035-07-04|SANTI|Santa Elisabetta regina|NO|-
+2035-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2035-07-06|SANTI|Santa Maria Goretti|NO|-
+2035-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2035-07-08|SANTI|Sant'Adriano III|NO|-
+2035-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2035-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2035-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2035-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2035-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2035-07-14|SANTI|S. Camillo De Lellis|NO|-
+2035-07-15|SANTI|S. Bonaventura|NO|-
+2035-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2035-07-17|SANTI|Sant'Alessio confessore|NO|-
+2035-07-18|SANTI|S. Federico|NO|-
+2035-07-19|SANTI|Santa Giusta|NO|-
+2035-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2035-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2035-07-22|SANTI|Santa Maria Maddalena|NO|-
+2035-07-23|SANTI|Santa Brigida|NO|-
+2035-07-24|SANTI|Santa Cristina|NO|-
+2035-07-25|SANTI|S. Giacomo apostolo|NO|-
+2035-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2035-07-27|SANTI|Santa Liliana|NO|-
+2035-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2035-07-29|SANTI|Santa Marta|NO|-
+2035-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2035-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2035-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2035-08-02|SANTI|Sant'Eusebio|NO|-
+2035-08-03|SANTI|Santa Lidia|NO|-
+2035-08-04|SANTI|S. Giovanni Maria Vianney|NO|VN_CORREZIONE
+2035-08-05|SANTI|Sant'Osvaldo|NO|VN_CORREZIONE
+2035-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2035-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2035-08-08|SANTI|S. Domenico|NO|-
+2035-08-09|SANTI|S. Romano|NO|-
+2035-08-10|SANTI|S. Lorenzo martire|NO|-
+2035-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2035-08-12|SANTI|Sant'Ercolano|NO|-
+2035-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2035-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2035-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2035-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2035-08-17|SANTI|S. Giacinto|NO|-
+2035-08-18|SANTI|Santa Elena imperatrice|NO|-
+2035-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2035-08-20|SANTI|S. Bernardo|NO|-
+2035-08-21|SANTI|S. Pio X Papa|NO|-
+2035-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2035-08-23|SANTI|S. Rosa da Lima|NO|-
+2035-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2035-08-25|SANTI|S. Lodovico re|NO|-
+2035-08-26|SANTI|Sant'Alessandro martire|NO|-
+2035-08-27|SANTI|Santa Monica|NO|-
+2035-08-28|SANTI|Sant'Agostino|NO|-
+2035-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2035-08-30|SANTI|Santa Faustina|NO|-
+2035-08-31|SANTI|Sant'Aristide|NO|-
+2035-09-01|SANTI|Sant'Egidio|NO|-
+2035-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2035-09-03|SANTI|S. Gregorio martire|NO|-
+2035-09-04|SANTI|Santa Rosalia|NO|-
+2035-09-05|SANTI|S. Vittorino|NO|-
+2035-09-06|SANTI|Sant'Umberto|NO|-
+2035-09-07|SANTI|Santa Regina|NO|-
+2035-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2035-09-09|SANTI|S. Sergio Papa|NO|-
+2035-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2035-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2035-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2035-09-13|SANTI|S. Giovanni Crisostomo|NO|VN_CORREZIONE
+2035-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2035-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2035-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2035-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2035-09-18|SANTI|Santa Sofia martire|NO|-
+2035-09-19|SANTI|S. Gennaro vescovo|NO|-
+2035-09-20|SANTI|Sant'Eustachio|NO|-
+2035-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2035-09-22|SANTI|S. Maurizio martire|NO|-
+2035-09-23|SANTI|S. Pio da Pietrelcina|NO|VN_CORREZIONE
+2035-09-24|SANTI|S. Pacifico prete|NO|-
+2035-09-25|SANTI|Santa Aurelia|NO|-
+2035-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2035-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2035-09-28|SANTI|S. Venceslao martire|NO|-
+2035-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2035-09-30|SANTI|S. Girolamo|NO|-
+2035-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2035-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2035-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2035-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2035-10-05|SANTI|S. Placido martire|NO|-
+2035-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2035-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2035-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2035-10-09|SANTI|S. Dionigi|NO|-
+2035-10-10|SANTI|S. Daniele vescovo|NO|-
+2035-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2035-10-12|SANTI|S. Serafino|NO|-
+2035-10-13|SANTI|Sant'Edoardo re|NO|-
+2035-10-14|SANTI|S. Callisto I Papa|NO|-
+2035-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2035-10-16|SANTI|Santa Edvige|NO|-
+2035-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2035-10-18|SANTI|S. Luca evangelista|NO|-
+2035-10-19|SANTI|S. Isacco martire|NO|-
+2035-10-20|SANTI|Sant'Irene|NO|-
+2035-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2035-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2035-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2035-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2035-10-25|SANTI|Ss. Crisanto e Daria|NO|VN
+2035-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2035-10-27|SANTI|S. Fiorenzo|NO|-
+2035-10-28|SANTI|SS. Simone e Giuda|NO|-
+2035-10-29|SANTI|S. Ermelinda|NO|-
+2035-10-30|SANTI|S. Germano vescovo|NO|-
+2035-10-31|SANTI|Santa Lucilla|NO|-
+2035-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2035-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2035-11-03|SANTI|Santa Silvia|NO|-
+2035-11-04|SANTI|S. Carlo Borromeo|NO|-
+2035-11-05|SANTI|S. Zaccaria profeta|NO|-
+2035-11-06|SANTI|S. Leonardo|NO|-
+2035-11-07|SANTI|Sant'Ernesto|NO|-
+2035-11-08|SANTI|S. Goffredo vescovo|NO|-
+2035-11-09|SANTI|Sant'Oreste|NO|-
+2035-11-10|SANTI|S. Leone Magno|NO|-
+2035-11-11|SANTI|S. Martino|NO|-
+2035-11-12|SANTI|S. Renato|NO|-
+2035-11-13|SANTI|S. Diego confessore|NO|-
+2035-11-14|SANTI|S. Giocondo vescovo|NO|-
+2035-11-15|SANTI|S. Alberto Magno|NO|-
+2035-11-16|SANTI|S. Margherita di Scozia|NO|-
+2035-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2035-11-18|SANTI|Sant'Oddone|NO|-
+2035-11-19|SANTI|S. Fausto|NO|-
+2035-11-20|SANTI|S. Felice di Valois, Sant'Ottavio|NO|-
+2035-11-21|RICORRENZA_RELIGIOSA|Presentazione di Maria Vergine|NO|-
+2035-11-22|SANTI|Santa Cecilia|NO|A4
+2035-11-23|SANTI|S. Clemente I Papa|NO|-
+2035-11-24|SANTI|S. Giovanni della Croce|NO|-
+2035-11-25|SANTI_E_RICORRENZA_RELIGIOSA|N.S. Gesù Re dell’Universo · Santa Caterina di Alessandria|SI|CALCOLO_ROMANO_ITALIA;-
+2035-11-26|SANTI|S. Corrado vescovo, S. Delfina|NO|-
+2035-11-27|SANTI|S. Virgilio|NO|-
+2035-11-28|SANTI|Santa Livia, S. Demetrio|NO|-
+2035-11-29|SANTI|S. Saturnino martire|NO|VN
+2035-11-30|SANTI|Sant'Andrea apostolo|NO|-
+2035-12-01|SANTI|S. Eligio|NO|-
+2035-12-02|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Avvento · Santa Bibiana|SI|CALCOLO_ROMANO_ITALIA;-
+2035-12-03|SANTI|S. Francesco Saverio|NO|-
+2035-12-04|SANTI|Santa Barbara|NO|-
+2035-12-05|SANTI|S. Dalmazio|NO|-
+2035-12-06|SANTI|S. Nicola di Bari|NO|VN
+2035-12-07|SANTI|Sant'Ambrogio vescovo|NO|-
+2035-12-08|RICORRENZA_RELIGIOSA|Immacolata Concezione|NO|-
+2035-12-09|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Avvento · S. Siro|SI|CALCOLO_ROMANO_ITALIA;-
+2035-12-10|RICORRENZA_RELIGIOSA|Nostra Signora di Loreto|NO|-
+2035-12-11|SANTI|S. Damaso I Papa|NO|-
+2035-12-12|SANTI|Santa Giovanna|NO|-
+2035-12-13|SANTI|Santa Lucia|NO|VN
+2035-12-14|SANTI|S. Giovanni della Croce|NO|-
+2035-12-15|SANTI|S. Valeriano|NO|-
+2035-12-16|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Avvento · Santa Adelaide|SI|CALCOLO_ROMANO_ITALIA;-
+2035-12-17|SANTI|S. Lazzaro|NO|-
+2035-12-18|SANTI|S. Graziano vescovo|NO|-
+2035-12-19|SANTI|S. Dario, Santa Fausta|NO|-
+2035-12-20|SANTI|S. Filogonio|NO|VN
+2035-12-21|SANTI|S. Pietro Canisio|NO|-
+2035-12-22|SANTI|S. Flaviano|NO|-
+2035-12-23|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Avvento · S. Giovanni di Kenty|SI|CALCOLO_ROMANO_ITALIA;-
+2035-12-24|SANTI|Santa Irma|NO|-
+2035-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2035-12-26|SANTI|S. Stefano|NO|VN
+2035-12-27|SANTI|S. Giovanni Evangelista|NO|A5
+2035-12-28|SANTI|Ss. Innocenti martiri|NO|-
+2035-12-29|SANTI|S. Tommaso Becket|NO|-
+2035-12-30|SANTI_E_RICORRENZA_RELIGIOSA|Sacra Famiglia · Sant'Eugenio vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2035-12-31|SANTI|S. Silvestro Papa|NO|-
+2036-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2036-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2036-01-03|SANTI|Santa Genoveffa|NO|-
+2036-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2036-01-05|SANTI|Sant'Amelia|NO|-
+2036-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2036-01-07|SANTI|S. Luciano, S. Raimondo|NO|-
+2036-01-08|SANTI|S. Severino, S. Massimo|NO|-
+2036-01-09|SANTI|S. Giuliano martire|NO|-
+2036-01-10|SANTI|S. Agatone, S. Aldo|NO|-
+2036-01-11|SANTI|Sant'Igino Papa|NO|VN
+2036-01-12|SANTI|S. Modesto|NO|-
+2036-01-13|SANTI_E_RICORRENZA_RELIGIOSA|Battesimo del Signore · Sant'Ilario|SI|CALCOLO_ROMANO_ITALIA;-
+2036-01-14|SANTI|S. Felice|NO|-
+2036-01-15|SANTI|S. Mauro|NO|-
+2036-01-16|SANTI|S. Marcello Papa|NO|-
+2036-01-17|SANTI|Sant'Antonio abate|NO|-
+2036-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2036-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2036-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2036-01-21|SANTI|Sant'Agnese|NO|-
+2036-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2036-01-23|SANTI|Santa Emerenziana|NO|-
+2036-01-24|SANTI|S. Francesco di Sales|NO|-
+2036-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2036-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2036-01-27|SANTI|Sant'Angela Merici|NO|-
+2036-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2036-01-29|SANTI|S. Costanzo|NO|-
+2036-01-30|SANTI|Santa Martina|NO|-
+2036-01-31|SANTI|S. Giovanni Bosco|NO|-
+2036-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2036-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2036-02-03|SANTI|S. Biagio|NO|-
+2036-02-04|SANTI|S. Gilberto|NO|-
+2036-02-05|SANTI|Sant'Agata|NO|-
+2036-02-06|SANTI|S. Paolo Miki|NO|-
+2036-02-07|SANTI|S. Romualdo|NO|-
+2036-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2036-02-09|SANTI|Santa Apollonia|NO|-
+2036-02-10|SANTI|Santa Scolastica|NO|-
+2036-02-11|RICORRENZA_RELIGIOSA|Nostra Signora di Lourdes|NO|-
+2036-02-12|SANTI|Santa Eulalia|NO|-
+2036-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2036-02-14|SANTI|S. Valentino martire|NO|-
+2036-02-15|SANTI|SS. Faustino e Giovita|NO|-
+2036-02-16|SANTI|Santa Giuliana|NO|-
+2036-02-17|SANTI|S. Donato martire|NO|-
+2036-02-18|SANTI|Beato Angelico|NO|VN
+2036-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2036-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2036-02-21|SANTI|Santa Eleonora, S. Pier Damiani|NO|-
+2036-02-22|SANTI|S. Massimiano di Ravenna|NO|VN
+2036-02-23|SANTI|S. Policarpo|NO|-
+2036-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2036-02-25|SANTI|S. Cesario|NO|-
+2036-02-26|SANTI|S. Nestore|NO|-
+2036-02-27|SANTI_E_RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri · S. Leandro|SI|CALCOLO_ROMANO_ITALIA;-
+2036-02-28|SANTI|S. Romano abate|NO|-
+2036-02-29|SANTI|Sant'Ilaro Papa|NO|VN_BISESTILE
+2036-03-01|SANTI|Sant'Albino|NO|VN
+2036-03-02|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Quaresima · Sant'Eraclio, S. Basilio martire|SI|CALCOLO_ROMANO_ITALIA;-
+2036-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2036-03-04|SANTI|S. Casimiro, S. Lucio|NO|-
+2036-03-05|SANTI|S. Adriano|NO|-
+2036-03-06|SANTI|S. Marciano|NO|-
+2036-03-07|SANTI|Santa Perpetua e Felicita|NO|-
+2036-03-08|SANTI|S. Giovanni di Dio|NO|VN
+2036-03-09|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Quaresima · Santa Francesca Romana|SI|CALCOLO_ROMANO_ITALIA;-
+2036-03-10|SANTI|S. Simplicio Papa|NO|-
+2036-03-11|SANTI|S. Costantino|NO|-
+2036-03-12|SANTI|S. Massimiliano|NO|-
+2036-03-13|SANTI|Sant'Arrigo, Santa Eufrasia|NO|-
+2036-03-14|SANTI|Santa Matilde regina|NO|-
+2036-03-15|SANTI|S. Zaccaria Papa|NO|VN
+2036-03-16|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Quaresima · Sant'Ariberto|SI|CALCOLO_ROMANO_ITALIA;-
+2036-03-17|SANTI|S. Patrizio|NO|-
+2036-03-18|SANTI|S. Cirillo di Gerusalemme|NO|-
+2036-03-19|SANTI|S. Giuseppe|NO|-
+2036-03-20|SANTI|Santa Claudia, S. Alessandra martire|NO|-
+2036-03-21|SANTI|S. Benedetto da Norcia|NO|-
+2036-03-22|SANTI|Santa Lea|NO|VN
+2036-03-23|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Quaresima · S. Turibio de Mogrovejo|SI|CALCOLO_ROMANO_ITALIA;-
+2036-03-24|SANTI|S. Romolo, S. Caterina di Svezia|NO|-
+2036-03-25|RICORRENZA_RELIGIOSA|Annunciazione del Signore|NO|-
+2036-03-26|SANTI|S. Emanuele, S. Teodoro|NO|-
+2036-03-27|SANTI|S. Augusto|NO|-
+2036-03-28|SANTI|S. Sisto III Papa|NO|-
+2036-03-29|SANTI|Sant'Eustasio|NO|VN
+2036-03-30|SANTI_E_RICORRENZA_RELIGIOSA|V Domenica di Quaresima · S. Amedeo|SI|CALCOLO_ROMANO_ITALIA;-
+2036-03-31|SANTI|S. Beniamino martire|NO|-
+2036-04-01|SANTI|Sant'Ugo di Grenoble (vescovo)|NO|-
+2036-04-02|SANTI|S. Francesco di Paola|NO|-
+2036-04-03|SANTI|S. Riccardo vescovo|NO|-
+2036-04-04|SANTI|Sant'Isidoro|NO|-
+2036-04-05|SANTI|S. Vincenzo Ferrer|NO|VN
+2036-04-06|SANTI_E_RICORRENZA_RELIGIOSA|Domenica delle Palme · Santa Galla|SI|CALCOLO_ROMANO_ITALIA;VN
+2036-04-07|SANTI|Sant'Ermanno, S. Giovanni B.|NO|-
+2036-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2036-04-09|SANTI|S. Gualtiero, Santa Maria Cleofe|NO|-
+2036-04-10|SANTI|S. Terenzio martire|NO|-
+2036-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2036-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2036-04-13|SANTI_E_RICORRENZA_RELIGIOSA|Pasqua · Sant'Ermenegildo, S. Martino I Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2036-04-14|SANTI_E_RICORRENZA_RELIGIOSA|Lunedì dell’Angelo · S. Abbondio|SI|CALCOLO_ROMANO_ITALIA;-
+2036-04-15|SANTI|Sant'Annibale martire|NO|-
+2036-04-16|SANTI|Santa Bernadetta, S. Lamberto|NO|-
+2036-04-17|SANTI|Sant'Aniceto Papa, S. Roberto|NO|-
+2036-04-18|SANTI|S. Galdino vescovo|NO|-
+2036-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2036-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2036-04-21|SANTI|Sant'Anselmo|NO|-
+2036-04-22|SANTI|Ss. Sotero e Caio|NO|-
+2036-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2036-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2036-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2036-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2036-04-27|SANTI|Ss. Ida e Zita|NO|-
+2036-04-28|SANTI|Santa Valeria|NO|-
+2036-04-29|SANTI|Santa Caterina da Siena|NO|-
+2036-04-30|SANTI|S. Pio V Papa|NO|-
+2036-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2036-05-02|SANTI|Sant'Atanasio|NO|-
+2036-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2036-05-04|SANTI|S. Silvano|NO|-
+2036-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2036-05-06|SANTI|Santa Giuditta|NO|-
+2036-05-07|SANTI|Santa Flavia|NO|-
+2036-05-08|SANTI|S. Vittore|NO|-
+2036-05-09|SANTI|S. Gregorio|NO|-
+2036-05-10|SANTI|Sant'Antonino|NO|-
+2036-05-11|SANTI|S. Fabio martire|NO|-
+2036-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2036-05-13|RICORRENZA_RELIGIOSA|Beata Vergine Maria di Fatima|NO|-
+2036-05-14|SANTI|S. Mattia apostolo|NO|-
+2036-05-15|SANTI|S. Torquato|NO|-
+2036-05-16|SANTI|Sant'Ubaldo|NO|-
+2036-05-17|SANTI|S. Pasquale Baylon|NO|VN
+2036-05-18|SANTI|S. Giovanni I Papa|NO|-
+2036-05-19|SANTI|S. Celestino V Papa|NO|-
+2036-05-20|SANTI|S. Bernardino da Siena|NO|-
+2036-05-21|SANTI|S. Vittorio martire|NO|-
+2036-05-22|SANTI|Santa Rita da Cascia|NO|-
+2036-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2036-05-24|SANTI|S. Vincenzo di Lérins|NO|VN
+2036-05-25|SANTI_E_RICORRENZA_RELIGIOSA|Ascensione del Signore · S. Gregorio VII Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2036-05-26|SANTI|S. Filippo Neri|NO|-
+2036-05-27|SANTI|Sant'Agostino|NO|-
+2036-05-28|SANTI|Sant'Emilio martire|NO|-
+2036-05-29|SANTI|S. Massimino vescovo|NO|-
+2036-05-30|SANTI|Santa Giovanna d'Arco|NO|-
+2036-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2036-06-01|SANTI_E_RICORRENZA_RELIGIOSA|Pentecoste · S. Giustino|SI|CALCOLO_ROMANO_ITALIA;-
+2036-06-02|SANTI_E_FESTIVITA_CIVILE|Ss. Marcellino / Festa della Repubblica|NO|-
+2036-06-03|SANTI|S. Carlo Lwanga e compagni|NO|-
+2036-06-04|SANTI|S. Quirino vescovo|NO|-
+2036-06-05|SANTI|S. Bonifacio vescovo|NO|-
+2036-06-06|SANTI|S. Norberto|NO|-
+2036-06-07|SANTI|Sant'Antonio Maria Gianelli|NO|VN
+2036-06-08|SANTI|S. Medardo vescovo|NO|-
+2036-06-09|SANTI|Sant'Efrem Siro, Ss. Primo e Feliciano|NO|-
+2036-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2036-06-11|SANTI|S. Barnaba apostolo|NO|-
+2036-06-12|SANTI|Sant'Onofrio|NO|VN
+2036-06-13|SANTI|Sant'Antonio di Padova|NO|VN
+2036-06-14|SANTI|Sant'Eliseo|NO|-
+2036-06-15|SANTI_E_RICORRENZA_RELIGIOSA|Corpus Domini · S. Germana|SI|CALCOLO_ROMANO_ITALIA;-
+2036-06-16|SANTI|Sant'Aureliano|NO|-
+2036-06-17|SANTI|S. Ranieri, S. Gregorio Barbarigo|NO|-
+2036-06-18|SANTI|Santa Marina|NO|-
+2036-06-19|SANTI|Ss. Gervasio e Protasio, S. Romualdo|NO|-
+2036-06-20|SANTI_E_RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù · Sant'Ettore, S. Silverio Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2036-06-21|SANTI_E_RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria · S. Luigi Gonzaga|SI|CALCOLO_ROMANO_ITALIA;-
+2036-06-22|SANTI|S. Paolino da Nola|NO|-
+2036-06-23|SANTI|S. Lanfranco vescovo|NO|-
+2036-06-24|RICORRENZA_RELIGIOSA|Natività di S. Giovanni Battista|NO|-
+2036-06-25|SANTI|S. Guglielmo|NO|-
+2036-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2036-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2036-06-28|SANTI|S. Attilio confessore, S. Ireneo|NO|-
+2036-06-29|SANTI|Ss. Pietro e Paolo|NO|-
+2036-06-30|SANTI|Ss. Primi Martiri|NO|-
+2036-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2036-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2036-07-03|SANTI|S. Tommaso apostolo|NO|-
+2036-07-04|SANTI|Santa Elisabetta regina|NO|-
+2036-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2036-07-06|SANTI|Santa Maria Goretti|NO|-
+2036-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2036-07-08|SANTI|Sant'Adriano III|NO|-
+2036-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2036-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2036-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2036-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2036-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2036-07-14|SANTI|S. Camillo De Lellis|NO|-
+2036-07-15|SANTI|S. Bonaventura|NO|-
+2036-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2036-07-17|SANTI|Sant'Alessio confessore|NO|-
+2036-07-18|SANTI|S. Federico|NO|-
+2036-07-19|SANTI|Santa Giusta|NO|-
+2036-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2036-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2036-07-22|SANTI|Santa Maria Maddalena|NO|-
+2036-07-23|SANTI|Santa Brigida|NO|-
+2036-07-24|SANTI|Santa Cristina|NO|-
+2036-07-25|SANTI|S. Giacomo apostolo|NO|-
+2036-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2036-07-27|SANTI|Santa Liliana|NO|-
+2036-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2036-07-29|SANTI|Santa Marta|NO|-
+2036-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2036-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2036-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2036-08-02|SANTI|Sant'Eusebio|NO|-
+2036-08-03|SANTI|Santa Lidia|NO|-
+2036-08-04|SANTI|S. Giovanni Maria Vianney|NO|VN_CORREZIONE
+2036-08-05|SANTI|Sant'Osvaldo|NO|VN_CORREZIONE
+2036-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2036-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2036-08-08|SANTI|S. Domenico|NO|-
+2036-08-09|SANTI|S. Romano|NO|-
+2036-08-10|SANTI|S. Lorenzo martire|NO|-
+2036-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2036-08-12|SANTI|Sant'Ercolano|NO|-
+2036-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2036-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2036-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2036-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2036-08-17|SANTI|S. Giacinto|NO|-
+2036-08-18|SANTI|Santa Elena imperatrice|NO|-
+2036-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2036-08-20|SANTI|S. Bernardo|NO|-
+2036-08-21|SANTI|S. Pio X Papa|NO|-
+2036-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2036-08-23|SANTI|S. Rosa da Lima|NO|-
+2036-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2036-08-25|SANTI|S. Lodovico re|NO|-
+2036-08-26|SANTI|Sant'Alessandro martire|NO|-
+2036-08-27|SANTI|Santa Monica|NO|-
+2036-08-28|SANTI|Sant'Agostino|NO|-
+2036-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2036-08-30|SANTI|Santa Faustina|NO|-
+2036-08-31|SANTI|Sant'Aristide|NO|-
+2036-09-01|SANTI|Sant'Egidio|NO|-
+2036-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2036-09-03|SANTI|S. Gregorio martire|NO|-
+2036-09-04|SANTI|Santa Rosalia|NO|-
+2036-09-05|SANTI|S. Vittorino|NO|-
+2036-09-06|SANTI|Sant'Umberto|NO|-
+2036-09-07|SANTI|Santa Regina|NO|-
+2036-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2036-09-09|SANTI|S. Sergio Papa|NO|-
+2036-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2036-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2036-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2036-09-13|SANTI|S. Giovanni Crisostomo|NO|VN_CORREZIONE
+2036-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2036-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2036-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2036-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2036-09-18|SANTI|Santa Sofia martire|NO|-
+2036-09-19|SANTI|S. Gennaro vescovo|NO|-
+2036-09-20|SANTI|Sant'Eustachio|NO|-
+2036-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2036-09-22|SANTI|S. Maurizio martire|NO|-
+2036-09-23|SANTI|S. Pio da Pietrelcina|NO|VN_CORREZIONE
+2036-09-24|SANTI|S. Pacifico prete|NO|-
+2036-09-25|SANTI|Santa Aurelia|NO|-
+2036-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2036-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2036-09-28|SANTI|S. Venceslao martire|NO|-
+2036-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2036-09-30|SANTI|S. Girolamo|NO|-
+2036-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2036-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2036-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2036-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2036-10-05|SANTI|S. Placido martire|NO|-
+2036-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2036-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2036-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2036-10-09|SANTI|S. Dionigi|NO|-
+2036-10-10|SANTI|S. Daniele vescovo|NO|-
+2036-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2036-10-12|SANTI|S. Serafino|NO|-
+2036-10-13|SANTI|Sant'Edoardo re|NO|-
+2036-10-14|SANTI|S. Callisto I Papa|NO|-
+2036-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2036-10-16|SANTI|Santa Edvige|NO|-
+2036-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2036-10-18|SANTI|S. Luca evangelista|NO|-
+2036-10-19|SANTI|S. Isacco martire|NO|-
+2036-10-20|SANTI|Sant'Irene|NO|-
+2036-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2036-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2036-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2036-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2036-10-25|SANTI|Ss. Crisanto e Daria|NO|VN
+2036-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2036-10-27|SANTI|S. Fiorenzo|NO|-
+2036-10-28|SANTI|SS. Simone e Giuda|NO|-
+2036-10-29|SANTI|S. Ermelinda|NO|-
+2036-10-30|SANTI|S. Germano vescovo|NO|-
+2036-10-31|SANTI|Santa Lucilla|NO|-
+2036-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2036-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2036-11-03|SANTI|Santa Silvia|NO|-
+2036-11-04|SANTI|S. Carlo Borromeo|NO|-
+2036-11-05|SANTI|S. Zaccaria profeta|NO|-
+2036-11-06|SANTI|S. Leonardo|NO|-
+2036-11-07|SANTI|Sant'Ernesto|NO|-
+2036-11-08|SANTI|S. Goffredo vescovo|NO|-
+2036-11-09|SANTI|Sant'Oreste|NO|-
+2036-11-10|SANTI|S. Leone Magno|NO|-
+2036-11-11|SANTI|S. Martino|NO|-
+2036-11-12|SANTI|S. Renato|NO|-
+2036-11-13|SANTI|S. Diego confessore|NO|-
+2036-11-14|SANTI|S. Giocondo vescovo|NO|-
+2036-11-15|SANTI|S. Alberto Magno|NO|-
+2036-11-16|SANTI|S. Margherita di Scozia|NO|-
+2036-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2036-11-18|SANTI|Sant'Oddone|NO|-
+2036-11-19|SANTI|S. Fausto|NO|-
+2036-11-20|SANTI|S. Felice di Valois, Sant'Ottavio|NO|-
+2036-11-21|RICORRENZA_RELIGIOSA|Presentazione di Maria Vergine|NO|-
+2036-11-22|SANTI|Santa Cecilia|NO|A4
+2036-11-23|SANTI_E_RICORRENZA_RELIGIOSA|N.S. Gesù Re dell’Universo · S. Clemente I Papa|SI|CALCOLO_ROMANO_ITALIA;-
+2036-11-24|SANTI|S. Giovanni della Croce|NO|-
+2036-11-25|SANTI|Santa Caterina di Alessandria|NO|-
+2036-11-26|SANTI|S. Corrado vescovo, S. Delfina|NO|-
+2036-11-27|SANTI|S. Virgilio|NO|-
+2036-11-28|SANTI|Santa Livia, S. Demetrio|NO|-
+2036-11-29|SANTI|S. Saturnino martire|NO|VN
+2036-11-30|SANTI_E_RICORRENZA_RELIGIOSA|I Domenica di Avvento · Sant'Andrea apostolo|SI|CALCOLO_ROMANO_ITALIA;-
+2036-12-01|SANTI|S. Eligio|NO|-
+2036-12-02|SANTI|Santa Bibiana|NO|-
+2036-12-03|SANTI|S. Francesco Saverio|NO|-
+2036-12-04|SANTI|Santa Barbara|NO|-
+2036-12-05|SANTI|S. Dalmazio|NO|-
+2036-12-06|SANTI|S. Nicola di Bari|NO|VN
+2036-12-07|SANTI_E_RICORRENZA_RELIGIOSA|II Domenica di Avvento · Sant'Ambrogio vescovo|SI|CALCOLO_ROMANO_ITALIA;-
+2036-12-08|RICORRENZA_RELIGIOSA|Immacolata Concezione|NO|-
+2036-12-09|SANTI|S. Siro|NO|-
+2036-12-10|RICORRENZA_RELIGIOSA|Nostra Signora di Loreto|NO|-
+2036-12-11|SANTI|S. Damaso I Papa|NO|-
+2036-12-12|SANTI|Santa Giovanna|NO|-
+2036-12-13|SANTI|Santa Lucia|NO|VN
+2036-12-14|SANTI_E_RICORRENZA_RELIGIOSA|III Domenica di Avvento · S. Giovanni della Croce|SI|CALCOLO_ROMANO_ITALIA;-
+2036-12-15|SANTI|S. Valeriano|NO|-
+2036-12-16|SANTI|Santa Adelaide|NO|-
+2036-12-17|SANTI|S. Lazzaro|NO|-
+2036-12-18|SANTI|S. Graziano vescovo|NO|-
+2036-12-19|SANTI|S. Dario, Santa Fausta|NO|-
+2036-12-20|SANTI|S. Filogonio|NO|VN
+2036-12-21|SANTI_E_RICORRENZA_RELIGIOSA|IV Domenica di Avvento · S. Pietro Canisio|SI|CALCOLO_ROMANO_ITALIA;-
+2036-12-22|SANTI|S. Flaviano|NO|-
+2036-12-23|SANTI|S. Giovanni di Kenty|NO|-
+2036-12-24|SANTI|Santa Irma|NO|-
+2036-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2036-12-26|SANTI|S. Stefano|NO|VN
+2036-12-27|SANTI|S. Giovanni Evangelista|NO|A5
+2036-12-28|SANTI_E_RICORRENZA_RELIGIOSA|Sacra Famiglia · Ss. Innocenti martiri|SI|CALCOLO_ROMANO_ITALIA;-
+2036-12-29|SANTI|S. Tommaso Becket|NO|-
+2036-12-30|SANTI|Sant'Eugenio vescovo|NO|-
+2036-12-31|SANTI|S. Silvestro Papa|NO|-

@@ -1,0 +1,54 @@
+<resources>
+    <style name="BaseAppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">@font/nunito</item>
+        <item name="android:colorAccent">#87A878</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:navigationBarColor">#24364D</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="android:colorBackgroundFloating">#FFFFFF</item>
+        <item name="android:textColorPrimary">#24364D</item>
+        <item name="android:textColorSecondary">#56677C</item>
+    </style>
+    <style name="BaseAppThemeDark" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">@font/nunito</item>
+        <item name="android:colorAccent">#87A878</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">#182331</item>
+        <item name="android:windowBackground">#182331</item>
+        <item name="android:colorBackground">#182331</item>
+        <item name="android:colorBackgroundFloating">#223144</item>
+        <item name="android:textColorPrimary">#F4F7FC</item>
+        <item name="android:textColorSecondary">#C3CEDC</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="AppTheme" parent="BaseAppTheme" />
+    <style name="AppTheme.Dark" parent="BaseAppThemeDark" />
+    <style name="FontNunito" parent=""><item name="android:fontFamily">@font/nunito</item></style>
+    <style name="FontLato" parent=""><item name="android:fontFamily">@font/lato</item></style>
+    <style name="FontLora" parent=""><item name="android:fontFamily">@font/lora</item></style>
+    <style name="FontCaveat" parent=""><item name="android:fontFamily">@font/caveat</item></style>
+    <style name="ThemeColor_sage" parent=""><item name="android:colorAccent">#87A878</item></style>
+    <style name="ThemeColor_blue" parent=""><item name="android:colorAccent">#6495ED</item></style>
+    <style name="ThemeColor_amber" parent=""><item name="android:colorAccent">#FFBF00</item></style>
+    <style name="ThemeColor_pink" parent=""><item name="android:colorAccent">#F34F8B</item></style>
+    <style name="ThemeColor_lavender" parent=""><item name="android:colorAccent">#B57EDC</item></style>
+    <style name="ThemeColor_ruby" parent=""><item name="android:colorAccent">#D20A3C</item></style>
+    <style name="ThemeColor_chocolate" parent=""><item name="android:colorAccent">#7B3F00</item></style>
+    <style name="ThemeColor_blueberry" parent=""><item name="android:colorAccent">#4D47A8</item></style>
+    <style name="ThemeColor_white" parent=""><item name="android:colorAccent">#24364D</item></style>
+    <style name="ThemeColor_emerald" parent=""><item name="android:colorAccent">#00A86B</item></style>
+    <style name="ThemeColor_mint" parent=""><item name="android:colorAccent">#3DDCA0</item></style>
+    <style name="ThemeColor_turquoise" parent=""><item name="android:colorAccent">#00B8A9</item></style>
+    <style name="ThemeColor_sky" parent=""><item name="android:colorAccent">#38BDF8</item></style>
+    <style name="ThemeColor_sapphire" parent=""><item name="android:colorAccent">#0F52BA</item></style>
+    <style name="ThemeColor_amethyst" parent=""><item name="android:colorAccent">#7D3C98</item></style>
+    <style name="ThemeColor_fuchsia" parent=""><item name="android:colorAccent">#FF00FF</item></style>
+    <style name="ThemeColor_coral" parent=""><item name="android:colorAccent">#FF6B6B</item></style>
+    <style name="ThemeColor_tangerine" parent=""><item name="android:colorAccent">#FF8C00</item></style>
+    <style name="ThemeColor_lemon" parent=""><item name="android:colorAccent">#FDE047</item></style>
+    <style name="ThemeColor_lime" parent=""><item name="android:colorAccent">#A3E635</item></style>
+    <style name="ThemeColor_apricot" parent=""><item name="android:colorAccent">#FFB57B</item></style>
+</resources>

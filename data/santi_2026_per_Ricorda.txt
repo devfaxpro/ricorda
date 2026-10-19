@@ -1,0 +1,430 @@
+CALENDARIO DEI SANTI E DELLE RICORRENZE 2026 - MATERIALE PER RICORDA
+
+Documento da allegare alla chat Codex del progetto Ricorda.
+Preparato il 9 ottobre 2026. Lingua: italiano. Codifica: UTF-8.
+Copertura: 365 date dal 2026-01-01 al 2026-12-31.
+
+CONTENUTO E PROVENIENZA
+Trascrizione visiva delle 12 pagine del PDF "Calendario 2026 con Santi", realizzato da CreaGratis.com. Il PDF è composto da immagini, senza testo estraibile.
+PDF: https://www.creagratis.com/files/calendari/Calendario-2026-Santi.pdf
+Pagina dell'autore e condizioni: https://www.creagratis.com/calendari/
+Le voci sono trascritte nell'ordine dei giorni. Sono stati uniformati apostrofi e spazi; abbreviazioni e nomi della fonte sono conservati. Sono esclusi zodiaco, numeri di settimana e calendari laterali dei mesi adiacenti.
+
+LICENZA DELLA FONTE
+La pagina dell'autore indica CC BY-NC-SA 2.5 Italia:
+https://creativecommons.org/licenses/by-nc-sa/2.5/it/
+Questa trascrizione è fornita alle medesime condizioni, con attribuzione a CreaGratis.com e indicazione della modifica: conversione da immagini PDF a testo strutturato, classificazione delle voci e aggiunta di note di verifica.
+Il materiale è gratuito, ma la licenza NON autorizza il riuso commerciale. Conservare attribuzione e licenza; per modifiche condivise rispettare la stessa licenza. Non trattare questo file come un dataset CC0 o privo di restrizioni.
+
+INDICAZIONI PER LA CHAT DI RICORDA
+- Usare l'elenco come materiale di riferimento da verificare prima dell'integrazione pubblica nell'app. Non presentarlo come calendario liturgico ufficiale o interamente validato.
+- Conservare il campo voce_originale. Le note A1-A5 riportano riscontri separati; non sono già applicate all'elenco.
+- Le categorie aggiunte descrivono il testo della voce, non il grado liturgico. Una ricorrenza religiosa non va trasformata in una persona o in un onomastico.
+- In alcuni giorni la fonte sostituisce i santi con una festa o una domenica. In quei giorni questo file non permette di ricavare i santi omessi: non inventarli.
+- Sono date del 2026. Le feste mobili vanno ricalcolate per altri anni; anche le voci non marcate come mobili non sono automaticamente validate come ricorrenze annuali. Il 29 febbraio non è incluso.
+- Distinguere gli onomastici e le memorie tradizionali dalle celebrazioni liturgiche effettive: una memoria può essere impedita da una domenica o da una solennità.
+- Non dedurre automaticamente una persona univoca dai soli nomi abbreviati; non eliminare automaticamente le voci ripetute in date diverse.
+- La verifica ha confermato completezza delle date e corrispondenza visiva con il PDF, ma NON l'esattezza religiosa di tutte le voci.
+
+RISCONTRI SULLA QUALITÀ DELLA FONTE
+I seguenti riscontri sono parziali e non costituiscono una revisione completa del calendario.
+
+A1 - 4 e 5 agosto
+Il PDF riporta "S. Domenico di Gusman" il 4 agosto e "S. Giovanni Maria Vianney" il 5 agosto. Vatican News colloca la memoria di San Giovanni Maria Vianney il 4 agosto. Rivedere entrambe le righe prima dell'importazione; non spostare automaticamente la voce Domenico al 5 agosto.
+Fonte: https://www.vaticannews.va/it/papa/news/2021-08/papa-francesco-udienza-generale-curato-ars.html
+
+A2 - 13 settembre
+Il PDF scrive "S. Giovanni Cristoforo". La fonte vaticana indica San Giovanni Crisostomo il 13 settembre: probabile errore nel nome del PDF. Per un calendario liturgico la data della memoria va inoltre distinta dalla celebrazione effettiva in un anno in cui cade di domenica.
+Fonte: https://www.vaticannews.va/it/santo-del-giorno/09/13/san-giovanni-crisostomo--vescovo-e-dottore-della-chiesa.html
+
+A3 - 23 settembre
+Il PDF scrive "S. Pio da Petralcina". La grafia attestata da Vatican News è "San Pio da Pietrelcina".
+Fonte: https://www.vaticannews.va/it/santo-del-giorno/09/23/san-pio-da-pietrelcina--sacerdote.html
+
+A4 - 25 ottobre e 22 novembre
+Il PDF colloca "N.S. Gesù Re dell'Universo" il 25 ottobre. Nel calendario liturgico romano corrente consultato, Cristo Re nel 2026 cade il 22 novembre, quando la memoria liturgica di Santa Cecilia si omette. L'onomastico di Cecilia e la celebrazione liturgica del giorno sono informazioni diverse. Non importare il 25 ottobre come data corrente di questa solennità senza distinguere il calendario seguito.
+Fonte: https://www.calendarioliturgicosiciliano.it/liturgia.php?Data=22++Novembre++2026&mydata=2026-11-22
+
+A5 - 26 e 27 dicembre
+Il PDF scrive "S. Stefano - Sacra Famiglia" il 26 dicembre. Il calendario della Diocesi di Roma colloca la Santa Famiglia il 27 dicembre 2026. Separare la ricorrenza di Santo Stefano dalla festa della Sacra Famiglia; la voce del 27 dicembre richiede quindi una distinzione tra onomastico e liturgia.
+Fonte: https://www.diocesidiroma.it/event/santa-famiglia-6/
+
+ALTRI CONTROLLI CONSIGLIATI
+Il PDF ripete San Benedetto da Norcia il 21 marzo e l'11 luglio, San Romualdo il 7 febbraio e il 19 giugno, San Pio V il 30 aprile e il 5 maggio, San Giovanni della Croce il 24 novembre e il 14 dicembre. Queste duplicazioni richiedono di verificare la tradizione e il calendario di riferimento: non sono state corrette nella trascrizione.
+
+FORMATO DEI DATI
+Una riga per giorno, campi separati dal carattere |:
+data | tipo | voce_originale | contiene_ricorrenza_mobile | nota_verifica
+data: formato ISO AAAA-MM-GG; la data è una data civile, senza fuso orario.
+tipo: SANTI, RICORRENZA_RELIGIOSA, SANTI_E_FESTIVITA_CIVILE, SANTI_E_RICORRENZA_RELIGIOSA.
+contiene_ricorrenza_mobile: SI o NO; NO non certifica la correttezza o la ricorrenza annuale della voce.
+nota_verifica: rimando ad A1-A5, oppure - (nessuna nota puntuale, non equivale a voce validata).
+
+INIZIO DATI
+data|tipo|voce_originale|contiene_ricorrenza_mobile|nota_verifica
+2026-01-01|RICORRENZA_RELIGIOSA|SS. Maria Madre di Dio|NO|-
+2026-01-02|SANTI|S. Basilio, S. Defendente|NO|-
+2026-01-03|SANTI|Santa Genoveffa|NO|-
+2026-01-04|RICORRENZA_RELIGIOSA|SS. Nome del Signore|NO|-
+2026-01-05|SANTI|Sant'Amelia|NO|-
+2026-01-06|RICORRENZA_RELIGIOSA|Epifania del Signore|NO|-
+2026-01-07|SANTI|S. Luciano, S. Raimondo|NO|-
+2026-01-08|SANTI|S. Severino, S. Massimo|NO|-
+2026-01-09|SANTI|S. Giuliano martire|NO|-
+2026-01-10|SANTI|S. Agatone, S. Aldo|NO|-
+2026-01-11|RICORRENZA_RELIGIOSA|Battesimo del Signore|SI|-
+2026-01-12|SANTI|S. Modesto|NO|-
+2026-01-13|SANTI|Sant'Ilario|NO|-
+2026-01-14|SANTI|S. Felice|NO|-
+2026-01-15|SANTI|S. Mauro|NO|-
+2026-01-16|SANTI|S. Marcello Papa|NO|-
+2026-01-17|SANTI|Sant'Antonio abate|NO|-
+2026-01-18|SANTI|Santa Liberata, Santa Prisca|NO|-
+2026-01-19|SANTI|S. Mario, S. Canuto|NO|-
+2026-01-20|SANTI|S. Sebastiano, S. Fabiano|NO|-
+2026-01-21|SANTI|Sant'Agnese|NO|-
+2026-01-22|SANTI|S. Vincenzo, Sant'Anastasio|NO|-
+2026-01-23|SANTI|Santa Emerenziana|NO|-
+2026-01-24|SANTI|S. Francesco di Sales|NO|-
+2026-01-25|RICORRENZA_RELIGIOSA|Conversione di S. Paolo|NO|-
+2026-01-26|SANTI|S. Tito, S. Timoteo|NO|-
+2026-01-27|SANTI|Sant'Angela Merici|NO|-
+2026-01-28|SANTI|S. Tommaso d'Aquino|NO|-
+2026-01-29|SANTI|S. Costanzo|NO|-
+2026-01-30|SANTI|Santa Martina|NO|-
+2026-01-31|SANTI|S. Giovanni Bosco|NO|-
+2026-02-01|SANTI|S. Severo, Santa Verdiana|NO|-
+2026-02-02|RICORRENZA_RELIGIOSA|Presentazione del Signore|NO|-
+2026-02-03|SANTI|S. Biagio|NO|-
+2026-02-04|SANTI|S. Gilberto|NO|-
+2026-02-05|SANTI|Sant'Agata|NO|-
+2026-02-06|SANTI|S. Paolo Miki|NO|-
+2026-02-07|SANTI|S. Romualdo|NO|-
+2026-02-08|SANTI|S. Girolamo Emiliani|NO|-
+2026-02-09|SANTI|Santa Apollonia|NO|-
+2026-02-10|SANTI|Santa Scolastica|NO|-
+2026-02-11|RICORRENZA_RELIGIOSA|Nostra Signora di Lourdes|NO|-
+2026-02-12|SANTI|Santa Eulalia|NO|-
+2026-02-13|SANTI|Santa Fosca, Santa Maura|NO|-
+2026-02-14|SANTI|S. Valentino martire|NO|-
+2026-02-15|SANTI|SS. Faustino e Giovita|NO|-
+2026-02-16|SANTI|Santa Giuliana|NO|-
+2026-02-17|SANTI|S. Donato martire|NO|-
+2026-02-18|RICORRENZA_RELIGIOSA|Mercoledì delle Ceneri|SI|-
+2026-02-19|SANTI|Sant'Alvaro, S. Mansueto|NO|-
+2026-02-20|SANTI|Sant'Eleuterio, S. Zenobio|NO|-
+2026-02-21|SANTI|Santa Eleonora, S. Pier Damiani|NO|-
+2026-02-22|RICORRENZA_RELIGIOSA|I Domenica di Quaresima|SI|-
+2026-02-23|SANTI|S. Policarpo|NO|-
+2026-02-24|SANTI|S. Edilberto re, S. Sergio|NO|-
+2026-02-25|SANTI|S. Cesario|NO|-
+2026-02-26|SANTI|S. Nestore|NO|-
+2026-02-27|SANTI|S. Leandro|NO|-
+2026-02-28|SANTI|S. Romano abate|NO|-
+2026-03-01|RICORRENZA_RELIGIOSA|II Domenica di Quaresima|SI|-
+2026-03-02|SANTI|Sant'Eraclio, S. Basilio martire|NO|-
+2026-03-03|SANTI|Santa Cunegonda, S. Tiziano|NO|-
+2026-03-04|SANTI|S. Casimiro, S. Lucio|NO|-
+2026-03-05|SANTI|S. Adriano|NO|-
+2026-03-06|SANTI|S. Marciano|NO|-
+2026-03-07|SANTI|Santa Perpetua e Felicita|NO|-
+2026-03-08|RICORRENZA_RELIGIOSA|III Domenica di Quaresima|SI|-
+2026-03-09|SANTI|Santa Francesca Romana|NO|-
+2026-03-10|SANTI|S. Simplicio Papa|NO|-
+2026-03-11|SANTI|S. Costantino|NO|-
+2026-03-12|SANTI|S. Massimiliano|NO|-
+2026-03-13|SANTI|Sant'Arrigo, Santa Eufrasia|NO|-
+2026-03-14|SANTI|Santa Matilde regina|NO|-
+2026-03-15|RICORRENZA_RELIGIOSA|IV Domenica di Quaresima|SI|-
+2026-03-16|SANTI|Sant'Ariberto|NO|-
+2026-03-17|SANTI|S. Patrizio|NO|-
+2026-03-18|SANTI|S. Cirillo di Gerusalemme|NO|-
+2026-03-19|SANTI|S. Giuseppe|NO|-
+2026-03-20|SANTI|Santa Claudia, S. Alessandra martire|NO|-
+2026-03-21|SANTI|S. Benedetto da Norcia|NO|-
+2026-03-22|RICORRENZA_RELIGIOSA|V Domenica di Quaresima|SI|-
+2026-03-23|SANTI|S. Turibio de Mogrovejo|NO|-
+2026-03-24|SANTI|S. Romolo, S. Caterina di Svezia|NO|-
+2026-03-25|RICORRENZA_RELIGIOSA|Annunciazione del Signore|NO|-
+2026-03-26|SANTI|S. Emanuele, S. Teodoro|NO|-
+2026-03-27|SANTI|S. Augusto|NO|-
+2026-03-28|SANTI|S. Sisto III Papa|NO|-
+2026-03-29|RICORRENZA_RELIGIOSA|Le Palme|SI|-
+2026-03-30|SANTI|S. Amedeo|NO|-
+2026-03-31|SANTI|S. Beniamino martire|NO|-
+2026-04-01|SANTI|Sant'Ugo di Grenoble (vescovo)|NO|-
+2026-04-02|SANTI|S. Francesco di Paola|NO|-
+2026-04-03|SANTI|S. Riccardo vescovo|NO|-
+2026-04-04|SANTI|Sant'Isidoro|NO|-
+2026-04-05|RICORRENZA_RELIGIOSA|Pasqua|SI|-
+2026-04-06|RICORRENZA_RELIGIOSA|Lunedì dell'Angelo|SI|-
+2026-04-07|SANTI|Sant'Ermanno, S. Giovanni B.|NO|-
+2026-04-08|SANTI|Sant'Alberto Dionigi|NO|-
+2026-04-09|SANTI|S. Gualtiero, Santa Maria Cleofe|NO|-
+2026-04-10|SANTI|S. Terenzio martire|NO|-
+2026-04-11|SANTI|Santo Stanislao vescovo|NO|-
+2026-04-12|SANTI|S. Zenone, S. Giulio I Papa|NO|-
+2026-04-13|SANTI|Sant'Ermenegildo, S. Martino I Papa|NO|-
+2026-04-14|SANTI|S. Abbondio|NO|-
+2026-04-15|SANTI|Sant'Annibale martire|NO|-
+2026-04-16|SANTI|Santa Bernadetta, S. Lamberto|NO|-
+2026-04-17|SANTI|Sant'Aniceto Papa, S. Roberto|NO|-
+2026-04-18|SANTI|S. Galdino vescovo|NO|-
+2026-04-19|SANTI|Santa Emma, S. Timone|NO|-
+2026-04-20|SANTI|Santa Adalgisa, S. Teotimo|NO|-
+2026-04-21|SANTI|Sant'Anselmo|NO|-
+2026-04-22|SANTI|Ss. Sotero e Caio|NO|-
+2026-04-23|SANTI|Sant'Adalberto, S. Giorgio martire|NO|-
+2026-04-24|SANTI|S. Fedele da Sigmaringa|NO|-
+2026-04-25|SANTI_E_FESTIVITA_CIVILE|S. Marco Evang. / Festa della Liberazione|NO|-
+2026-04-26|SANTI|Ss. Cleto e Marcellino|NO|-
+2026-04-27|SANTI|Ss. Ida e Zita|NO|-
+2026-04-28|SANTI|Santa Valeria|NO|-
+2026-04-29|SANTI|Santa Caterina da Siena|NO|-
+2026-04-30|SANTI|S. Pio V Papa|NO|-
+2026-05-01|SANTI_E_FESTIVITA_CIVILE|S. Giuseppe artigiano / Festa dei Lavoratori|NO|-
+2026-05-02|SANTI|Sant'Atanasio|NO|-
+2026-05-03|SANTI|Ss. Filippo e Giacomo apostoli|NO|-
+2026-05-04|SANTI|S. Silvano|NO|-
+2026-05-05|SANTI|S. Gottardo, S. Pio V|NO|-
+2026-05-06|SANTI|Santa Giuditta|NO|-
+2026-05-07|SANTI|Santa Flavia|NO|-
+2026-05-08|SANTI|S. Vittore|NO|-
+2026-05-09|SANTI|S. Gregorio|NO|-
+2026-05-10|SANTI|Sant'Antonino|NO|-
+2026-05-11|SANTI|S. Fabio martire|NO|-
+2026-05-12|SANTI|Ss. Nereo e Achilleo|NO|-
+2026-05-13|RICORRENZA_RELIGIOSA|Beata Vergine Maria di Fatima|NO|-
+2026-05-14|SANTI|S. Mattia apostolo|NO|-
+2026-05-15|SANTI|S. Torquato|NO|-
+2026-05-16|SANTI|Sant'Ubaldo|NO|-
+2026-05-17|RICORRENZA_RELIGIOSA|Ascensione del Signore|SI|-
+2026-05-18|SANTI|S. Giovanni I Papa|NO|-
+2026-05-19|SANTI|S. Celestino V Papa|NO|-
+2026-05-20|SANTI|S. Bernardino da Siena|NO|-
+2026-05-21|SANTI|S. Vittorio martire|NO|-
+2026-05-22|SANTI|Santa Rita da Cascia|NO|-
+2026-05-23|SANTI|S. Desiderio, S. Giorgio|NO|-
+2026-05-24|RICORRENZA_RELIGIOSA|Pentecoste|SI|-
+2026-05-25|SANTI|S. Gregorio VII Papa|NO|-
+2026-05-26|SANTI|S. Filippo Neri|NO|-
+2026-05-27|SANTI|Sant'Agostino|NO|-
+2026-05-28|SANTI|Sant'Emilio martire|NO|-
+2026-05-29|SANTI|S. Massimino vescovo|NO|-
+2026-05-30|SANTI|Santa Giovanna d'Arco|NO|-
+2026-05-31|RICORRENZA_RELIGIOSA|Visitazione Beata Vergine Maria|NO|-
+2026-06-01|SANTI|S. Giustino|NO|-
+2026-06-02|SANTI_E_FESTIVITA_CIVILE|Ss. Marcellino / Festa della Repubblica|NO|-
+2026-06-03|SANTI|S. Carlo Lwanga e compagni|NO|-
+2026-06-04|SANTI|S. Quirino vescovo|NO|-
+2026-06-05|SANTI|S. Bonifacio vescovo|NO|-
+2026-06-06|SANTI|S. Norberto|NO|-
+2026-06-07|RICORRENZA_RELIGIOSA|SS. Corpo e Sangue di Cristo - Corpus Domini|SI|-
+2026-06-08|SANTI|S. Medardo vescovo|NO|-
+2026-06-09|SANTI|Sant'Efrem Siro, Ss. Primo e Feliciano|NO|-
+2026-06-10|SANTI|S. Diana, S. Zaccaria|NO|-
+2026-06-11|SANTI|S. Barnaba apostolo|NO|-
+2026-06-12|RICORRENZA_RELIGIOSA|Sacro Cuore di Gesù|SI|-
+2026-06-13|RICORRENZA_RELIGIOSA|Cuore Immacolato di Maria|SI|-
+2026-06-14|SANTI|Sant'Eliseo|NO|-
+2026-06-15|SANTI|S. Germana|NO|-
+2026-06-16|SANTI|Sant'Aureliano|NO|-
+2026-06-17|SANTI|S. Ranieri, S. Gregorio Barbarigo|NO|-
+2026-06-18|SANTI|Santa Marina|NO|-
+2026-06-19|SANTI|Ss. Gervasio e Protasio, S. Romualdo|NO|-
+2026-06-20|SANTI|Sant'Ettore, S. Silverio Papa|NO|-
+2026-06-21|SANTI|S. Luigi Gonzaga|NO|-
+2026-06-22|SANTI|S. Paolino da Nola|NO|-
+2026-06-23|SANTI|S. Lanfranco vescovo|NO|-
+2026-06-24|RICORRENZA_RELIGIOSA|Natività di S. Giovanni Battista|NO|-
+2026-06-25|SANTI|S. Guglielmo|NO|-
+2026-06-26|SANTI|Ss. Giovanni e Paolo martiri, S. Rodolfo|NO|-
+2026-06-27|SANTI|S. Cirillo d'Alessandria vescovo|NO|-
+2026-06-28|SANTI|S. Attilio confessore, S. Ireneo|NO|-
+2026-06-29|SANTI|Ss. Pietro e Paolo|NO|-
+2026-06-30|SANTI|Ss. Primi Martiri|NO|-
+2026-07-01|SANTI|S. Teobaldo, Sant'Aronne|NO|-
+2026-07-02|SANTI|Sant'Ottone, S. Urbano|NO|-
+2026-07-03|SANTI|S. Tommaso apostolo|NO|-
+2026-07-04|SANTI|Santa Elisabetta regina|NO|-
+2026-07-05|SANTI|Sant'Antonio Maria Zaccaria|NO|-
+2026-07-06|SANTI|Santa Maria Goretti|NO|-
+2026-07-07|SANTI|S. Claudio, S. Edda|NO|-
+2026-07-08|SANTI|Sant'Adriano III|NO|-
+2026-07-09|SANTI|S. Fabrizio, Santa Veronica Giuliani|NO|-
+2026-07-10|SANTI|Santa Felicita, Santa Vittoria|NO|-
+2026-07-11|SANTI|S. Benedetto da Norcia|NO|-
+2026-07-12|SANTI|S. Felice e Nabore martiri|NO|-
+2026-07-13|SANTI|Sant'Enrico imperatore|NO|-
+2026-07-14|SANTI|S. Camillo De Lellis|NO|-
+2026-07-15|SANTI|S. Bonaventura|NO|-
+2026-07-16|RICORRENZA_RELIGIOSA|Beata Vergine del Carmine|NO|-
+2026-07-17|SANTI|Sant'Alessio confessore|NO|-
+2026-07-18|SANTI|S. Federico|NO|-
+2026-07-19|SANTI|Santa Giusta|NO|-
+2026-07-20|SANTI|Sant'Elia profeta, Sant'Apollinare|NO|-
+2026-07-21|SANTI|S. Lorenzo da Brindisi|NO|-
+2026-07-22|SANTI|Santa Maria Maddalena|NO|-
+2026-07-23|SANTI|Santa Brigida|NO|-
+2026-07-24|SANTI|Santa Cristina|NO|-
+2026-07-25|SANTI|S. Giacomo apostolo|NO|-
+2026-07-26|SANTI|Ss. Anna e Gioacchino|NO|-
+2026-07-27|SANTI|Santa Liliana|NO|-
+2026-07-28|SANTI|Ss. Nazario e Celso martiri|NO|-
+2026-07-29|SANTI|Santa Marta|NO|-
+2026-07-30|SANTI|S. Pietro Crisologo vescovo|NO|-
+2026-07-31|SANTI|Sant'Ignazio di Loyola|NO|-
+2026-08-01|SANTI|Sant'Alfonso M. de' Liguori|NO|-
+2026-08-02|SANTI|Sant'Eusebio|NO|-
+2026-08-03|SANTI|Santa Lidia|NO|-
+2026-08-04|SANTI|S. Domenico di Gusman|NO|A1
+2026-08-05|SANTI|S. Giovanni Maria Vianney|NO|A1
+2026-08-06|RICORRENZA_RELIGIOSA|Trasfigurazione del Signore|NO|-
+2026-08-07|SANTI|S. Gaetano da Thiene|NO|-
+2026-08-08|SANTI|S. Domenico|NO|-
+2026-08-09|SANTI|S. Romano|NO|-
+2026-08-10|SANTI|S. Lorenzo martire|NO|-
+2026-08-11|SANTI|Santa Chiara d'Assisi|NO|-
+2026-08-12|SANTI|Sant'Ercolano|NO|-
+2026-08-13|SANTI|Ss. Ippolito e Cassiano martiri|NO|-
+2026-08-14|SANTI|Sant'Alfredo, S. Massimiliano Kolbe|NO|-
+2026-08-15|RICORRENZA_RELIGIOSA|Assunzione di Maria Vergine|NO|-
+2026-08-16|SANTI|S. Stefano d'Ungheria|NO|-
+2026-08-17|SANTI|S. Giacinto|NO|-
+2026-08-18|SANTI|Santa Elena imperatrice|NO|-
+2026-08-19|SANTI|S. Giovanni Eudes, S. Ludovico|NO|-
+2026-08-20|SANTI|S. Bernardo|NO|-
+2026-08-21|SANTI|S. Pio X Papa|NO|-
+2026-08-22|RICORRENZA_RELIGIOSA|Beata Vergine Maria Regina|NO|-
+2026-08-23|SANTI|S. Rosa da Lima|NO|-
+2026-08-24|SANTI|S. Bartolomeo apostolo|NO|-
+2026-08-25|SANTI|S. Lodovico re|NO|-
+2026-08-26|SANTI|Sant'Alessandro martire|NO|-
+2026-08-27|SANTI|Santa Monica|NO|-
+2026-08-28|SANTI|Sant'Agostino|NO|-
+2026-08-29|RICORRENZA_RELIGIOSA|Martirio di S. Giovanni Battista|NO|-
+2026-08-30|SANTI|Santa Faustina|NO|-
+2026-08-31|SANTI|Sant'Aristide|NO|-
+2026-09-01|SANTI|Sant'Egidio|NO|-
+2026-09-02|SANTI|Sant'Elpidio vescovo|NO|-
+2026-09-03|SANTI|S. Gregorio martire|NO|-
+2026-09-04|SANTI|Santa Rosalia|NO|-
+2026-09-05|SANTI|S. Vittorino|NO|-
+2026-09-06|SANTI|Sant'Umberto|NO|-
+2026-09-07|SANTI|Santa Regina|NO|-
+2026-09-08|RICORRENZA_RELIGIOSA|Natività della Beata V. Maria|NO|-
+2026-09-09|SANTI|S. Sergio Papa|NO|-
+2026-09-10|SANTI|S. Nicola da Tolentino|NO|-
+2026-09-11|SANTI|Ss. Proto e Giacinto martiri|NO|-
+2026-09-12|RICORRENZA_RELIGIOSA|SS.mo Nome di Maria|NO|-
+2026-09-13|SANTI|S. Giovanni Cristoforo|NO|A2
+2026-09-14|RICORRENZA_RELIGIOSA|Esaltazione della S. Croce|NO|-
+2026-09-15|RICORRENZA_RELIGIOSA|Beata V. Maria Addolorata|NO|-
+2026-09-16|SANTI|Ss. Cornelio e Cipriano|NO|-
+2026-09-17|SANTI|S. Roberto Bellarmino|NO|-
+2026-09-18|SANTI|Santa Sofia martire|NO|-
+2026-09-19|SANTI|S. Gennaro vescovo|NO|-
+2026-09-20|SANTI|Sant'Eustachio|NO|-
+2026-09-21|SANTI|S. Matteo Apostolo ed evangelista|NO|-
+2026-09-22|SANTI|S. Maurizio martire|NO|-
+2026-09-23|SANTI|S. Pio da Petralcina|NO|A3
+2026-09-24|SANTI|S. Pacifico prete|NO|-
+2026-09-25|SANTI|Santa Aurelia|NO|-
+2026-09-26|SANTI|Ss. Cosma e Damiano|NO|-
+2026-09-27|SANTI|S. Vincenzo de' Paoli|NO|-
+2026-09-28|SANTI|S. Venceslao martire|NO|-
+2026-09-29|SANTI|Ss. Michele, Gabriele, Raffaele arcangeli|NO|-
+2026-09-30|SANTI|S. Girolamo|NO|-
+2026-10-01|SANTI|Santa Teresa di Gesù Bambino|NO|-
+2026-10-02|RICORRENZA_RELIGIOSA|SS. Angeli Custodi|NO|-
+2026-10-03|SANTI|S. Gerardo abate, S. Alfonso|NO|-
+2026-10-04|SANTI|S. Francesco d'Assisi|NO|-
+2026-10-05|SANTI|S. Placido martire|NO|-
+2026-10-06|SANTI|S. Bruno di Calabria abate|NO|-
+2026-10-07|RICORRENZA_RELIGIOSA|Beata Vergine Maria del Rosario|NO|-
+2026-10-08|SANTI|S. Pelagia, S. Reparata|NO|-
+2026-10-09|SANTI|S. Dionigi|NO|-
+2026-10-10|SANTI|S. Daniele vescovo|NO|-
+2026-10-11|SANTI_E_RICORRENZA_RELIGIOSA|Maternità di Maria, S. Firmino|NO|-
+2026-10-12|SANTI|S. Serafino|NO|-
+2026-10-13|SANTI|Sant'Edoardo re|NO|-
+2026-10-14|SANTI|S. Callisto I Papa|NO|-
+2026-10-15|SANTI|Santa Teresa d'Avila|NO|-
+2026-10-16|SANTI|Santa Edvige|NO|-
+2026-10-17|SANTI|Sant'Ignazio d'Antiochia|NO|-
+2026-10-18|SANTI|S. Luca evangelista|NO|-
+2026-10-19|SANTI|S. Isacco martire|NO|-
+2026-10-20|SANTI|Sant'Irene|NO|-
+2026-10-21|SANTI|Sant'Orsola e compagne|NO|-
+2026-10-22|SANTI|S. Donato, Santa Maria Salomè|NO|-
+2026-10-23|SANTI|S. Giovanni da Capestrano|NO|-
+2026-10-24|SANTI|S. Antonio Maria Claret vescovo|NO|-
+2026-10-25|RICORRENZA_RELIGIOSA|N.S. Gesù Re dell'Universo|SI|A4
+2026-10-26|SANTI|Sant'Evaristo Papa|NO|-
+2026-10-27|SANTI|S. Fiorenzo|NO|-
+2026-10-28|SANTI|SS. Simone e Giuda|NO|-
+2026-10-29|SANTI|S. Ermelinda|NO|-
+2026-10-30|SANTI|S. Germano vescovo|NO|-
+2026-10-31|SANTI|Santa Lucilla|NO|-
+2026-11-01|RICORRENZA_RELIGIOSA|Tutti i santi|NO|-
+2026-11-02|RICORRENZA_RELIGIOSA|Commemorazione dei defunti|NO|-
+2026-11-03|SANTI|Santa Silvia|NO|-
+2026-11-04|SANTI|S. Carlo Borromeo|NO|-
+2026-11-05|SANTI|S. Zaccaria profeta|NO|-
+2026-11-06|SANTI|S. Leonardo|NO|-
+2026-11-07|SANTI|Sant'Ernesto|NO|-
+2026-11-08|SANTI|S. Goffredo vescovo|NO|-
+2026-11-09|SANTI|Sant'Oreste|NO|-
+2026-11-10|SANTI|S. Leone Magno|NO|-
+2026-11-11|SANTI|S. Martino|NO|-
+2026-11-12|SANTI|S. Renato|NO|-
+2026-11-13|SANTI|S. Diego confessore|NO|-
+2026-11-14|SANTI|S. Giocondo vescovo|NO|-
+2026-11-15|SANTI|S. Alberto Magno|NO|-
+2026-11-16|SANTI|S. Margherita di Scozia|NO|-
+2026-11-17|SANTI|Santa Elisabetta di Ungheria|NO|-
+2026-11-18|SANTI|Sant'Oddone|NO|-
+2026-11-19|SANTI|S. Fausto|NO|-
+2026-11-20|SANTI|S. Felice di Valois, Sant'Ottavio|NO|-
+2026-11-21|RICORRENZA_RELIGIOSA|Presentazione di Maria Vergine|NO|-
+2026-11-22|SANTI|Santa Cecilia|NO|A4
+2026-11-23|SANTI|S. Clemente I Papa|NO|-
+2026-11-24|SANTI|S. Giovanni della Croce|NO|-
+2026-11-25|SANTI|Santa Caterina di Alessandria|NO|-
+2026-11-26|SANTI|S. Corrado vescovo, S. Delfina|NO|-
+2026-11-27|SANTI|S. Virgilio|NO|-
+2026-11-28|SANTI|Santa Livia, S. Demetrio|NO|-
+2026-11-29|RICORRENZA_RELIGIOSA|I Domenica di Avvento|SI|-
+2026-11-30|SANTI|Sant'Andrea apostolo|NO|-
+2026-12-01|SANTI|S. Eligio|NO|-
+2026-12-02|SANTI|Santa Bibiana|NO|-
+2026-12-03|SANTI|S. Francesco Saverio|NO|-
+2026-12-04|SANTI|Santa Barbara|NO|-
+2026-12-05|SANTI|S. Dalmazio|NO|-
+2026-12-06|RICORRENZA_RELIGIOSA|II Domenica di Avvento|SI|-
+2026-12-07|SANTI|Sant'Ambrogio vescovo|NO|-
+2026-12-08|RICORRENZA_RELIGIOSA|Immacolata Concezione|NO|-
+2026-12-09|SANTI|S. Siro|NO|-
+2026-12-10|RICORRENZA_RELIGIOSA|Nostra Signora di Loreto|NO|-
+2026-12-11|SANTI|S. Damaso I Papa|NO|-
+2026-12-12|SANTI|Santa Giovanna|NO|-
+2026-12-13|RICORRENZA_RELIGIOSA|III Domenica di Avvento|SI|-
+2026-12-14|SANTI|S. Giovanni della Croce|NO|-
+2026-12-15|SANTI|S. Valeriano|NO|-
+2026-12-16|SANTI|Santa Adelaide|NO|-
+2026-12-17|SANTI|S. Lazzaro|NO|-
+2026-12-18|SANTI|S. Graziano vescovo|NO|-
+2026-12-19|SANTI|S. Dario, Santa Fausta|NO|-
+2026-12-20|RICORRENZA_RELIGIOSA|IV Domenica di Avvento|SI|-
+2026-12-21|SANTI|S. Pietro Canisio|NO|-
+2026-12-22|SANTI|S. Flaviano|NO|-
+2026-12-23|SANTI|S. Giovanni di Kenty|NO|-
+2026-12-24|SANTI|Santa Irma|NO|-
+2026-12-25|RICORRENZA_RELIGIOSA|Natale del Signore|NO|-
+2026-12-26|SANTI_E_RICORRENZA_RELIGIOSA|S. Stefano - Sacra Famiglia|SI|A5
+2026-12-27|SANTI|S. Giovanni Evangelista|NO|A5
+2026-12-28|SANTI|Ss. Innocenti martiri|NO|-
+2026-12-29|SANTI|S. Tommaso Becket|NO|-
+2026-12-30|SANTI|Sant'Eugenio vescovo|NO|-
+2026-12-31|SANTI|S. Silvestro Papa|NO|-
+FINE DATI

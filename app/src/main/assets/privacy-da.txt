@@ -1,0 +1,45 @@
+Ricorda
+
+Privatlivspolitik
+Senest opdateret: 10. oktober 2026 · Android-appen Ricorda
+Pakke: com.fabio.ricorda
+
+Dine påmindelser bliver på din enhed.
+Ricorda fungerer uden en konto og sender ikke påmindelser, noter eller brugsdata til udvikleren. Appen indeholder hverken reklamer eller analyse- og sporingsværktøjer.
+
+1. Udvikler og kontakt
+Ricorda er udviklet af Fabio Avitabile. Ved spørgsmål om privatliv, support og andre henvendelser kan du skrive til fabiocorby@gmail.com. Fabio Avitabile er ansvarlig for den behandling, som er beskrevet her og udføres af udvikleren, såsom håndtering af supporthenvendelser.
+
+2. Data, som appen bruger
+Ricorda gemmer de data, du indtaster, i appens private lager: titler og noter til påmindelser, datoer, tidspunkter, gentagelser og andre påmindelsesvalg. Den gemmer også valg af sprog, udseende, skrifttype, lyde, lydstyrke, vibration, notifikationer og, når tilgængeligt, dagens helgen. Lokale identifikatorer bruges til at skelne påmindelser fra hinanden og håndtere notifikationer.
+Dataene bruges til at vise og søge i dine aftaler, planlægge notifikationer og alarmer, vise widgets og huske dine valg. Kalender- og helgenfunktionerne bruger data, som er inkluderet i appen. Ricorda læser ikke kontaktlisten eller systemkalenderen og indsamler ikke placering, fotos, lydoptagelser eller reklameidentifikatorer.
+
+3. Links og deling
+Appen har ikke tilladelse til internetadgang og sender ikke automatisk sine data til udviklerens servere eller til reklame- og analysetjenester. Den tilbyder hverken en konto eller onlinesynkronisering.
+Når du åbner linket til denne politik, håndteres det af enhedens browser. Eventuel e-mail sendes gennem den mailapp, du vælger. Disse apps og deres leverandører følger deres egne privatlivspolitikker.
+
+4. Notifikationer, alarmer og Android-tilladelser
+Ricorda bruger Android-tilladelser til at vise notifikationer, planlægge præcise alarmer, vise alarmskærmen, når det er tilladt, samt afspille lyd og vibrere. Den kan kortvarigt holde enheden aktiv under en notifikation og planlægge notifikationer igen efter genstart.
+Du kan administrere tilladelserne i Android-indstillingerne. Hvis de slås fra, kan det begrænse notifikationerne. Titler og noter kan vises i notifikationer, på alarmskærmen og i widgets. Synligheden på låseskærmen afhænger også af telefonens indstillinger. Vælg indstillinger, der passer til dine påmindelsers fortrolighed.
+
+5. Eksport og import af sikkerhedskopier
+Kun på din anmodning eksporterer Ricorda en JSON-fil til den placering, du vælger med Androids filvælger. Sikkerhedskopien indeholder påmindelser, herunder dem i papirkurven, og deres indstillinger. Den indeholder også oplysninger om kopien, såsom oprettelsesdato og -tid, enhedens mærke og model samt en tilfældig installationsidentifikator, som bruges til at genkende dens oprindelse. Lydreferencer kan være inkluderet, men lydfiler kopieres ikke til sikkerhedskopien.
+Appen krypterer ikke sikkerhedskopien. Enhver, der kan læse den, kan få adgang til dens data. Hvis du vælger en cloudtjeneste, håndteres filen af denne udbyder efter dennes vilkår og privatlivspolitik. Ricorda sender den ikke til udvikleren. Import læser den fil, du vælger, for at gendanne eller flette påmindelser.
+
+6. Opbevaring, sletning og sikkerhed
+Dataene forbliver i appens private lager, så længe du bruger den, eller indtil du sletter dem via Android. En påmindelse, der flyttes til papirkurven, bevares, så den kan gendannes. Det er ikke en permanent sletning.
+For at slette alle lokale Ricorda-data skal du bruge funktionen til at rydde appens data i Android-indstillingerne eller afinstallere appen. Eksporterede sikkerhedskopier bliver på de valgte placeringer og skal slettes særskilt, også fra eventuelle cloudtjenester.
+Ricorda bruger Androids isolation af appens private lager og deaktiverer automatisk sikkerhedskopiering af appen. Den tilføjer ikke sin egen kryptering af data eller eksporterede filer. Beskyttelsen afhænger også af skærmlåsen, enhedens sikkerhed og opbevaringen af sikkerhedskopier. Udvikleren kan ikke tilgå dine lokale påmindelser eller gendanne eller slette dem på afstand.
+
+7. Supporthenvendelser og rettigheder
+Hvis du skriver til den angivne kontakt, deler du frivilligt din e-mailadresse og indholdet af beskeden. Disse data bruges til at svare dig og håndtere henvendelsen, på baggrund af behovet for at yde den ønskede support og, hvor relevant, opfylde retlige forpligtelser. De opbevares, så længe det er nødvendigt for henvendelsen og eventuelle gældende forpligtelser. Undgå at sende påmindelser eller sikkerhedskopier med oplysninger, som ikke er nødvendige for supporten.
+For data, som udvikleren eventuelt har modtaget, kan du anmode om indsigt, berigtigelse, sletning, begrænsning, gøre indsigelse og anmode om dataportabilitet i de tilfælde, hvor gældende lovgivning giver mulighed for det, ved at skrive til fabiocorby@gmail.com. Du kan også kontakte den kompetente tilsynsmyndighed, i Italien Garante per la protezione dei dati personali. For data, der kun findes på telefonen, skal du bruge appens og Androids funktioner beskrevet ovenfor.
+
+8. Denne webside
+Denne side indeholder ingen reklamer, dataindsamlingsformularer eller analyseværktøjer tilføjet af udvikleren. Den hostes via Sites. Hostingudbyderen kan behandle tekniske besøgsdata såsom IP-adresse, browseroplysninger og adgangslogfiler for at levere og beskytte tjenesten i henhold til sin egen privatlivspolitik: https://openai.com/policies/privacy-policy/
+Besøg på siden overfører ikke påmindelserne gemt i appen.
+
+9. Opdateringer af politikken
+Denne politik vedrører de beskrevne funktioner i Ricorda. Eventuelle ændringer i databehandlingen vil fremgå af denne side med en opdateret dato øverst.
+
+Ricorda · Fabio Avitabile · fabiocorby@gmail.com

@@ -1,0 +1,46 @@
+Ricorda
+
+Dasar privasi
+Kemas kini terakhir: 10 Oktober 2026 · Aplikasi Android Ricorda
+Pakej: com.fabio.ricorda
+
+Peringatan anda kekal pada peranti anda.
+Ricorda berfungsi tanpa akaun dan tidak menghantar peringatan, nota atau data penggunaan kepada pembangun. Aplikasi tidak mengandungi iklan, alat analisis atau penjejakan.
+
+1. Pembangun dan maklumat hubungan
+Ricorda dibangunkan oleh Fabio Avitabile. Untuk pertanyaan privasi, bantuan atau urusan lain, hubungi fabiocorby@gmail.com. Fabio Avitabile ialah pihak yang bertanggungjawab bagi pemprosesan yang dinyatakan dalam dasar ini yang dijalankan oleh pembangun, seperti mengurus permintaan bantuan.
+
+2. Data yang digunakan aplikasi
+Ricorda menyimpan data yang anda masukkan dalam storan peribadi aplikasi: tajuk dan nota peringatan, tarikh, masa, ulangan dan pilihan peringatan lain. Ia juga menyimpan pilihan bahasa, rupa, fon, bunyi, kelantangan, getaran, pemberitahuan dan, jika tersedia, santo hari ini. Pengecam setempat digunakan untuk membezakan peringatan dan mengurus makluman.
+Data ini digunakan untuk memaparkan dan mencari urusan anda, menjadualkan pemberitahuan dan penggera, memaparkan widget serta mengingati pilihan anda. Kalendar dan ciri santo menggunakan data yang disertakan dalam aplikasi. Ricorda tidak membaca kenalan atau kalendar sistem dan tidak memperoleh lokasi, foto, rakaman audio atau pengecam pengiklanan.
+
+3. Pautan dan perkongsian
+Aplikasi tidak mempunyai kebenaran akses Internet dan tidak menghantar datanya secara automatik ke pelayan pembangun atau perkhidmatan pengiklanan dan analisis. Ia tidak menawarkan akaun atau penyegerakan dalam talian.
+Apabila pautan dasar ini dibuka, pautan dikendalikan oleh pelayar peranti. Jika anda menghantar e-mel, aplikasi e-mel pilihan anda mengendalikannya. Aplikasi tersebut dan pembekalnya tertakluk pada dasar privasi masing-masing.
+
+4. Pemberitahuan, penggera dan kebenaran Android
+Ricorda menggunakan kebenaran Android untuk memaparkan pemberitahuan, menjadualkan penggera tepat, memaparkan skrin penggera apabila dibenarkan, memainkan bunyi dan bergetar. Ia boleh memastikan peranti kekal aktif buat sementara semasa makluman dan menjadualkan semula makluman selepas peranti dimulakan semula.
+Anda boleh mengurus kebenaran melalui tetapan Android; menyahaktifkannya mungkin mengehadkan makluman. Tajuk dan nota boleh muncul dalam pemberitahuan, skrin penggera dan widget. Paparan pada skrin terkunci juga bergantung pada tetapan telefon: pilih tetapan yang sesuai dengan kerahsiaan peringatan anda.
+
+5. Mengeksport dan mengimport sandaran
+Hanya atas permintaan anda, Ricorda mengeksport fail JSON ke lokasi yang dipilih melalui pemilih fail Android. Sandaran mengandungi peringatan, termasuk yang dalam tong sampah, serta pilihannya. Ia juga mengandungi maklumat sandaran seperti tarikh dan masa penciptaan, jenama dan model peranti serta pengecam pemasangan rawak untuk mengenali asalnya. Rujukan bunyi boleh disertakan, tetapi fail audio tidak disalin ke dalam sandaran.
+Fail sandaran tidak disulitkan oleh aplikasi. Sesiapa yang boleh membacanya boleh mengakses kandungannya. Jika memilih perkhidmatan awan, pembekal tersebut mengurus fail mengikut syarat dan dasar privasinya; Ricorda tidak menghantarnya kepada pembangun. Import membaca fail yang anda pilih untuk memulihkan atau menggabungkan peringatan.
+
+6. Penyimpanan, pemadaman dan keselamatan
+Data kekal dalam storan peribadi aplikasi selagi anda menggunakannya atau sehingga anda memadamkannya melalui Android. Mengalihkan peringatan ke tong sampah mengekalkannya untuk pemulihan; ini bukan pemadaman kekal.
+Untuk memadamkan semua data setempat Ricorda, gunakan fungsi pemadaman data aplikasi dalam tetapan Android atau nyahpasang aplikasi. Sandaran yang dieksport kekal di lokasi pilihan anda dan mesti dipadamkan secara berasingan, termasuk daripada perkhidmatan awan.
+Ricorda menggunakan pengasingan storan peribadi yang disediakan Android dan menyahaktifkan sandaran automatik aplikasi. Ia tidak menambah penyulitan sendiri pada data atau fail yang dieksport. Perlindungan juga bergantung pada kunci skrin, keselamatan peranti dan cara sandaran disimpan. Pembangun tidak boleh mengakses peringatan setempat anda, memulihkannya atau memadamkannya dari jauh.
+
+7. Permintaan bantuan dan hak
+Jika menulis kepada alamat yang dinyatakan, anda berkongsi alamat e-mel dan kandungan mesej secara sukarela. Data ini digunakan untuk menjawab dan mengurus permintaan anda, berdasarkan keperluan memberikan bantuan yang diminta dan, jika berkenaan, memenuhi kewajipan undang-undang. Data disimpan selama diperlukan untuk mengurus permintaan dan kewajipan berkaitan. Elakkan menghantar peringatan atau sandaran yang mengandungi maklumat tidak diperlukan untuk bantuan.
+Bagi data yang mungkin diterima pembangun, anda boleh meminta akses, pembetulan, pemadaman, sekatan, bantahan dan pemindahan data dalam keadaan yang diperuntukkan undang-undang berkenaan dengan menghubungi fabiocorby@gmail.com. Anda juga boleh menghubungi pihak berkuasa penyeliaan yang berkenaan, iaitu Garante per la protezione dei dati personali di Itali. Bagi data yang hanya berada pada telefon, gunakan fungsi aplikasi dan Android yang diterangkan di atas.
+
+8. Halaman web ini
+Halaman ini tidak mengandungi iklan, borang pengumpulan data atau alat analisis yang ditambah pembangun. Ia dihoskan melalui Sites. Pembekal pengehosan boleh memproses data teknikal lawatan, seperti alamat IP, maklumat pelayar dan log akses, untuk menyediakan dan melindungi perkhidmatan mengikut dasar privasinya. Lawatan ke halaman ini tidak menghantar peringatan yang disimpan dalam aplikasi.
+
+Dasar privasi pembekal pengehosan: https://openai.com/policies/privacy-policy/
+
+9. Kemas kini dasar
+Dasar ini meliputi fungsi Ricorda yang diterangkan. Sebarang perubahan pada pemprosesan data akan dinyatakan di halaman ini dengan mengemas kini tarikh di atas.
+
+Ricorda · Fabio Avitabile · fabiocorby@gmail.com

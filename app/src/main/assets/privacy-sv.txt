@@ -1,0 +1,45 @@
+Ricorda
+
+Integritetspolicy
+Senast uppdaterad: 10 oktober 2026 · Android-appen Ricorda
+Paket: com.fabio.ricorda
+
+Dina påminnelser stannar på din enhet.
+Ricorda fungerar utan konto och skickar inte påminnelser, anteckningar eller användningsdata till utvecklaren. Appen innehåller varken reklam eller verktyg för analys eller spårning.
+
+1. Utvecklare och kontakt
+Ricorda utvecklas av Fabio Avitabile. För integritetsfrågor, support och andra ärenden kan du skriva till fabiocorby@gmail.com. Fabio Avitabile ansvarar för den behandling som beskrivs här och utförs av utvecklaren, till exempel hantering av supportärenden.
+
+2. Uppgifter som appen använder
+Ricorda sparar det du anger i appens privata lagringsutrymme: påminnelsernas rubriker och anteckningar, datum, tider, upprepningar och andra alternativ. Även inställningar för språk, utseende, typsnitt, ljud, volym, vibration, aviseringar och, när det är tillgängligt, dagens helgon sparas. Lokala identifierare används för att skilja påminnelser åt och hantera aviseringar.
+Uppgifterna används för att visa och söka bland dina åtaganden, schemalägga aviseringar och alarm, visa widgetar och komma ihåg dina val. Kalender- och helgonfunktionerna använder uppgifter som ingår i appen. Ricorda läser inte kontakter eller systemkalendern och samlar inte in platsuppgifter, foton, ljudinspelningar eller reklamidentifierare.
+
+3. Länkar och delning
+Appen saknar behörighet att ansluta till internet och skickar inte automatiskt uppgifter till utvecklarens servrar eller till reklam- och analystjänster. Den erbjuder varken konto eller synkronisering online.
+När du öppnar länken till denna policy hanteras den av enhetens webbläsare. Om du skickar e-post sker det via den e-postapp du väljer. Dessa appar och deras leverantörer omfattas av sina egna integritetspolicyer.
+
+4. Aviseringar, alarm och Android-behörigheter
+Ricorda använder Android-behörigheter för att visa aviseringar, schemalägga exakta alarm, visa alarmskärmen när det är tillåtet samt spela upp ljud och vibrera. Appen kan tillfälligt hålla enheten aktiv under en avisering och schemalägga aviseringarna på nytt efter en omstart.
+Du kan hantera behörigheterna i Android-inställningarna. Om du stänger av dem kan aviseringarna begränsas. Rubriker och anteckningar kan visas i aviseringar, på alarmskärmen och i widgetar. Vad som syns på låsskärmen beror också på telefonens inställningar. Välj inställningar som passar hur privata dina påminnelser är.
+
+5. Export och import av säkerhetskopior
+Endast på din begäran exporterar Ricorda en JSON-fil till den plats du väljer med Androids filväljare. Säkerhetskopian innehåller påminnelserna, även dem i papperskorgen, och deras alternativ. Den innehåller också information om säkerhetskopian, såsom datum och tid för skapandet, enhetens märke och modell samt en slumpmässig installationsidentifierare som används för att känna igen ursprunget. Ljudreferenser kan ingå, men ljudfiler kopieras inte till säkerhetskopian.
+Appen krypterar inte säkerhetskopian. Den som kan läsa filen kan komma åt uppgifterna i den. Om du väljer en molntjänst hanteras filen av den leverantören enligt dess villkor och integritetspolicy. Ricorda skickar den inte till utvecklaren. Vid import läses den fil du väljer för att återställa eller slå samman påminnelser.
+
+6. Lagringstid, radering och säkerhet
+Uppgifterna finns kvar i appens privata lagringsutrymme så länge du använder den eller tills du raderar dem via Android. En påminnelse som flyttas till papperskorgen behålls för att kunna återställas. Det är inte en permanent radering.
+För att radera alla lokala Ricorda-uppgifter använder du funktionen för att rensa appdata i Android-inställningarna eller avinstallerar appen. Exporterade säkerhetskopior finns kvar på de valda platserna och måste raderas separat, även från eventuella molntjänster.
+Ricorda använder Androids isolering av privat lagringsutrymme och stänger av automatisk säkerhetskopiering av appen. Den lägger inte till egen kryptering av uppgifter eller exporterade filer. Skyddet beror också på skärmlåset, enhetens säkerhet och hur du förvarar säkerhetskopiorna. Utvecklaren kan inte komma åt dina lokala påminnelser eller återställa eller radera dem på distans.
+
+7. Supportärenden och rättigheter
+Om du skriver till kontaktadressen delar du frivilligt din e-postadress och meddelandets innehåll. Uppgifterna används för att svara dig och hantera ärendet, utifrån behovet att ge den support du begär och, när det är tillämpligt, följa rättsliga skyldigheter. De sparas så länge det behövs för ärendet och eventuella tillämpliga skyldigheter. Undvik att skicka påminnelser eller säkerhetskopior med uppgifter som inte behövs för supporten.
+För uppgifter som utvecklaren eventuellt har tagit emot kan du begära tillgång, rättelse, radering, begränsning, invända mot behandling och begära dataportabilitet i de fall tillämplig lagstiftning medger det, genom att skriva till fabiocorby@gmail.com. Du kan även kontakta behörig tillsynsmyndighet, i Italien Garante per la protezione dei dati personali. För uppgifter som endast finns på telefonen använder du appens och Androids funktioner som beskrivs ovan.
+
+8. Den här webbsidan
+Sidan innehåller inte reklam, formulär för datainsamling eller analysverktyg som lagts till av utvecklaren. Den tillhandahålls via Sites. Webbhotellsleverantören kan behandla tekniska besöksuppgifter, såsom IP-adress, webbläsarinformation och åtkomstloggar, för att tillhandahålla och skydda tjänsten enligt sin egen integritetspolicy: https://openai.com/policies/privacy-policy/
+Ett besök på sidan överför inte påminnelserna som sparats i appen.
+
+9. Uppdateringar av policyn
+Denna policy gäller de beskrivna funktionerna i Ricorda. Ändringar i behandlingen av uppgifter kommer att anges på denna sida, med ett uppdaterat datum högst upp.
+
+Ricorda · Fabio Avitabile · fabiocorby@gmail.com
